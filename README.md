@@ -7,6 +7,7 @@ This code was used in the experiments of the research paper
 
 To cite the paper/code, please use this BibTex:
 
+```
 @inproceedings{amplayo2016,
 	Author = {Reinald Kim Amplayo and Min Song},
 	Booktitle = {COLING Workshop on Building and Evaluating Resources for Biomedical Text Mining},
@@ -14,3 +15,4 @@ To cite the paper/code, please use this BibTex:
 	Year = {2016},
 	Title = {Building Content-driven Entity Networks for Scarce Scientific Literature using Content Information},
 }
+```
