@@ -1,0 +1,1060 @@
+1	
+.	
+Jack	B-N
+CR	I-N
+","	
+Jr	B-N
+","	I-N
+Rydberg	I-N
+CH	I-N
+","	
+Krecke	B-N
+KN	I-N
+","	
+Trenerry	B-N
+MR	I-N
+","	
+Parisi	B-N
+JE	I-N
+","	
+Rydberg	B-N
+JN	I-N
+","	
+et	
+al	
+.	
+Mesial	
+temporal	
+sclerosis	
+:	
+diagnosis	
+with	
+fluid-attenuated	
+inversion-recovery	
+versus	
+spin-echo	
+MR	
+imaging	
+.	
+Radiology	
+1996	
+;	
+199	
+:	
+367	
+–	
+73	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Demaerel	B-N
+P	I-N
+","	
+Wilms	B-N
+G	I-N
+","	
+Robberecht	B-N
+W	I-N
+","	
+Johannik	B-N
+K	I-N
+","	
+Van	B-N
+Hecke	I-N
+P	I-N
+","	
+Carton	B-N
+H	I-N
+","	
+et	
+al	
+.	
+MRI	
+of	
+herpes	
+simplex	
+encephalitis	
+.	
+Neuroradiology	
+1992	
+;	
+34	
+:	
+490	
+–	
+3	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Küker	B-N
+W	I-N
+","	
+Nägele	B-N
+T	I-N
+","	
+Schmidt	B-N
+F	I-N
+","	
+Heckl	B-N
+S	I-N
+","	
+Herrlinger	B-N
+U	I-N
+.	
+Diffusion-weighted	
+MRI	
+in	
+herpes	
+simplex	
+encephalitis	
+:	
+a	
+report	
+of	
+three	
+cases	
+.	
+Neuroradiology	
+2004	
+;	
+46	
+:	
+122	
+–	
+5	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Barkovich	B-N
+AJ	I-N
+","	
+Lindan	B-N
+CE	I-N
+.	
+Congenital	
+cytomegalovirus	
+infection	
+of	
+the	
+brain	
+:	
+imaging	
+analysis	
+and	
+embryologic	
+considerations	
+.	
+AJNR	
+Am	
+J	
+Neuroradiol	
+1994	
+;	
+15	
+:	
+703	
+–	
+15	
+[	
+PubMed	
+]	
+	
+5	
+.	
+de	B-N
+Vries	I-N
+LS	I-N
+","	
+Gunardi	B-N
+H	I-N
+","	
+Barth	B-N
+PG	I-N
+","	
+Bok	B-N
+LA	I-N
+","	
+Verboon-Maciolek	B-N
+MA	I-N
+","	
+Groenendaal	B-N
+F	I-N
+.	
+The	
+spectrum	
+of	
+cranial	
+ultrasound	
+and	
+magnetic	
+resonance	
+imaging	
+abnormalities	
+in	
+congenital	
+cytomegalovirus	
+infection	
+.	
+Neuropediatrics	
+2004	
+;	
+35	
+:	
+113	
+–	
+19	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Østergaard	B-N
+JR	I-N
+","	
+Christensen	B-N
+T	I-N
+.	
+Aicardi	
+–	
+Goutières	
+syndrome	
+:	
+neuroradiological	
+findings	
+after	
+nine	
+years	
+of	
+follow-up	
+.	
+Eur	
+J	
+Paediatr	
+Neurol	
+2004	
+;	
+8	
+:	
+243	
+–	
+6	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Oppenheim	B-N
+C	I-N
+","	
+Dormont	B-N
+D	I-N
+","	
+Hasboun	B-N
+D	I-N
+","	
+Bazin	B-N
+B	I-N
+","	
+Samson	B-N
+S	I-N
+","	
+Lehéricy	B-N
+S	I-N
+","	
+et	
+al	
+.	
+Bilateral	
+mesial	
+temporal	
+sclerosis	
+:	
+MRI	
+with	
+high-resolution	
+fast	
+spin-echo	
+and	
+fluid-attenuated	
+inversion-recovery	
+sequences	
+.	
+Neuroradiology	
+1999	
+;	
+41	
+:	
+471	
+–	
+9	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Fazekas	B-N
+F	I-N
+","	
+Chawluk	B-N
+JB	I-N
+","	
+Alavi	B-N
+A	I-N
+","	
+Hurtig	B-N
+HI	I-N
+","	
+Zimmerman	B-N
+RA	I-N
+.	
+MR	
+signal	
+abnormalities	
+at	
+1	
+.	
+5	
+T	
+in	
+Alzheimer	
+'	
+s	
+dementia	
+and	
+normal	
+aging	
+.	
+AJR	
+Am	
+J	
+Roentgenol	
+1987	
+;	
+149	
+:	
+351	
+–	
+6	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Norfray	B-N
+JF	I-N
+","	
+Provenzale	B-N
+JM	I-N
+.	
+Alzheimer	
+'	
+s	
+disease	
+neuropathologic	
+findings	
+and	
+recent	
+advances	
+in	
+imaging	
+.	
+AJR	
+Am	
+J	
+Roentgenol	
+2004	
+;	
+182	
+:	
+3	
+–	
+13	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Oba	B-N
+H	I-N
+","	
+Tokumaru	B-N
+A	I-N
+.	
+Magnetic	
+resonance	
+imaging	
+for	
+frontotemporal	
+lobar	
+degeneration	
+.	
+[	
+In	
+Japanese	
+.	
+]	
+Brain	
+Nerve	
+2009	
+;	
+61	
+:	
+1269	
+–	
+73	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Di	B-N
+Costanzo	I-N
+A	I-N
+","	
+Di	B-N
+Salle	I-N
+F	I-N
+","	
+Santoro	B-N
+L	I-N
+","	
+Bonavita	B-N
+V	I-N
+","	
+Tedeschi	B-N
+G	I-N
+.	
+Brain	
+MRI	
+features	
+of	
+congenital-	
+and	
+adult-form	
+myotonic	
+dystrophy	
+type	
+1	
+:	
+case-control	
+study	
+.	
+Neuromuscul	
+Disord	
+2002	
+;	
+12	
+:	
+476	
+–	
+83	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Desclée	B-N
+P	I-N
+","	
+Rommel	B-N
+D	I-N
+","	
+Hernalsteen	B-N
+D	I-N
+","	
+Godfraind	B-N
+C	I-N
+","	
+de	B-N
+Coene	I-N
+B	I-N
+","	
+Cosnard	B-N
+G	I-N
+.	
+Gliomatosis	
+cerebri	
+","	
+imaging	
+findings	
+of	
+12	
+cases	
+.	
+J	
+Neuroradiol	
+2010	
+;	
+37	
+:	
+148	
+–	
+58	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Sproule	B-N
+DM	I-N
+","	
+Kaufmann	B-N
+P	I-N
+.	
+Mitochondrial	
+encephalopathy	
+","	
+lactic	
+acidosis	
+","	
+and	
+stroke	
+like	
+episodes	
+:	
+basic	
+concepts	
+","	
+clinical	
+phenotype	
+","	
+and	
+therapeutic	
+management	
+of	
+MELAS	
+syndrome	
+.	
+Ann	
+N	
+Y	
+Acad	
+Sci	
+2008	
+;	
+1142	
+:	
+133	
+–	
+58	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Kamada	B-N
+K	I-N
+","	
+Takeuchi	B-N
+F	I-N
+","	
+Houkin	B-N
+K	I-N
+","	
+Kitagawa	B-N
+M	I-N
+","	
+Kuriki	B-N
+S	I-N
+","	
+Ogata	B-N
+A	I-N
+","	
+et	
+al	
+.	
+Reversible	
+brain	
+dysfunction	
+in	
+MELAS	
+MEG	
+","	
+and	
+(	
+1	
+)	
+H	
+MRS	
+analysis	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+2001	
+;	
+70	
+:	
+675	
+–	
+8	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Bindu	B-N
+PS	I-N
+","	
+Sinha	B-N
+S	I-N
+","	
+Taly	B-N
+AB	I-N
+","	
+Christopher	B-N
+R	I-N
+","	
+Kovoor	B-N
+JM	I-N
+.	
+Cranial	
+MRI	
+in	
+acute	
+hyperammonemic	
+encephalopathy	
+.	
+Pediatr	
+Neurol	
+2009	
+;	
+41	
+:	
+139	
+–	
+42	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Babington	B-N
+JR	I-N
+","	
+Stahl	B-N
+JH	I-N
+","	
+Coy	B-N
+DL	I-N
+.	
+Reversible	
+cytotoxic	
+edema	
+in	
+a	
+cirrhotic	
+patient	
+following	
+TIPS	
+.	
+J	
+Neuroimaging	
+2009	
+;	
+19	
+:	
+391	
+–	
+3	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Kojic	B-N
+J	I-N
+","	
+Robertson	B-N
+PL	I-N
+","	
+Quint	B-N
+DJ	I-N
+","	
+Martin	B-N
+DM	I-N
+","	
+Pang	B-N
+Y	I-N
+","	
+Sundgren	B-N
+PC	I-N
+.	
+Brain	
+glutamine	
+by	
+MRS	
+in	
+a	
+patient	
+with	
+urea	
+cycle	
+disorder	
+and	
+coma	
+.	
+Pediatr	
+Neurol	
+2005	
+;	
+32	
+:	
+143	
+–	
+6	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Mikol	B-N
+J	I-N
+","	
+Vital	B-N
+C	I-N
+","	
+Wassef	B-N
+M	I-N
+","	
+Chappuis	B-N
+P	I-N
+","	
+Poupon	B-N
+J	I-N
+","	
+Lecharpentier	B-N
+M	I-N
+","	
+et	
+al	
+.	
+Extensive	
+cortico-subcortical	
+lesions	
+in	
+Wilson	
+'	
+s	
+disease	
+clinico-pathological	
+study	
+of	
+two	
+cases	
+.	
+Acta	
+Neuropathol	
+2005	
+;	
+110	
+:	
+451	
+–	
+8	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Gorospe	B-N
+JR	I-N
+","	
+Singhal	B-N
+BS	I-N
+","	
+Kainu	B-N
+T	I-N
+","	
+Wu	B-N
+F	I-N
+","	
+Stephan	B-N
+D	I-N
+","	
+Trent	B-N
+J	I-N
+","	
+et	
+al	
+.	
+Indian	
+Agarwal	
+megalencephalic	
+leukodystrophy	
+with	
+cysts	
+is	
+caused	
+by	
+a	
+common	
+MLC1	
+mutation	
+.	
+Neurology	
+2004	
+;	
+62	
+:	
+878	
+–	
+82	
+[	
+PubMed	
+]	
+	
+20	
+.	
+van	B-N
+derKnaap	I-N
+MS	I-N
+","	
+Scheper	B-N
+GC	I-N
+.	
+Megalencephalic	
+leukoencephalopathy	
+with	
+subcortical	
+cysts	
+.	
+Pagon	
+RA	
+","	
+Bird	
+TC	
+","	
+Dolan	
+CR	
+","	
+Stephens	
+K	
+","	
+editors	
+.	
+","	
+eds	
+.	
+GeneReviews	
+.	
+Seattle	
+","	
+WA	
+:	
+University	
+of	
+Washington	
+;	
+2003	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Eikermann-Haerter	B-N
+K	I-N
+","	
+Yuzawa	B-N
+I	I-N
+","	
+Dilekoz	B-N
+E	I-N
+","	
+Joutel	B-N
+A	I-N
+","	
+Moskowitz	B-N
+MA	I-N
+","	
+Ayata	B-N
+C	I-N
+.	
+Cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+syndrome	
+mutations	
+increase	
+susceptibility	
+to	
+spreading	
+depression	
+.	
+Ann	
+Neurol	
+2011	
+;	
+69	
+:	
+413	
+–	
+18	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Singhal	B-N
+S	I-N
+","	
+Rich	B-N
+P	I-N
+","	
+Markus	B-N
+HS	I-N
+.	
+The	
+spatial	
+distribution	
+of	
+MR	
+imaging	
+abnormalities	
+in	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+and	
+their	
+relationship	
+to	
+age	
+and	
+clinical	
+features	
+.	
+AJNR	
+Am	
+J	
+Neuroradiol	
+2005	
+;	
+26	
+:	
+2481	
+–	
+7	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Urbach	B-N
+H	I-N
+","	
+Soeder	B-N
+BM	I-N
+","	
+Jeub	B-N
+M	I-N
+","	
+Klockgether	B-N
+T	I-N
+","	
+Meyer	B-N
+B	I-N
+","	
+Bien	B-N
+CG	I-N
+.	
+Serial	
+MRI	
+of	
+limbic	
+encephalitis	
+.	
+Neuroradiology	
+2006	
+;	
+48	
+:	
+380	
+–	
+6	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Eloraby	B-N
+AM	I-N
+.	
+The	
+paraneoplastic	
+limbic	
+encephalitis	
+:	
+MRI	
+characterization	
+of	
+a	
+deceiving	
+neurological	
+disorder	
+.	
+J	
+Egypt	
+Natl	
+Canc	
+Inst	
+2008	
+;	
+20	
+:	
+403	
+–	
+9	
+[	
+PubMed	
+]	

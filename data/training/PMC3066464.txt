@@ -1,0 +1,1247 @@
+Carrera	B-N
+E	I-N
+.	I-N
+","	
+Bogousslavsky	B-N
+J	I-N
+.	I-N
+(	
+2006	
+)	
+.	
+The	
+thalamus	
+and	
+behavior	
+:	
+effects	
+of	
+anatomically	
+distinct	
+strokes	
+.	
+Neurology	
+66	
+","	
+1817	
+–	
+182310	
+.	
+1212	
+/	
+1	
+.	
+wnl	
+.	
+219679	
+.	
+95223	
+.	
+4c	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+Chaytor	B-N
+N	I-N
+.	I-N
+","	
+Schmitter-Edgecombe	B-N
+M	I-N
+.	I-N
+(	
+2007	
+)	
+.	
+Fractionation	
+of	
+the	
+dysexecutive	
+syndrome	
+in	
+a	
+heterogeneous	
+neurological	
+sample	
+:	
+comparing	
+the	
+Dysexecutive	
+Questionnaire	
+and	
+the	
+Brock	
+Adaptive	
+Functioning	
+Questionnaire	
+.	
+Brain	
+Inj	
+.	
+21	
+","	
+615	
+–	
+62110	
+.	
+1080	
+/	
+2.69905E+15	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+Cummings	B-N
+J	I-N
+.	I-N
+L	I-N
+.	I-N
+","	
+Mega	B-N
+M	I-N
+.	I-N
+","	
+Gray	B-N
+K	I-N
+.	I-N
+","	
+Rosenberg-Thompson	B-N
+S	I-N
+.	I-N
+","	
+Carusi	B-N
+D	I-N
+.	I-N
+A	I-N
+.	I-N
+","	
+Gornbein	B-N
+J	I-N
+.	I-N
+(	
+1994	
+)	
+.	
+The	
+Neuropsychiatric	
+Inventory	
+:	
+comprehensive	
+assessment	
+of	
+psychopathology	
+in	
+dementia	
+.	
+Neurology	
+44	
+","	
+2308	
+–	
+2314	
+[	
+PubMed	
+]	
+	
+Derouesne	B-N
+C	I-N
+.	I-N
+","	
+Dealberto	B-N
+M	I-N
+.	I-N
+","	
+Boyer	B-N
+P	I-N
+.	I-N
+(	
+1993	
+)	
+.	
+Empirical	
+evaluation	
+of	
+the	
+Cognitive	
+Difficulties	
+Scale	
+for	
+assessment	
+of	
+memory	
+complaints	
+in	
+general	
+practice	
+:	
+a	
+study	
+of	
+1628	
+cognitively	
+normal	
+subjects	
+aged	
+45	
+–	
+75	
+years	
+.	
+Int	
+.	
+J	
+.	
+Geriatr	
+.	
+Psychiatry	
+8	
+","	
+599	
+–	
+607	
+	
+Dichgans	B-N
+M	I-N
+.	I-N
+","	
+Markus	B-N
+H	I-N
+.	I-N
+S	I-N
+.	I-N
+","	
+Salloway	B-N
+S	I-N
+.	I-N
+","	
+Verkkoniemi	B-N
+A	I-N
+.	I-N
+","	
+Moline	B-N
+M	I-N
+.	I-N
+","	
+Wang	B-N
+Q	I-N
+.	I-N
+","	
+Posner	B-N
+H	I-N
+.	I-N
+","	
+Chabriat	B-N
+H	I-N
+.	I-N
+S	I-N
+.	I-N
+(	
+2008	
+)	
+.	
+Donepezil	
+in	
+patients	
+with	
+subcortical	
+vascular	
+cognitive	
+impairment	
+:	
+a	
+randomised	
+double-blind	
+trial	
+in	
+CADASIL	
+.	
+Lancet	
+Neurol	
+.	
+7	
+","	
+310	
+–	
+31810	
+.	
+1016	
+/	
+S1474-4422	
+(	
+8	
+)	
+70046-2	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+Dubois	B-N
+B	I-N
+.	I-N
+","	
+Slachevsky	B-N
+A	I-N
+.	I-N
+","	
+Litvan	B-N
+I	I-N
+.	I-N
+","	
+Pillon	B-N
+B	I-N
+.	I-N
+(	
+2000	
+)	
+.	
+The	
+FAB	
+:	
+a	
+frontal	
+assessment	
+battery	
+at	
+bedside	
+.	
+Neurology	
+55	
+","	
+1621	
+–	
+1626	
+[	
+PubMed	
+]	
+	
+Erkinjuntti	B-N
+T	I-N
+.	I-N
+","	
+Roman	B-N
+G	I-N
+.	I-N
+","	
+Gauthier	B-N
+S	I-N
+.	I-N
+(	
+2004	
+)	
+.	
+Treatment	
+of	
+vascular	
+dementia-evidence	
+from	
+clinical	
+trials	
+with	
+cholinesterase	
+inhibitors	
+.	
+Neurol	
+.	
+Res	
+.	
+26	
+","	
+603	
+–	
+605	
+[	
+PubMed	
+]	
+	
+Folstein	B-N
+M	I-N
+.	I-N
+F	I-N
+.	I-N
+","	
+Folstein	B-N
+S	I-N
+.	I-N
+E	I-N
+.	I-N
+","	
+McHugh	B-N
+P	I-N
+.	I-N
+R	I-N
+.	I-N
+(	
+1975	
+)	
+.	
+“	
+Mini-mental	
+state	
+”	
+.	
+A	
+practical	
+method	
+for	
+grading	
+the	
+cognitive	
+state	
+of	
+patients	
+for	
+the	
+clinician	
+.	
+J	
+.	
+Psychiatr	
+.	
+Res	
+.	
+12	
+","	
+189	
+–	
+198	
+[	
+PubMed	
+]	
+	
+Galasko	B-N
+D	I-N
+.	I-N
+","	
+Bennett	B-N
+D	I-N
+.	I-N
+","	
+Sano	B-N
+M	I-N
+.	I-N
+","	
+Ernesto	B-N
+C	I-N
+.	I-N
+","	
+Thomas	B-N
+R	I-N
+.	I-N
+","	
+Grundman	B-N
+M	I-N
+.	I-N
+","	
+Ferris	B-N
+S	I-N
+.	I-N
+(	
+1997	
+)	
+.	
+An	
+inventory	
+to	
+assess	
+activities	
+of	
+daily	
+living	
+for	
+clinical	
+trials	
+in	
+Alzheimer	
+’	
+s	
+disease	
+.	
+The	
+Alzheimer	
+’	
+s	
+Disease	
+Cooperative	
+Study	
+.	
+Alzheimer	
+Dis	
+.	
+Assoc	
+.	
+Disord	
+.	
+11	
+(	
+Suppl	
+.	
+2	
+)	
+","	
+S33	
+–	
+S39	
+[	
+PubMed	
+]	
+	
+Grober	B-N
+E	I-N
+.	I-N
+","	
+Hall	B-N
+C	I-N
+.	I-N
+B	I-N
+.	I-N
+","	
+Lipton	B-N
+R	I-N
+.	I-N
+B	I-N
+.	I-N
+","	
+Zonderman	B-N
+A	I-N
+.	I-N
+B	I-N
+.	I-N
+","	
+Resnick	B-N
+S	I-N
+.	I-N
+M	I-N
+.	I-N
+","	
+Kawas	B-N
+C	I-N
+.	I-N
+(	
+2008	
+)	
+.	
+Memory	
+impairment	
+","	
+executive	
+dysfunction	
+","	
+and	
+intellectual	
+decline	
+in	
+preclinical	
+Alzheimer	
+’	
+s	
+disease	
+.	
+J	
+.	
+Int	
+.	
+Neuropsychol	
+.	
+Soc	
+.	
+14	
+","	
+266	
+–	
+278	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Reynolds	B-N
+C	I-N
+.	I-N
+","	
+Butters	B-N
+M	I-N
+.	I-N
+","	
+Lopez	B-N
+O	I-N
+.	I-N
+","	
+Pollock	B-N
+B	I-N
+.	I-N
+","	
+Dew	B-N
+M	I-N
+.	I-N
+","	
+Mulsant	B-N
+B	I-N
+.	I-N
+","	
+Lenze	B-N
+E	I-N
+.	I-N
+","	
+Holm	B-N
+M	I-N
+.	I-N
+","	
+Rogers	B-N
+J	I-N
+.	I-N
+","	
+Mazumdar	B-N
+S	I-N
+.	I-N
+","	
+Houck	B-N
+P	I-N
+.	I-N
+","	
+Begley	B-N
+A	I-N
+.	I-N
+","	
+Anderson	B-N
+S	I-N
+.	I-N
+","	
+Karp	B-N
+J	I-N
+.	I-N
+","	
+Miller	B-N
+M	I-N
+.	I-N
+","	
+Whyte	B-N
+E	I-N
+.	I-N
+","	
+Stack	B-N
+J	I-N
+.	I-N
+","	
+Gildengers	B-N
+A	I-N
+.	I-N
+","	
+Szanto	B-N
+K	I-N
+.	I-N
+","	
+Bensasi	B-N
+S	I-N
+.	I-N
+","	
+Kaufer	B-N
+D	I-N
+.	I-N
+","	
+Kamboh	B-N
+M	I-N
+.	I-N
+","	
+DeKosky	B-N
+S	I-N
+.	I-N
+(	
+2011	
+)	
+.	
+Maintenance	
+treatment	
+of	
+depression	
+in	
+old	
+age	
+:	
+a	
+randomized	
+","	
+double-blind	
+","	
+placebo-controlled	
+evaluation	
+of	
+the	
+efficacy	
+and	
+safety	
+of	
+donepezil	
+combined	
+with	
+antidepressant	
+pharmacotherapy	
+.	
+Arch	
+.	
+Gen	
+.	
+Psychiatry	
+68	
+","	
+51	
+–	
+60	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Roman	B-N
+G	I-N
+.	I-N
+C	I-N
+.	I-N
+","	
+Wilkinson	B-N
+D	I-N
+.	I-N
+G	I-N
+.	I-N
+","	
+Doody	B-N
+R	I-N
+.	I-N
+S	I-N
+.	I-N
+","	
+Black	B-N
+S	I-N
+.	I-N
+E	I-N
+.	I-N
+","	
+Salloway	B-N
+S	I-N
+.	I-N
+P	I-N
+.	I-N
+","	
+Schindler	B-N
+R	I-N
+.	I-N
+J	I-N
+.	I-N
+(	
+2005	
+)	
+.	
+Donepezil	
+in	
+vascular	
+dementia	
+:	
+combined	
+analysis	
+of	
+two	
+large-scale	
+clinical	
+trials	
+.	
+Dement	
+.	
+Geriatr	
+.	
+Cogn	
+.	
+Disord	
+.	
+20	
+","	
+338	
+–	
+344	
+[	
+PubMed	
+]	
+	
+Selden	B-N
+N	I-N
+.	I-N
+","	
+Gitelman	B-N
+D	I-N
+.	I-N
+","	
+Salamon-Murayaman	B-N
+N	I-N
+.	I-N
+","	
+Parrish	B-N
+T	I-N
+.	I-N
+","	
+Mesulam	B-N
+M	I-N
+.	I-N
+(	
+1998	
+)	
+.	
+Trajectories	
+of	
+cholinergic	
+pathways	
+within	
+the	
+cerebral	
+hemispheres	
+of	
+the	
+human	
+brain	
+.	
+Brain	
+121	
+","	
+2249	
+–	
+225710	
+.	
+1093	
+/	
+brain	
+/	
+121	
+.	
+12	
+.	
+2249	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+Shinagawa	B-N
+Y	I-N
+.	I-N
+","	
+Nakaaki	B-N
+S	I-N
+.	I-N
+","	
+Hongo	B-N
+J	I-N
+.	I-N
+","	
+Murata	B-N
+Y	I-N
+.	I-N
+","	
+Sato	B-N
+J	I-N
+.	I-N
+","	
+Matsui	B-N
+T	I-N
+.	I-N
+","	
+Tatsumi	B-N
+H	I-N
+.	I-N
+","	
+Akechi	B-N
+T	I-N
+.	I-N
+","	
+Furukawa	B-N
+T	I-N
+.	I-N
+A	I-N
+.	I-N
+(	
+2007	
+)	
+.	
+Reliability	
+and	
+validity	
+of	
+the	
+Japanese	
+version	
+of	
+the	
+Dysexecutive	
+Questionnaire	
+(	
+DEX	
+)	
+in	
+Alzheimer	
+’	
+s	
+disease	
+:	
+validation	
+of	
+a	
+behavioral	
+rating	
+scale	
+to	
+assess	
+dysexecutive	
+symptoms	
+in	
+Japanese	
+patients	
+with	
+Alzheimer	
+’	
+s	
+disease	
+.	
+Int	
+.	
+J	
+.	
+Geriatr	
+.	
+Psychiatry	
+22	
+","	
+951	
+–	
+956	
+[	
+PubMed	
+]	
+	
+Tenovuo	B-N
+O	I-N
+.	I-N
+(	
+2005	
+)	
+.	
+Central	
+acetylcholinesterase	
+inhibitors	
+in	
+the	
+treatment	
+of	
+chronic	
+traumatic	
+brain	
+injury-clinical	
+experience	
+in	
+111	
+patients	
+.	
+Prog	
+.	
+Neuropsychopharmacol	
+.	
+Biol	
+.	
+Psychiatry	
+29	
+","	
+61	
+–	
+67	
+[	
+PubMed	
+]	
+	
+Van	B-N
+den	I-N
+Broek	I-N
+M	I-N
+.	I-N
+D	I-N
+.	I-N
+","	
+Bradshaw	B-N
+C	I-N
+.	I-N
+M	I-N
+.	I-N
+","	
+Szabadi	B-N
+E	I-N
+.	I-N
+(	
+1993	
+)	
+.	
+Utility	
+of	
+the	
+Modified	
+Wisconsin	
+Card	
+Sorting	
+Test	
+in	
+neuropsychological	
+assessment	
+.	
+Br	
+.	
+J	
+.	
+Clin	
+.	
+Psychol	
+.	
+32	
+(	
+Pt	
+3	
+)	
+","	
+333	
+–	
+343	
+[	
+PubMed	
+]	
+	
+Van	B-N
+der	I-N
+Werf	I-N
+Y	I-N
+.	I-N
+","	
+Scheltens	B-N
+P	I-N
+.	I-N
+","	
+Lindeboomc	B-N
+J	I-N
+.	I-N
+","	
+Witter	B-N
+M	I-N
+.	I-N
+P	I-N
+.	I-N
+","	
+Uylings	B-N
+H	I-N
+.	I-N
+B	I-N
+.	I-N
+","	
+Jolles	B-N
+J	I-N
+.	I-N
+(	
+2003	
+)	
+.	
+Deficits	
+of	
+memory	
+","	
+executive	
+functioning	
+and	
+attention	
+following	
+infarction	
+in	
+the	
+thalamus	
+;	
+a	
+study	
+of	
+22	
+cases	
+with	
+localized	
+lesions	
+.	
+Neuropsychologia	
+41	
+","	
+1330	
+–	
+134410	
+.	
+1016	
+/	
+S0028-3932	
+(	
+3	
+)	
+00059-9	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+Whyte	B-N
+E	I-N
+.	I-N
+","	
+Lenze	B-N
+E	I-N
+.	I-N
+","	
+Butters	B-N
+M	I-N
+.	I-N
+","	
+Skidmore	B-N
+E	I-N
+.	I-N
+","	
+Koenig	B-N
+K	I-N
+.	I-N
+","	
+Dew	B-N
+M	I-N
+.	I-N
+","	
+Penrod	B-N
+L	I-N
+.	I-N
+","	
+Mulsant	B-N
+B	I-N
+.	I-N
+","	
+Pollock	B-N
+B	I-N
+.	I-N
+","	
+Cabacungan	B-N
+L	I-N
+.	I-N
+","	
+Reynolds	B-N
+C	I-N
+.	I-N
+","	
+Munin	B-N
+M	I-N
+.	I-N
+(	
+2008	
+)	
+.	
+An	
+open-label	
+pilot	
+study	
+of	
+acetylcholinesterase	
+inhibitors	
+to	
+promote	
+functional	
+recovery	
+in	
+elderly	
+cognitively	
+impaired	
+stroke	
+patients	
+.	
+Cerebrovasc	
+.	
+Dis	
+.	
+26	
+","	
+317	
+–	
+321	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Wilson	B-N
+B	I-N
+.	I-N
+A	I-N
+.	I-N
+","	
+Evans	B-N
+J	I-N
+.	I-N
+","	
+Emslie	B-N
+H	I-N
+.	I-N
+","	
+Alderman	B-N
+N	I-N
+.	I-N
+","	
+Burgess	B-N
+P	I-N
+.	I-N
+W	I-N
+.	I-N
+(	
+1998	
+)	
+.	
+The	
+development	
+of	
+an	
+ecologically	
+valid	
+test	
+for	
+assessing	
+patients	
+with	
+a	
+dysexecutive	
+syndrome	
+.	
+Neuropsychol	
+.	
+Rehabil	
+.	
+8	
+","	
+213	
+–	
+228	

@@ -1,0 +1,933 @@
+1	
+.	
+Scolding	B-N
+N	I-N
+J	I-N
+","	
+Joseph	B-N
+F	I-N
+G	I-N
+.	
+The	
+neuropathology	
+and	
+pathogenesis	
+of	
+systemic	
+lupus	
+erythematosus	
+.	
+Neuropathol	
+Appl	
+Neurobiol	
+200228173	
+–	
+189	
+.	
+189	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Bot	B-N
+J	I-N
+C	I-N
+J	I-N
+","	
+Barkhof	B-N
+F	I-N
+","	
+Lycklama	B-N
+à	I-N
+Nijeholt	I-N
+G	I-N
+.	
+et	
+al	
+Differentiation	
+of	
+multiple	
+sclerosis	
+from	
+other	
+inflammatory	
+disorders	
+and	
+cerebrovascular	
+disease	
+:	
+value	
+of	
+spinal	
+MR	
+imaging	
+.	
+Radiology	
+200222346	
+–	
+56	
+.	
+56	
+[	
+PubMed	
+]	
+	
+3	
+.	
+D	B-N
+'	I-N
+Cruz	I-N
+D	I-N
+P	I-N
+","	
+Mellor	B-N
+‐	I-N
+Pita	I-N
+S	I-N
+","	
+Joven	B-N
+B	I-N
+.	
+et	
+al	
+Transverse	
+myelitis	
+as	
+the	
+first	
+manifestation	
+of	
+systemic	
+lupus	
+erythematosus	
+or	
+lupus	
+‐	
+like	
+disease	
+:	
+good	
+functional	
+outcome	
+and	
+relevance	
+of	
+antiphospholipid	
+antibodies	
+.	
+J	
+Rheumatol	
+200431280	
+–	
+285	
+.	
+285	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Rovaris	B-N
+M	I-N
+","	
+Gass	B-N
+A	I-N
+","	
+Bammer	B-N
+R	I-N
+.	
+et	
+al	
+Diffusion	
+MRI	
+in	
+multiple	
+sclerosis	
+.	
+Neurology	
+2005651526	
+–	
+1532	
+.	
+1532	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Schaefer	B-N
+P	I-N
+W	I-N
+","	
+Copen	B-N
+W	I-N
+A	I-N
+","	
+Lev	B-N
+M	I-N
+H	I-N
+.	
+et	
+al	
+Diffusion	
+‐	
+weighted	
+imaging	
+in	
+acute	
+stroke	
+.	
+Neuroimaging	
+Clin	
+N	
+Am	
+200515503	
+–	
+530	
+.	
+530	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Moritani	B-N
+T	I-N
+","	
+Shrier	B-N
+D	I-N
+A	I-N
+","	
+Numaguchi	B-N
+Y	I-N
+.	
+et	
+al	
+Diffusion	
+‐	
+weighted	
+echo	
+‐	
+planar	
+MR	
+imaging	
+of	
+CNS	
+involvement	
+in	
+systemic	
+lupus	
+erythematosus	
+.	
+Acta	
+Radiol	
+20018741	
+–	
+753	
+.	
+753	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Bosma	B-N
+G	I-N
+P	I-N
+","	
+Huiziga	B-N
+T	I-N
+W	I-N
+","	
+Mooijaart	B-N
+S	I-N
+P	I-N
+.	
+et	
+al	
+Abnormal	
+brain	
+diffusivity	
+in	
+patients	
+with	
+neuropsychiatric	
+lupus	
+erythematosus	
+.	
+AJNR	
+Am	
+J	
+Neuroradiol	
+200324850	
+–	
+854	
+.	
+854	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Bosma	B-N
+G	I-N
+P	I-N
+T	I-N
+","	
+Steens	B-N
+S	I-N
+C	I-N
+A	I-N
+","	
+Petroupolos	B-N
+H	I-N
+.	
+et	
+al	
+Multisequence	
+magnetic	
+resonance	
+imaging	
+study	
+of	
+neuropsychiatric	
+systemic	
+lupus	
+erythematosus	
+.	
+Arthritis	
+Rheum	
+2004503195	
+–	
+3202	
+.	
+3202	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Cercignani	B-N
+M	I-N
+","	
+Horsfield	B-N
+M	I-N
+A	I-N
+","	
+Agosta	B-N
+F	I-N
+.	
+et	
+al	
+Sensitivity	
+‐	
+encoded	
+diffusion	
+tensor	
+MR	
+imaging	
+of	
+the	
+cervical	
+cord	
+.	
+AJNR	
+Am	
+J	
+Neuroradiol	
+2003241254	
+–	
+1256	
+.	
+1256	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Tan	B-N
+E	I-N
+M	I-N
+","	
+Cohen	B-N
+A	I-N
+S	I-N
+","	
+Fries	B-N
+J	I-N
+F	I-N
+.	
+et	
+al	
+The	
+1982	
+revised	
+criteria	
+for	
+classification	
+of	
+systemic	
+lupus	
+erythematosus	
+.	
+Arthritis	
+Rheum	
+1982251271	
+–	
+1277	
+.	
+1277	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Hochberg	B-N
+M	I-N
+C	I-N
+.	
+Updating	
+the	
+American	
+College	
+of	
+Rheumatology	
+revised	
+criteria	
+for	
+the	
+classification	
+of	
+systemic	
+lupus	
+erythematosus	
+.	
+Arthritis	
+Rheum	
+1997401725	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Filippi	B-N
+M	I-N
+","	
+Cercignani	B-N
+M	I-N
+","	
+Inglese	B-N
+M	I-N
+.	
+et	
+al	
+Diffusion	
+tensor	
+magnetic	
+resonance	
+imaging	
+in	
+multiple	
+sclerosis	
+.	
+Neurology	
+200156304	
+–	
+311	
+.	
+311	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Valsasina	B-N
+P	I-N
+","	
+Rocca	B-N
+M	I-N
+A	I-N
+","	
+Agosta	B-N
+F	I-N
+.	
+et	
+al	
+Mean	
+diffusivity	
+and	
+fractional	
+anisotropy	
+histogram	
+analysis	
+of	
+the	
+cervical	
+cord	
+in	
+MS	
+patients	
+.	
+Neuroimage	
+200526822	
+–	
+828	
+.	
+828	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Losseff	B-N
+N	I-N
+A	I-N
+","	
+Webb	B-N
+S	I-N
+L	I-N
+","	
+O	B-N
+'	I-N
+Riordan	I-N
+J	I-N
+I	I-N
+.	
+et	
+al	
+Spinal	
+cord	
+atrophy	
+and	
+disability	
+in	
+multiple	
+sclerosis	
+.	
+A	
+new	
+reproducible	
+and	
+sensitive	
+MRI	
+method	
+with	
+potential	
+to	
+monitor	
+disease	
+progression	
+.	
+Brain	
+1996119701	
+–	
+708	
+.	
+708	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Smith	B-N
+S	I-N
+M	I-N
+","	
+Zhang	B-N
+Y	I-N
+","	
+Jenkinson	B-N
+M	I-N
+.	
+et	
+al	
+Accurate	
+","	
+robust	
+and	
+automated	
+longitudinal	
+and	
+cross	
+‐	
+sectional	
+brain	
+change	
+analysis	
+.	
+Neuroimage	
+200217479	
+–	
+489	
+.	
+489	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Filippi	B-N
+M	I-N
+","	
+Bozzali	B-N
+M	I-N
+","	
+Horsfield	B-N
+M	I-N
+A	I-N
+.	
+et	
+al	
+A	
+conventional	
+and	
+magnetization	
+transfer	
+MRI	
+study	
+of	
+the	
+cervical	
+cord	
+in	
+patients	
+with	
+multiple	
+sclerosis	
+.	
+Neurology	
+200054207	
+–	
+213	
+.	
+213	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Rovaris	B-N
+M	I-N
+","	
+Viti	B-N
+B	I-N
+","	
+Ciboddo	B-N
+G	I-N
+.	
+et	
+al	
+Brain	
+involvement	
+in	
+systemic	
+immune	
+mediated	
+diseases	
+:	
+magnetic	
+resonance	
+and	
+magnetisation	
+transfer	
+imaging	
+study	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+200068170	
+–	
+177	
+.	
+177	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Bosma	B-N
+G	I-N
+P	I-N
+T	I-N
+","	
+Rood	B-N
+M	I-N
+J	I-N
+","	
+Zwinderman	B-N
+A	I-N
+H	I-N
+.	
+et	
+al	
+Evidence	
+of	
+central	
+nervous	
+system	
+damage	
+in	
+patients	
+with	
+neuropsychiatric	
+systemic	
+lupus	
+erythematosus	
+","	
+demonstrated	
+by	
+magnetization	
+transfer	
+imaging	
+.	
+Arthritis	
+Rheum	
+20004348	
+–	
+54	
+.	
+54	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Dehmeshki	B-N
+J	I-N
+","	
+van	B-N
+Buchem	I-N
+M	I-N
+A	I-N
+","	
+Bosma	B-N
+G	I-N
+P	I-N
+T	I-N
+.	
+et	
+al	
+Systemic	
+lupus	
+erythematosus	
+:	
+diagnostic	
+application	
+of	
+magnetization	
+transfer	
+ratio	
+histograms	
+in	
+patients	
+with	
+neuropsychiatric	
+symptoms	
+—	
+initial	
+results	
+.	
+Radiology	
+2002222722	
+–	
+728	
+.	
+728	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Steens	B-N
+S	I-N
+C	I-N
+A	I-N
+","	
+Admiraal	B-N
+‐	I-N
+Behloul	I-N
+F	I-N
+","	
+Bosma	B-N
+G	I-N
+P	I-N
+T	I-N
+.	
+et	
+al	
+Selective	
+gray	
+matter	
+damage	
+in	
+neuropsychiatric	
+lupus	
+.	
+A	
+magnetization	
+transfer	
+imaging	
+study	
+.	
+Arthritis	
+Rheum	
+2004502877	
+–	
+2881	
+.	
+2881	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Handa	B-N
+R	I-N
+","	
+Sahota	B-N
+P	I-N
+","	
+Kumar	B-N
+M	I-N
+.	
+et	
+al	
+In	
+vivo	
+proton	
+magnetic	
+resonance	
+spectroscopy	
+(	
+MRS	
+)	
+and	
+single	
+photon	
+emission	
+computerized	
+tomography	
+(	
+SPECT	
+)	
+in	
+systemic	
+lupus	
+erythematosus	
+(	
+SLE	
+)	
+.	
+Magn	
+Reson	
+Imaging	
+2003211033	
+–	
+1037	
+.	
+1037	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Pierpaoli	B-N
+C	I-N
+","	
+Barnett	B-N
+A	I-N
+","	
+Pajevic	B-N
+S	I-N
+.	
+et	
+al	
+Water	
+diffusion	
+changes	
+in	
+Wallerian	
+degeneration	
+and	
+their	
+dependence	
+on	
+white	
+matter	
+architecture	
+.	
+Neuroimage	
+2001131174	
+–	
+1185	
+.	
+1185	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Rocca	B-N
+M	I-N
+A	I-N
+","	
+Filippi	B-N
+M	I-N
+","	
+Herzog	B-N
+J	I-N
+.	
+et	
+al	
+A	
+magnetic	
+resonance	
+imaging	
+study	
+of	
+the	
+cervical	
+cord	
+of	
+patients	
+with	
+CADASIL	
+.	
+Neurology	
+2001561392	
+–	
+1394	
+.	
+1394	
+[	
+PubMed	
+]	

@@ -1,0 +1,1051 @@
+1	
+.	
+Atwood	B-N
+LD	I-N
+","	
+Wolf	B-N
+PA	I-N
+","	
+Heard-Costa	B-N
+NL	I-N
+","	
+Massaro	B-N
+JM	I-N
+","	
+Beiser	B-N
+A	I-N
+","	
+D	B-N
+’	I-N
+Agostino	I-N
+RB	I-N
+","	
+et	
+al	
+.	
+Genetic	
+variation	
+in	
+white	
+matter	
+hyperintensity	
+volume	
+in	
+the	
+Framingham	
+Study	
+.	
+Stroke	
+.	
+2004	
+;	
+35	
+:	
+1609	
+–	
+1613	
+.	
+doi	
+:	
+10	
+.	
+1161	
+/	
+1	
+.	
+STR	
+.	
+129643	
+.	
+77045	
+.	
+10	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Carmelli	B-N
+D	I-N
+","	
+DeCarli	B-N
+C	I-N
+","	
+Swan	B-N
+GE	I-N
+","	
+Jack	B-N
+LM	I-N
+","	
+Reed	B-N
+T	I-N
+","	
+Wolf	B-N
+PA	I-N
+","	
+et	
+al	
+.	
+Evidence	
+for	
+genetic	
+variance	
+in	
+white	
+matter	
+hyperintensity	
+volume	
+in	
+normal	
+elderly	
+male	
+twins	
+.	
+Stroke	
+.	
+1998	
+;	
+29	
+:	
+1177	
+–	
+1181	
+.	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Turner	B-N
+ST	I-N
+","	
+Jack	B-N
+CR	I-N
+","	
+Fornage	B-N
+M	I-N
+","	
+Mosley	B-N
+TH	I-N
+","	
+Boerwinkle	B-N
+E	I-N
+","	
+de	B-N
+Andrade	I-N
+M	I-N
+.	
+Heritability	
+of	
+leukoaraiosis	
+in	
+hypertensive	
+sibships	
+.	
+Hypertension	
+.	
+2004	
+;	
+43	
+:	
+483	
+–	
+487	
+.	
+doi	
+:	
+10	
+.	
+1161	
+/	
+1	
+.	
+HYP	
+.	
+112303	
+.	
+26158	
+.	
+92	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Hervé	B-N
+D	I-N
+","	
+Chabriat	B-N
+H	I-N
+.	
+CADASIL	
+.	
+J	
+Geriatr	
+Psychiatry	
+Neurol	
+.	
+2010	
+;	
+23	
+:	
+269	
+–	
+276	
+.	
+doi	
+:	
+10	
+.	
+1177	
+/	
+8.91989E+14	
+.	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Schmidt	B-N
+H	I-N
+","	
+Zeginigg	B-N
+M	I-N
+","	
+Wiltgen	B-N
+M	I-N
+","	
+Freudenberger	B-N
+P	I-N
+","	
+Petrovic	B-N
+K	I-N
+","	
+Cavalieri	B-N
+M	I-N
+","	
+et	
+al	
+.	
+CHARGE	
+consortium	
+Neurology	
+working	
+group	
+.	
+Genetic	
+variants	
+of	
+the	
+NOTCH3	
+gene	
+in	
+the	
+elderly	
+and	
+magnetic	
+resonance	
+imaging	
+correlates	
+of	
+age-related	
+cerebral	
+small	
+vessel	
+disease	
+.	
+Brain	
+.	
+2011	
+;	
+134	
+(	
+Pt	
+11	
+)	
+:	
+3384	
+–	
+3397	
+.	
+doi	
+:	
+10	
+.	
+1093	
+/	
+brain	
+/	
+awr252	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Dong	B-N
+Y	I-N
+","	
+Hassan	B-N
+A	I-N
+","	
+Zhang	B-N
+Z	I-N
+","	
+Huber	B-N
+D	I-N
+","	
+Dalageorgou	B-N
+C	I-N
+","	
+Markus	B-N
+HS	I-N
+.	
+Yield	
+of	
+screening	
+for	
+CADASIL	
+mutations	
+in	
+lacunar	
+stroke	
+and	
+leukoaraiosis	
+.	
+Stroke	
+.	
+2003	
+;	
+34	
+:	
+203	
+–	
+205	
+.	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Ross	B-N
+OA	I-N
+","	
+Soto-Ortolaza	B-N
+AI	I-N
+","	
+Heckman	B-N
+MG	I-N
+","	
+Verbeeck	B-N
+C	I-N
+","	
+Serie	B-N
+DJ	I-N
+","	
+Rayaprolu	B-N
+S	I-N
+","	
+et	
+al	
+.	
+NOTCH3	
+variants	
+and	
+risk	
+of	
+ischemic	
+stroke	
+.	
+PLoS	
+One	
+.	
+2013	
+;	
+8	
+:	
+e75035	
+.	
+doi	
+:	
+10	
+.	
+1371	
+/	
+journal	
+.	
+pone	
+.	
+75035	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Bamford	B-N
+J	I-N
+","	
+Sandercock	B-N
+P	I-N
+","	
+Dennis	B-N
+M	I-N
+","	
+Burn	B-N
+J	I-N
+","	
+Warlow	B-N
+C	I-N
+.	
+Classification	
+and	
+natural	
+history	
+of	
+clinically	
+identifiable	
+subtypes	
+of	
+cerebral	
+infarction	
+.	
+Lancet	
+.	
+1991	
+;	
+337	
+:	
+1521	
+–	
+1526	
+.	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Adams	B-N
+HP	I-N
+","	I-N
+Jr	I-N
+","	
+Bendixen	B-N
+BH	I-N
+","	
+Kappelle	B-N
+LJ	I-N
+","	
+Biller	B-N
+J	I-N
+","	
+Love	B-N
+BB	I-N
+","	
+Gordon	B-N
+DL	I-N
+","	
+et	
+al	
+.	
+Classification	
+of	
+subtype	
+of	
+acute	
+ischemic	
+stroke	
+.	
+Definitions	
+for	
+use	
+in	
+a	
+multicenter	
+clinical	
+trial	
+.	
+TOAST	
+.	
+Trial	
+of	
+Org	
+10172	
+in	
+Acute	
+Stroke	
+Treatment	
+.	
+Stroke	
+.	
+1993	
+;	
+24	
+:	
+35	
+–	
+41	
+.	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Fazekas	B-N
+F	I-N
+","	
+Kleinert	B-N
+R	I-N
+","	
+Offenbacher	B-N
+H	I-N
+","	
+Schmidt	B-N
+R	I-N
+","	
+Kleinert	B-N
+G	I-N
+","	
+Payer	B-N
+F	I-N
+","	
+et	
+al	
+.	
+Pathologic	
+correlates	
+of	
+incidental	
+MRI	
+white	
+matter	
+signal	
+hyperintensities	
+.	
+Neurology	
+.	
+1993	
+;	
+43	
+:	
+1683	
+–	
+1689	
+.	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Adib-Samii	B-N
+P	I-N
+","	
+Rost	B-N
+N	I-N
+","	
+Traylor	B-N
+M	I-N
+","	
+Devan	B-N
+W	I-N
+","	
+Biffi	B-N
+A	I-N
+","	
+Lanfranconi	B-N
+S	I-N
+","	
+et	
+al	
+.	
+Australian	
+Stroke	
+Genetics	
+Collaborative	
+;	
+Wellcome	
+Trust	
+Case-Control	
+Consortium-2	
+(	
+WTCCC2	
+)	
+;	
+METASTROKE	
+;	
+International	
+Stroke	
+Genetics	
+Consortium	
+.	
+17q25	
+Locus	
+is	
+associated	
+with	
+white	
+matter	
+hyperintensity	
+volume	
+in	
+ischemic	
+stroke	
+","	
+but	
+not	
+with	
+lacunar	
+stroke	
+status	
+.	
+Stroke	
+.	
+2013	
+;	
+44	
+:	
+1609	
+–	
+1615	
+.	
+doi	
+:	
+10	
+.	
+1161	
+/	
+STROKEAHA	
+.	
+113	
+.	
+679936	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Price	B-N
+AL	I-N
+","	
+Patterson	B-N
+NJ	I-N
+","	
+Plenge	B-N
+RM	I-N
+","	
+Weinblatt	B-N
+ME	I-N
+","	
+Shadick	B-N
+NA	I-N
+","	
+Reich	B-N
+D	I-N
+.	
+Principal	
+components	
+analysis	
+corrects	
+for	
+stratification	
+in	
+genome-wide	
+association	
+studies	
+.	
+Nat	
+Genet	
+.	
+2006	
+;	
+38	
+:	
+904	
+–	
+909	
+.	
+doi	
+:	
+10	
+.	
+1038	
+/	
+ng1847	
+.	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Purcell	B-N
+S	I-N
+","	
+Neale	B-N
+B	I-N
+","	
+Todd-Brown	B-N
+K	I-N
+","	
+Thomas	B-N
+L	I-N
+","	
+Ferreira	B-N
+MA	I-N
+","	
+Bender	B-N
+D	I-N
+","	
+et	
+al	
+.	
+PLINK	
+:	
+a	
+tool	
+set	
+for	
+whole-genome	
+association	
+and	
+population-based	
+linkage	
+analyses	
+.	
+Am	
+J	
+Hum	
+Genet	
+.	
+2007	
+;	
+81	
+:	
+559	
+–	
+575	
+.	
+doi	
+:	
+10	
+.	
+1086	
+/	
+519795	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Abecasis	B-N
+GR	I-N
+","	
+Auton	B-N
+A	I-N
+","	
+Brooks	B-N
+LD	I-N
+","	
+DePristo	B-N
+MA	I-N
+","	
+Durbin	B-N
+RM	I-N
+","	
+Handsaker	B-N
+RE	I-N
+","	
+et	
+al	
+.	
+An	
+integrated	
+map	
+of	
+genetic	
+variation	
+from	
+1	
+","	
+92	
+human	
+genomes	
+.	
+Nature	
+.	
+2012	
+;	
+491	
+:	
+56	
+–	
+65	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Willer	B-N
+CJ	I-N
+","	
+Li	B-N
+Y	I-N
+","	
+Abecasis	B-N
+GR	I-N
+.	
+METAL	
+:	
+fast	
+and	
+efficient	
+meta-analysis	
+of	
+genomewide	
+association	
+scans	
+.	
+Bioinformatics	
+.	
+2010	
+;	
+26	
+:	
+2190	
+–	
+2191	
+.	
+doi	
+:	
+10	
+.	
+1093	
+/	
+bioinformatics	
+/	
+btq340	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Devlin	B-N
+B	I-N
+","	
+Roeder	B-N
+K	I-N
+.	
+Genomic	
+control	
+for	
+association	
+studies	
+.	
+Biometrics	
+.	
+1999	
+;	
+55	
+:	
+997	
+–	
+1004	
+.	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Galwey	B-N
+NW	I-N
+.	
+A	
+new	
+measure	
+of	
+the	
+effective	
+number	
+of	
+tests	
+","	
+a	
+practical	
+tool	
+for	
+comparing	
+families	
+of	
+non-independent	
+significance	
+tests	
+.	
+Genet	
+Epidemiol	
+.	
+2009	
+;	
+33	
+:	
+559	
+–	
+568	
+.	
+doi	
+:	
+10	
+.	
+1002	
+/	
+gepi	
+.	
+20408	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Purcell	B-N
+S	I-N
+","	
+Cherny	B-N
+SS	I-N
+","	
+Sham	B-N
+PC	I-N
+.	
+Genetic	
+Power	
+Calculator	
+:	
+design	
+of	
+linkage	
+and	
+association	
+genetic	
+mapping	
+studies	
+of	
+complex	
+traits	
+.	
+Bioinformatics	
+.	
+2003	
+;	
+19	
+:	
+149	
+–	
+150	
+.	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Schmidt	B-N
+R	I-N
+","	
+Schmidt	B-N
+H	I-N
+","	
+Haybaeck	B-N
+J	I-N
+","	
+Loitfelder	B-N
+M	I-N
+","	
+Weis	B-N
+S	I-N
+","	
+Cavalieri	B-N
+M	I-N
+","	
+et	
+al	
+.	
+Heterogeneity	
+in	
+age-related	
+white	
+matter	
+changes	
+.	
+Acta	
+Neuropathol	
+.	
+2011	
+;	
+122	
+:	
+171	
+–	
+185	
+.	
+doi	
+:	
+10	
+.	
+1007	
+/	
+s00401-011-0851-x	
+.	
+[	
+PubMed	
+]	

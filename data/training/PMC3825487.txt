@@ -1,0 +1,1609 @@
+1	
+.	
+McKhann	B-N
+G	I-N
+","	
+Drachmann	B-N
+D	I-N
+","	
+Folstein	B-N
+M	I-N
+","	
+Katzmann	B-N
+R	I-N
+","	
+Price	B-N
+D	I-N
+","	
+Stadlan	B-N
+EM	I-N
+.	
+Clinical	
+diagnosis	
+of	
+Alzheimer	
+’	
+s	
+disease	
+.	
+Report	
+of	
+the	
+NINCDS-ADRDA	
+Work	
+Group	
+under	
+the	
+auspices	
+of	
+the	
+Department	
+of	
+Health	
+and	
+Human	
+Services	
+Task	
+Force	
+of	
+Alzheimer	
+’	
+s	
+disease	
+.	
+Neurology	
+.	
+1984	
+;	
+34	
+:	
+934	
+–	
+944	
+.	
+doi	
+:	
+10	
+.	
+1212	
+/	
+WNL	
+.	
+34	
+.	
+7	
+.	
+939	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+2	
+.	
+Biagioni	B-N
+MC	I-N
+","	
+Galvin	B-N
+JE	I-N
+.	
+Using	
+biomarkers	
+to	
+improve	
+detection	
+of	
+Alzheimer	
+’	
+s	
+disease	
+.	
+Neurodegener	
+Dis	
+Manag	
+.	
+2011	
+;	
+1	
+:	
+127	
+–	
+139	
+.	
+doi	
+:	
+10	
+.	
+2217	
+/	
+nmt	
+.	
+11	
+.	
+11	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+3	
+.	
+Hesse	B-N
+C	I-N
+","	
+Rosengren	B-N
+L	I-N
+","	
+Andreasen	B-N
+N	I-N
+","	
+Davidsson	B-N
+P	I-N
+","	
+Vanderstichele	B-N
+H	I-N
+","	
+Vanmechelen	B-N
+E	I-N
+","	
+Blennow	B-N
+K	I-N
+.	
+Transient	
+increase	
+in	
+total	
+tau	
+but	
+not	
+phospho-tau	
+in	
+human	
+cerebrospinal	
+fluid	
+after	
+acute	
+stroke	
+.	
+Neurosci	
+Lett	
+.	
+2001	
+;	
+297	
+:	
+187	
+–	
+190	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+S0304-3940	
+(	
+0	
+)	
+01697-9	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+4	
+.	
+Hesse	B-N
+C	I-N
+","	
+Rosengren	B-N
+L	I-N
+","	
+Vanmechelen	B-N
+E	I-N
+","	
+Vanderstichele	B-N
+H	I-N
+","	
+Jensen	B-N
+C	I-N
+","	
+Davidsson	B-N
+P	I-N
+","	
+Blennow	B-N
+K	I-N
+.	
+Cerebrospinal	
+fluid	
+markers	
+for	
+Alzheimer	
+’	
+s	
+disease	
+evaluated	
+after	
+acute	
+ischemic	
+stroke	
+.	
+J	
+Alzheimers	
+Dis	
+.	
+2000	
+;	
+2	
+:	
+199	
+–	
+206	
+.	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Lanari	B-N
+A	I-N
+","	
+Parnetti	B-N
+L	I-N
+.	
+Cerebrospinal	
+fluid	
+biomarkers	
+and	
+prediction	
+of	
+conversion	
+in	
+patients	
+with	
+mild	
+cognitive	
+impairment	
+:	
+4-year	
+follow-up	
+in	
+a	
+routine	
+clinical	
+setting	
+.	
+Sci	
+World	
+J	
+.	
+2009	
+;	
+9	
+:	
+961	
+–	
+966	
+.	
+doi	
+:	
+10	
+.	
+1100	
+/	
+tsw	
+.	
+2009	
+.	
+106	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+6	
+.	
+Thaweepoksomboon	B-N
+J	I-N
+","	
+Senanarong	B-N
+V	I-N
+","	
+Poungvarin	B-N
+N	I-N
+","	
+Chakorn	B-N
+T	I-N
+","	
+Siwasariyanon	B-N
+N	I-N
+","	
+Washirutmangkur	B-N
+L	I-N
+","	
+Udompunthuruk	B-N
+S	I-N
+.	
+Assessment	
+of	
+cerebrospinal	
+fluid	
+(	
+CSF	
+)	
+beta-amyloid	
+(	
+1	
+–	
+42	
+)	
+","	
+phosphorylated	
+tau	
+(	
+ptau-181	
+)	
+and	
+total	
+Tau	
+protein	
+in	
+patients	
+with	
+Alzheimer	
+’	
+s	
+disease	
+(	
+AD	
+)	
+and	
+other	
+dementia	
+at	
+Siriraj	
+Hospital	
+","	
+Thailand	
+.	
+J	
+Med	
+Assoc	
+Thai	
+.	
+2011	
+;	
+94	
+(	
+Suppl	
+1	
+)	
+:	
+S77	
+–	
+S83	
+.	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Ohrfelt	B-N
+A	I-N
+","	
+Andreasson	B-N
+U	I-N
+","	
+Simon	B-N
+A	I-N
+","	
+Zetterberg	B-N
+H	I-N
+","	
+Edman	B-N
+A	I-N
+","	
+Potter	B-N
+W	I-N
+","	
+Holder	B-N
+D	I-N
+","	
+Devanarayan	B-N
+V	I-N
+","	
+Seeburger	B-N
+J	I-N
+","	
+Smith	B-N
+AD	I-N
+","	
+Blennow	B-N
+K	I-N
+","	
+Wallin	B-N
+A	I-N
+.	
+Screening	
+for	
+new	
+biomarkers	
+for	
+subcortical	
+vascular	
+dementia	
+and	
+Alzheimer	
+’	
+s	
+disease	
+.	
+Dement	
+Geriatr	
+Cogn	
+Dis	
+Extra	
+.	
+2011	
+;	
+1	
+:	
+31	
+–	
+42	
+.	
+doi	
+:	
+10	
+.	
+1159	
+/	
+323417	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+8	
+.	
+Pluta	B-N
+R	I-N
+","	
+Jolkkonen	B-N
+J	I-N
+","	
+Cuzzocrea	B-N
+S	I-N
+","	
+Pedata	B-N
+F	I-N
+","	
+Cechetto	B-N
+D	I-N
+","	
+Popa-Wagner	B-N
+A	I-N
+.	
+Cognitive	
+impairment	
+with	
+vascular	
+impairment	
+and	
+degeneration	
+.	
+Curr	
+Neurovasc	
+Res	
+.	
+2011	
+;	
+8	
+:	
+342	
+–	
+350	
+.	
+doi	
+:	
+10	
+.	
+2174	
+/	
+1.5672E+17	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+9	
+.	
+Paraskevas	B-N
+GP	I-N
+","	
+Kapaki	B-N
+E	I-N
+","	
+Papageorgiou	B-N
+SG	I-N
+","	
+Kalfakis	B-N
+N	I-N
+","	
+Andreasou	B-N
+E	I-N
+","	
+Zalonis	B-N
+I	I-N
+","	
+Vassilopoulos	B-N
+D	I-N
+.	
+CSF	
+biomarker	
+profile	
+and	
+diagnostic	
+value	
+in	
+vascular	
+dementia	
+.	
+Eur	
+J	
+Neurol	
+.	
+2009	
+;	
+16	
+:	
+205	
+–	
+211	
+.	
+doi	
+:	
+10	
+.	
+1111	
+/	
+j	
+.	
+1468-1331	
+.	
+2008	
+.	
+2387	
+.	
+x	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+10	
+.	
+Mattsson	B-N
+N	I-N
+","	
+Zetterberg	B-N
+H	I-N
+","	
+Hansson	B-N
+O	I-N
+","	
+Andreasen	B-N
+N	I-N
+","	
+Parnetti	B-N
+L	I-N
+","	
+Jonsson	B-N
+M	I-N
+","	
+Herukka	B-N
+SK	I-N
+","	
+van	B-N
+der	I-N
+Flier	I-N
+WM	I-N
+","	
+Blankenstein	B-N
+MA	I-N
+","	
+Ewers	B-N
+M	I-N
+","	
+Rich	B-N
+K	I-N
+","	
+Kaiser	B-N
+E	I-N
+","	
+Verbeek	B-N
+M	I-N
+","	
+Tsolaki	B-N
+M	I-N
+","	
+Mulugeta	B-N
+E	I-N
+","	
+Rosen	B-N
+E	I-N
+","	
+Aarsland	B-N
+D	I-N
+","	
+Visser	B-N
+PJ	I-N
+","	
+Schroder	B-N
+J	I-N
+","	
+Marcusson	B-N
+J	I-N
+","	
+de	B-N
+Leon	I-N
+M	I-N
+","	
+Hampel	B-N
+H	I-N
+","	
+Scheltens	B-N
+P	I-N
+","	
+Pirttila	B-N
+T	I-N
+","	
+Wallin	B-N
+A	I-N
+","	
+Jonhagen	B-N
+ME	I-N
+","	
+Minthon	B-N
+L	I-N
+","	
+Winblad	B-N
+B	I-N
+","	
+Blennow	B-N
+K	I-N
+.	
+CSF	
+biomarkers	
+and	
+incipient	
+Alzheimer	
+disease	
+in	
+patients	
+with	
+mild	
+cognitive	
+impairment	
+.	
+JAMA	
+.	
+2009	
+;	
+302	
+:	
+385	
+–	
+393	
+.	
+doi	
+:	
+10	
+.	
+1001	
+/	
+jama	
+.	
+2009	
+.	
+1064	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+11	
+.	
+Schmidtke	B-N
+K	I-N
+","	
+Hermeneit	B-N
+S	I-N
+.	
+High	
+rate	
+of	
+conversion	
+to	
+Alzheimer	
+’	
+s	
+disease	
+in	
+a	
+cohort	
+of	
+amnestic	
+MCI	
+patients	
+.	
+Int	
+Psychogeriatr	
+.	
+2008	
+;	
+20	
+:	
+96	
+–	
+108	
+.	
+doi	
+:	
+10	
+.	
+1017	
+/	
+S1041610207005509	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+12	
+.	
+Hansson	B-N
+O	I-N
+","	
+Zetterberg	B-N
+H	I-N
+","	
+Buchhave	B-N
+P	I-N
+","	
+Londos	B-N
+E	I-N
+","	
+Blennow	B-N
+K	I-N
+","	
+Minthon	B-N
+L	I-N
+.	
+Association	
+between	
+CSF	
+biomarkers	
+and	
+incipient	
+Alzheimer	
+’	
+s	
+disease	
+in	
+patients	
+with	
+mild	
+cognitive	
+impairment	
+:	
+a	
+follow-up	
+study	
+.	
+Lancet	
+Neurol	
+.	
+2006	
+;	
+5	
+:	
+228	
+–	
+234	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+S1474-4422	
+(	
+6	
+)	
+70355-6	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+13	
+.	
+Hertze	B-N
+J	I-N
+","	
+Minthon	B-N
+L	I-N
+","	
+Zetterberg	B-N
+H	I-N
+","	
+Vanmechelen	B-N
+E	I-N
+","	
+Blennow	B-N
+K	I-N
+","	
+Hansson	B-N
+O	I-N
+.	
+Evaluation	
+of	
+CSF	
+biomarkers	
+as	
+predictors	
+of	
+Alzheimer	
+’	
+s	
+disease	
+:	
+a	
+clinical	
+follow-up	
+study	
+of	
+4	
+.	
+7	
+ 	
+years	
+.	
+J	
+Alzheimers	
+Dis	
+.	
+2010	
+;	
+21	
+:	
+1119	
+–	
+1128	
+.	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Buchhave	B-N
+P	I-N
+","	
+Minthon	B-N
+L	I-N
+","	
+Zetterberg	B-N
+H	I-N
+","	
+Wallin	B-N
+AK	I-N
+","	
+Blennow	B-N
+K	I-N
+","	
+Hansson	B-N
+O	I-N
+.	
+Cerebrospinal	
+fluid	
+levels	
+of	
+beta-amyloid	
+1	
+–	
+42	
+","	
+but	
+not	
+of	
+tau	
+","	
+are	
+fully	
+changed	
+already	
+5	
+to	
+10	
+ 	
+years	
+before	
+the	
+onset	
+of	
+Alzheimer	
+dementia	
+.	
+Arch	
+Gen	
+Psychiatry	
+.	
+2012	
+;	
+69	
+:	
+98	
+–	
+106	
+.	
+doi	
+:	
+10	
+.	
+1001	
+/	
+archgenpsychiatry	
+.	
+2011	
+.	
+155	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+15	
+.	
+Zieren	B-N
+N	I-N
+","	
+Duering	B-N
+M	I-N
+","	
+Peters	B-N
+N	I-N
+","	
+Reyes	B-N
+S	I-N
+","	
+Jouvent	B-N
+E	I-N
+","	
+Herve	B-N
+D	I-N
+","	
+Gschwendtner	B-N
+A	I-N
+","	
+Mewald	B-N
+Y	I-N
+","	
+Opherk	B-N
+C	I-N
+","	
+Chabriat	B-N
+H	I-N
+","	
+Dichgans	B-N
+M	I-N
+.	
+Education	
+modifies	
+the	
+relation	
+of	
+vascular	
+pathology	
+to	
+cognitive	
+function	
+:	
+cognitive	
+reserve	
+in	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+.	
+Neurobiol	
+Aging	
+.	
+2013	
+;	
+34	
+:	
+400	
+–	
+407	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+j	
+.	
+neurobiolaging	
+.	
+2012	
+.	
+4	
+.	
+19	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+16	
+.	
+Pluta	B-N
+R	I-N
+","	
+Ulamek	B-N
+M	I-N
+","	
+Jablonski	B-N
+M	I-N
+.	
+Alzheimer	
+’	
+s	
+mechanisms	
+in	
+ischemic	
+brain	
+degeneration	
+.	
+Anat	
+Rec	
+(	
+Hoboken	
+)	
+2009	
+;	
+292	
+:	
+1863	
+–	
+1881	
+.	
+doi	
+:	
+10	
+.	
+1002	
+/	
+ar	
+.	
+21018	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+17	
+.	
+Wen	B-N
+Y	I-N
+","	
+Yang	B-N
+S	I-N
+","	
+Liu	B-N
+R	I-N
+","	
+Simpkins	B-N
+JW	I-N
+.	
+Transient	
+cerebral	
+ischemia	
+induces	
+site-specific	
+hyperphosphorylation	
+of	
+tau	
+protein	
+.	
+Brain	
+Res	
+.	
+2004	
+;	
+1022	
+:	
+30	
+–	
+38	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+j	
+.	
+brainres	
+.	
+2004	
+.	
+5	
+.	
+106	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+18	
+.	
+Zheng	B-N
+GQ	I-N
+","	
+Wang	B-N
+XM	I-N
+","	
+Wang	B-N
+Y	I-N
+","	
+Wang	B-N
+XT	I-N
+.	
+Tau	
+as	
+a	
+potential	
+novel	
+therapeutic	
+target	
+in	
+ischemic	
+stroke	
+.	
+J	
+Cell	
+Biochem	
+.	
+2010	
+;	
+109	
+:	
+26	
+–	
+29	
+.	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Bielewicz	B-N
+J	I-N
+","	
+Kurzepa	B-N
+J	I-N
+","	
+Czekajska-Chehab	B-N
+E	I-N
+","	
+Stelmasiak	B-N
+Z	I-N
+","	
+Bartosik-Psujek	B-N
+H	I-N
+.	
+Does	
+serum	
+Tau	
+protein	
+predict	
+the	
+outcome	
+of	
+patients	
+with	
+ischemic	
+stroke	
+?	
+J	
+Mol	
+Neurosci	
+.	
+2011	
+;	
+43	
+:	
+241	
+–	
+245	
+.	
+doi	
+:	
+10	
+.	
+1007	
+/	
+s12031-010-9403-4	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+20	
+.	
+Bitsch	B-N
+A	I-N
+","	
+Horn	B-N
+C	I-N
+","	
+Kemmling	B-N
+Y	I-N
+","	
+Seipelt	B-N
+M	I-N
+","	
+Hellenbrand	B-N
+U	I-N
+","	
+Stiefel	B-N
+M	I-N
+","	
+Ciesielczyk	B-N
+B	I-N
+","	
+Cepek	B-N
+L	I-N
+","	
+Bahn	B-N
+E	I-N
+","	
+Ratzka	B-N
+P	I-N
+","	
+Prange	B-N
+H	I-N
+","	
+Otto	B-N
+M	I-N
+.	
+Serum	
+tau	
+protein	
+level	
+as	
+a	
+marker	
+of	
+axonal	
+damage	
+in	
+acute	
+ischemic	
+stroke	
+.	
+Eur	
+Neurol	
+.	
+2002	
+;	
+47	
+:	
+45	
+–	
+51	
+.	
+doi	
+:	
+10	
+.	
+1159	
+/	
+47946	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+21	
+.	
+Wunderlich	B-N
+MT	I-N
+","	
+Lins	B-N
+H	I-N
+","	
+Skalej	B-N
+M	I-N
+","	
+Wallesch	B-N
+CW	I-N
+","	
+Goertler	B-N
+M	I-N
+.	
+Neuron-specific	
+enolase	
+and	
+tau	
+protein	
+as	
+neuro	
+biochemical	
+markers	
+of	
+neuronal	
+damage	
+are	
+related	
+to	
+early	
+clinical	
+course	
+and	
+long-term	
+outcome	
+in	
+acute	
+ischemic	
+stroke	
+.	
+Clin	
+Neurol	
+Neurosurg	
+.	
+2006	
+;	
+108	
+:	
+558	
+–	
+563	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+j	
+.	
+clineuro	
+.	
+2005	
+.	
+12	
+.	
+6	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+22	
+.	
+Gorelick	B-N
+PB	I-N
+","	
+Scuteri	B-N
+A	I-N
+","	
+Black	B-N
+SE	I-N
+","	
+Decarli	B-N
+C	I-N
+","	
+Greenberg	B-N
+SM	I-N
+","	
+Iadecola	B-N
+C	I-N
+","	
+Launer	B-N
+LJ	I-N
+","	
+Laurent	B-N
+S	I-N
+","	
+Lopez	B-N
+OL	I-N
+","	
+Nyenhuis	B-N
+D	I-N
+","	
+Petersen	B-N
+RC	I-N
+","	
+Schneider	B-N
+JA	I-N
+","	
+Tzourio	B-N
+C	I-N
+","	
+Arnett	B-N
+DK	I-N
+","	
+Bennett	B-N
+DA	I-N
+","	
+Chui	B-N
+HC	I-N
+","	
+Higashida	B-N
+RT	I-N
+","	
+Lindquist	B-N
+R	I-N
+","	
+Nilsson	B-N
+PM	I-N
+","	
+Roman	B-N
+GC	I-N
+","	
+Sellke	B-N
+FW	I-N
+","	
+Seshadri	B-N
+S	I-N
+.	
+Vascular	
+contributions	
+to	
+cognitive	
+impairment	
+and	
+dementia	
+:	
+a	
+statement	
+for	
+healthcare	
+professionals	
+from	
+the	
+American	
+heart	
+association	
+/	
+American	
+stroke	
+association	
+.	
+Stroke	
+.	
+2011	
+;	
+42	
+:	
+2672	
+–	
+2713	
+.	
+doi	
+:	
+10	
+.	
+1161	
+/	
+STR	
+.	
+0b013e3182299496	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	

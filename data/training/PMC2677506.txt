@@ -1,0 +1,1370 @@
+1	
+.	
+Schmidt	B-N
+R	I-N
+","	
+Fazekas	B-N
+F	I-N
+","	
+Offenbacher	B-N
+H	I-N
+","	
+et	
+al	
+.	
+Neuropsychologic	
+correlates	
+of	
+MRI	
+white	
+matter	
+hyperintensities	
+:	
+a	
+study	
+of	
+150	
+normal	
+volunteers	
+.	
+Neurology	
+1993	
+;	
+43	
+:	
+2490	
+??	
+2494	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Pantoni	B-N
+L	I-N
+","	
+Garcia	B-N
+JH	I-N
+.	
+Pathogenesis	
+of	
+leukoaraiosis	
+.	
+Stroke	
+1997	
+;	
+28	
+:	
+652	
+??	
+659	
+.	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Mesulam	B-N
+MM	I-N
+","	
+Geula	B-N
+C	I-N
+.	
+Nucleus	
+basalis	
+(	
+Ch4	
+)	
+and	
+cortical	
+cholinergic	
+innervation	
+in	
+the	
+human	
+brain	
+:	
+observations	
+based	
+on	
+the	
+distribution	
+of	
+acetylcholinesterase	
+and	
+choline	
+acetyltransferase	
+.	
+J	
+Comp	
+Neurol	
+1988	
+;	
+275	
+:	
+216	
+??	
+240	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Selden	B-N
+NR	I-N
+","	
+Gitelman	B-N
+DR	I-N
+","	
+Salamon-Murayama	B-N
+N	I-N
+","	
+Parrish	B-N
+TB	I-N
+","	
+Mesulam	B-N
+MM	I-N
+.	
+Trajectories	
+of	
+cholinergic	
+pathways	
+within	
+the	
+cerebral	
+hemispheres	
+of	
+the	
+human	
+brain	
+.	
+Brain	
+1998	
+;	
+121	
+:	
+2249	
+??	
+2257	
+.	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Mesulam	B-N
+M	I-N
+","	
+Siddique	B-N
+T	I-N
+","	
+Cohen	B-N
+B	I-N
+.	
+Cholinergic	
+denervation	
+in	
+a	
+pure	
+multi-infarct	
+state	
+:	
+observations	
+on	
+CADASIL	
+.	
+Neurology	
+2003	
+;	
+60	
+:	
+1183	
+??	
+1185	
+.	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Cham	B-N
+R	I-N
+","	
+Perera	B-N
+S	I-N
+","	
+Studenski	B-N
+SA	I-N
+","	
+Bohnen	B-N
+NI	I-N
+.	
+Striatal	
+dopamine	
+denervation	
+and	
+sensory	
+integration	
+for	
+balance	
+in	
+middle-aged	
+and	
+older	
+adults	
+.	
+Gait	
+Posture	
+2007	
+;	
+26	
+:	
+516	
+??	
+525	
+.	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Conners	B-N
+CK	I-N
+.	
+The	
+computerized	
+continuous	
+performance	
+test	
+.	
+Psychopharmacol	
+Bull	
+1985	
+;	
+21	
+:	
+891	
+??	
+892	
+.	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Reitan	B-N
+R	I-N
+.	
+Validity	
+of	
+the	
+Trail-making	
+Tests	
+as	
+an	
+indication	
+of	
+organic	
+brain	
+damage	
+.	
+Mot	
+Skills	
+1958	
+;	
+8	
+:	
+271	
+??	
+276	
+.	
+	
+9	
+.	
+Scheltens	B-N
+P	I-N
+","	
+Barkhof	B-N
+F	I-N
+","	
+Leys	B-N
+D	I-N
+","	
+et	
+al	
+.	
+A	
+semiquantitative	
+rating	
+scale	
+for	
+the	
+assessment	
+of	
+signal	
+hyperintensities	
+on	
+magnetic	
+resonance	
+imaging	
+.	
+J	
+Neurol	
+Sci	
+1993	
+;	
+114	
+:	
+7	
+??	
+12	
+.	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Kapeller	B-N
+P	I-N
+","	
+Barber	B-N
+R	I-N
+","	
+Vermeulen	B-N
+RJ	I-N
+","	
+et	
+al	
+.	
+Visual	
+rating	
+of	
+age-related	
+white	
+matter	
+changes	
+on	
+magnetic	
+resonance	
+imaging	
+:	
+scale	
+comparison	
+","	
+interrater	
+agreement	
+","	
+and	
+correlations	
+with	
+quantitative	
+measurements	
+.	
+Stroke	
+2003	
+;	
+34	
+:	
+441	
+??	
+445	
+.	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Bocti	B-N
+C	I-N
+","	
+Swartz	B-N
+RH	I-N
+","	
+Gao	B-N
+FQ	I-N
+","	
+Sahlas	B-N
+DJ	I-N
+","	
+Behl	B-N
+P	I-N
+","	
+Black	B-N
+SE	I-N
+.	
+A	
+new	
+visual	
+rating	
+scale	
+to	
+assess	
+strategic	
+white	
+matter	
+hyperintensities	
+within	
+cholinergic	
+pathways	
+in	
+dementia	
+.	
+Stroke	
+2005	
+;	
+36	
+:	
+2126	
+??	
+2131	
+.	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Irie	B-N
+T	I-N
+","	
+Fukushi	B-N
+K	I-N
+","	
+Akimoto	B-N
+Y	I-N
+","	
+Tamagami	B-N
+H	I-N
+","	
+Nozaki	B-N
+T	I-N
+.	
+Design	
+and	
+evaluation	
+of	
+radioactive	
+acetylcholine	
+analogs	
+for	
+mapping	
+brain	
+acetylcholinesterase	
+(	
+AChE	
+)	
+in	
+vivo	
+.	
+Nucl	
+Med	
+Biol	
+1994	
+;	
+21	
+:	
+801	
+??	
+808	
+.	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Shute	B-N
+CC	I-N
+","	
+Lewis	B-N
+PR	I-N
+.	
+Electron	
+microscopy	
+of	
+cholinergic	
+terminals	
+and	
+acetylcholinesterase-containing	
+neurones	
+in	
+the	
+hippocampal	
+formation	
+of	
+the	
+rat	
+.	
+Z	
+Zellforsch	
+Mikrosk	
+Anat	
+1966	
+;	
+69	
+:	
+334	
+??	
+343	
+.	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Snyder	B-N
+SE	I-N
+","	
+Tluczek	B-N
+L	I-N
+","	
+Jewett	B-N
+DM	I-N
+","	
+Nguyen	B-N
+TB	I-N
+","	
+Kuhl	B-N
+DE	I-N
+","	
+Kilbourn	B-N
+MR	I-N
+.	
+Synthesis	
+of	
+-1	
+[	
+11C	
+]	
+methylpiperidin-4-yl	
+propionate	
+(	
+[	
+11C	
+]	
+PMP	
+)	
+for	
+in	
+vivo	
+measurements	
+of	
+acetylcholinesterase	
+activity	
+.	
+Nucl	
+Med	
+Biol	
+1998	
+;	
+25	
+:	
+751	
+??	
+754	
+.	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Weinhard	B-N
+K	I-N
+.	
+Applications	
+of	
+3D	
+PET	
+.	
+In	
+:	
+Bendriem	
+B	
+","	
+Townsend	
+DW	
+","	
+eds	
+.	
+The	
+Theory	
+and	
+Practice	
+of	
+3D	
+PET	
+.	
+Boston	
+:	
+Kluwer	
+Academic	
+Publishers	
+;	
+1998	
+:	
+133	
+??	
+167	
+	
+16	
+.	
+Hammers	B-N
+A	I-N
+","	
+Allom	B-N
+R	I-N
+","	
+Koepp	B-N
+MJ	I-N
+","	
+et	
+al	
+.	
+Three-dimensional	
+maximum	
+probability	
+atlas	
+of	
+the	
+human	
+brain	
+","	
+with	
+particular	
+reference	
+to	
+the	
+temporal	
+lobe	
+.	
+Hum	
+Brain	
+Mapp	
+2003	
+;	
+19	
+:	
+224	
+??	
+247	
+.	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Maes	B-N
+F	I-N
+","	
+Collignon	B-N
+A	I-N
+","	
+Vandermeulen	B-N
+D	I-N
+","	
+Marchal	B-N
+G	I-N
+","	
+Suetens	B-N
+P	I-N
+.	
+Multimodality	
+image	
+registration	
+by	
+maximization	
+of	
+mutual	
+information	
+.	
+IEEE	
+Trans	
+Med	
+Imaging	
+1997	
+;	
+16	
+:	
+187	
+??	
+198	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Ashburner	B-N
+J	I-N
+","	
+Friston	B-N
+KJ	I-N
+.	
+Rigid	
+body	
+registration	
+.	
+In	
+:	
+Frackowiak	
+RSJ	
+","	
+Friston	
+KL	
+","	
+Frith	
+CD	
+","	
+et	
+al	
+","	
+eds	
+.	
+Human	
+Brain	
+Function	
+","	
+2nd	
+ed	
+.	
+San	
+Diego	
+:	
+Academic	
+Press	
+;	
+2003	
+:	
+1	
+??	
+24	
+	
+19	
+.	
+Frouin	B-N
+V	I-N
+","	
+Comtat	B-N
+C	I-N
+","	
+Reilhac	B-N
+A	I-N
+","	
+Gregoire	B-N
+MC	I-N
+.	
+Correction	
+of	
+partial-volume	
+effect	
+for	
+PET	
+striatal	
+imaging	
+:	
+fast	
+implementation	
+and	
+study	
+of	
+robustness	
+.	
+J	
+Nucl	
+Med	
+2002	
+;	
+43	
+:	
+1715	
+??	
+1726	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Rousset	B-N
+OG	I-N
+","	
+Deep	B-N
+P	I-N
+","	
+Kuwabara	B-N
+H	I-N
+","	
+Evans	B-N
+AC	I-N
+","	
+Gjedde	B-N
+AH	I-N
+","	
+Cumming	B-N
+P	I-N
+.	
+Effect	
+of	
+partial	
+volume	
+correction	
+on	
+estimates	
+of	
+the	
+influx	
+and	
+cerebral	
+metabolism	
+of	
+-6	
+[	
+(	
+18	
+)	
+F	
+]	
+fluoro-L-dopa	
+studied	
+with	
+PET	
+in	
+normal	
+control	
+and	
+Parkinson	
+'	
+s	
+disease	
+subjects	
+.	
+Synapse	
+2000	
+;	
+37	
+:	
+81	
+??	
+89	
+.	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Nagatsuka	B-N
+S	I-N
+","	
+Fukushi	B-N
+K	I-N
+","	
+Shinotoh	B-N
+H	I-N
+","	
+et	
+al	
+.	
+Kinetic	
+analysis	
+of	
+[	
+(	
+11	
+)	
+C	
+]	
+MP4A	
+using	
+a	
+high-radioactivity	
+brain	
+region	
+that	
+represents	
+an	
+integrated	
+input	
+function	
+for	
+measurement	
+of	
+cerebral	
+acetylcholinesterase	
+activity	
+without	
+arterial	
+blood	
+sampling	
+.	
+J	
+Cereb	
+Blood	
+Flow	
+Metab	
+2001	
+;	
+21	
+:	
+1354	
+??	
+1366	
+.	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Kuwabara	B-N
+H	I-N
+","	
+Muller	B-N
+MT	I-N
+","	
+Bohnen	B-N
+NI	I-N
+.	
+A	
+constrained	
+analysis	
+improved	
+estimates	
+of	
+acetylcholinesterase	
+density	
+with	
+[	
+11C	
+]	
+PMP	
+and	
+PET	
+.	
+J	
+Nucl	
+Med	
+2008	
+;	
+49	
+:	
+118P	
+.	
+	
+23	
+.	
+DeCarli	B-N
+C	I-N
+","	
+Fletcher	B-N
+E	I-N
+","	
+Ramey	B-N
+V	I-N
+","	
+Harvey	B-N
+D	I-N
+","	
+Jagust	B-N
+WJ	I-N
+.	
+Anatomical	
+mapping	
+of	
+white	
+matter	
+hyperintensities	
+(	
+WMH	
+)	
+:	
+exploring	
+the	
+relationships	
+between	
+periventricular	
+WMH	
+","	
+deep	
+WMH	
+","	
+and	
+total	
+WMH	
+burden	
+.	
+Stroke	
+2005	
+;	
+36	
+:	
+50	
+??	
+55	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Barkhof	B-N
+F	I-N
+","	
+Scheltens	B-N
+P	I-N
+.	
+Is	
+the	
+whole	
+brain	
+periventricular	
+?	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+2006	
+;	
+77	
+:	
+143	
+??	
+144	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+25	
+.	
+Pawlak	B-N
+M	I-N
+","	
+Krejza	B-N
+J	I-N
+.	
+A	
+new	
+visual	
+scale	
+to	
+assess	
+white	
+matter	
+hyperintensities	
+within	
+cholinergic	
+pathways	
+.	
+Stroke	
+2005	
+;	
+36	
+:	
+2064	
+??	
+2065	
+.	
+[	
+PubMed	
+]	
+	
+26	
+.	
+Snowdon	B-N
+DA	I-N
+","	
+Greiner	B-N
+LH	I-N
+","	
+Mortimer	B-N
+JA	I-N
+","	
+Riley	B-N
+KP	I-N
+","	
+Greiner	B-N
+PA	I-N
+","	
+Markesbery	B-N
+WR	I-N
+.	
+Brain	
+infarction	
+and	
+the	
+clinical	
+expression	
+of	
+Alzheimer	
+disease	
+:	
+the	
+Nun	
+Study	
+.	
+JAMA	
+1997	
+;	
+277	
+:	
+813	
+??	
+817	
+.	
+[	
+PubMed	
+]	
+	
+27	
+.	
+Swartz	B-N
+RH	I-N
+","	
+Sahlas	B-N
+DJ	I-N
+","	
+Black	B-N
+SE	I-N
+.	
+Strategic	
+involvement	
+of	
+cholinergic	
+pathways	
+and	
+executive	
+dysfunction	
+:	
+does	
+location	
+of	
+white	
+matter	
+signal	
+hyperintensities	
+matter	
+?	
+J	
+Stroke	
+Cerebrovasc	
+Dis	
+2003	
+;	
+12	
+:	
+29	
+??	
+36	
+.	
+[	
+PubMed	
+]	
+	
+28	
+.	
+Brickman	B-N
+AM	I-N
+","	
+Honig	B-N
+LS	I-N
+","	
+Scarmeas	B-N
+N	I-N
+","	
+et	
+al	
+.	
+Measuring	
+cerebral	
+atrophy	
+and	
+white	
+matter	
+hyperintensity	
+burden	
+to	
+predict	
+the	
+rate	
+of	
+cognitive	
+decline	
+in	
+Alzheimer	
+disease	
+.	
+Arch	
+Neurol	
+2008	
+;	
+65	
+:	
+1202	
+??	
+1208	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+29	
+.	
+Nebes	B-N
+RD	I-N
+","	
+Pollock	B-N
+BG	I-N
+","	
+Halligan	B-N
+EM	I-N
+","	
+Kirshner	B-N
+MA	I-N
+","	
+Houck	B-N
+PR	I-N
+.	
+Serum	
+anticholinergic	
+activity	
+and	
+motor	
+performance	
+in	
+elderly	
+persons	
+.	
+J	
+Gerontol	
+A	
+Biol	
+Sci	
+Med	
+Sci	
+2007	
+;	
+62	
+:	
+83	
+??	
+85	
+.	
+[	
+PubMed	
+]	
+	
+30	
+.	
+Bohnen	B-N
+NI	I-N
+","	
+Kaufer	B-N
+DI	I-N
+","	
+Hendrickson	B-N
+R	I-N
+","	
+et	
+al	
+.	
+Cognitive	
+correlates	
+of	
+alterations	
+in	
+acetylcholinesterase	
+in	
+Alzheimer	
+'	
+s	
+disease	
+.	
+Neurosci	
+Lett	
+2005	
+;	
+380	
+:	
+127	
+??	
+132	
+.	
+[	
+PubMed	
+]	
+	
+31	
+.	
+Bohnen	B-N
+NI	I-N
+","	
+Kaufer	B-N
+DI	I-N
+","	
+Hendrickson	B-N
+R	I-N
+","	
+et	
+al	
+.	
+Cognitive	
+correlates	
+of	
+cortical	
+cholinergic	
+denervation	
+in	
+Parkinson	
+'	
+s	
+disease	
+and	
+parkinsonian	
+dementia	
+.	
+J	
+Neurol	
+2006	
+;	
+253	
+:	
+242	
+??	
+247	
+.	
+[	
+PubMed	
+]	

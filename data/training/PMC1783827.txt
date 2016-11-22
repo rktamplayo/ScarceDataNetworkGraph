@@ -1,0 +1,1021 @@
+1	
+.	
+Ferguson	B-N
+J	I-N
+.	I-N
+E	I-N
+.	I-N
+","	
+Kelley	B-N
+R	I-N
+.	I-N
+W	I-N
+.	I-N
+","	
+Patterson	B-N
+C	I-N
+.	I-N
+Mechanisms	
+of	
+endothelial	
+differentiation	
+in	
+embryonic	
+vasculogenesis	
+.	
+Arterioscler	
+.	
+Thromb	
+.	
+Vasc	
+.	
+Biol	
+.	
+2005	
+;	
+25	
+:	
+2246	
+–	
+2254	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Gibbons	B-N
+G	I-N
+.	I-N
+H	I-N
+.	I-N
+","	
+Dzau	B-N
+V	I-N
+.	I-N
+J	I-N
+.	I-N
+The	
+emerging	
+concept	
+of	
+vascular	
+remodeling	
+.	
+New	
+Engl	
+.	
+J	
+.	
+Med	
+.	
+1994	
+;	
+330	
+:	
+1431	
+–	
+1438	
+.	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Creazzo	B-N
+T	I-N
+.	I-N
+L	I-N
+.	I-N
+","	
+Godt	B-N
+R	I-N
+.	I-N
+E	I-N
+.	I-N
+","	
+Leatherbury	B-N
+L	I-N
+.	I-N
+","	
+Conway	B-N
+S	I-N
+.	I-N
+J	B-N
+.	I-N
+","	
+Kirby	B-N
+M	I-N
+.	I-N
+L	I-N
+.	I-N
+Role	
+of	
+cardiac	
+neural	
+crest	
+in	
+cardiovascular	
+development	
+.	
+Annu	
+.	
+Rev	
+.	
+Physiol	
+.	
+1998	
+;	
+60	
+:	
+267	
+–	
+286	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Hirschi	B-N
+K	I-N
+.	I-N
+K	I-N
+.	I-N
+","	
+Majesky	B-N
+J	I-N
+.	I-N
+W	I-N
+.	I-N
+Smooth	
+muscle	
+stem	
+cells	
+.	
+Anat	
+.	
+Rec	
+.	
+A	
+Discov	
+.	
+Mol	
+.	
+Cell	
+.	
+Evol	
+.	
+Biol	
+.	
+2004	
+;	
+276	
+:	
+22	
+–	
+33	
+.	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Stoller	B-N
+J	I-N
+.	I-N
+Z	I-N
+.	I-N
+","	
+Epstein	B-N
+J	I-N
+.	I-N
+A	I-N
+.	I-N
+Cardiac	
+neural	
+crest	
+.	
+Semin	
+.	
+Cell	
+Dev	
+.	
+Biol	
+.	
+2005	
+;	
+16	
+:	
+704	
+–	
+715	
+.	
+[	
+PubMed	
+]	
+	
+6	
+.	
+High	B-N
+F	I-N
+.	I-N
+A	I-N
+.	I-N
+","	
+et	
+al	
+.	
+An	
+essential	
+role	
+for	
+Notch	
+in	
+neural	
+crest	
+during	
+cardiovascular	
+development	
+and	
+smooth	
+muscle	
+differentiation	
+.	
+J	
+.	
+Clin	
+.	
+Invest	
+.	
+2007	
+;	
+117	
+:	
+353	
+–	
+363	
+.	
+doi	
+:	
+10	
+.	
+1172	
+/	
+JCI30070	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+7	
+.	
+Alva	B-N
+J	I-N
+.	I-N
+A	I-N
+.	I-N
+","	
+Iruela-Arispe	B-N
+M	I-N
+.	I-N
+L	I-N
+.	I-N
+Notch	
+signaling	
+in	
+vascular	
+morphogenesis	
+.	
+Curr	
+.	
+Opin	
+.	
+Hematol	
+.	
+2004	
+;	
+11	
+:	
+278	
+–	
+283	
+.	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Xue	B-N
+Y	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Embryonic	
+lethality	
+and	
+vascular	
+defects	
+in	
+mice	
+lacking	
+the	
+Notch	
+ligand	
+Jagged1	
+.	
+Hum	
+.	
+Mol	
+.	
+Genet	
+.	
+1999	
+;	
+8	
+:	
+723	
+–	
+730	
+.	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Zhang	B-N
+Z	I-N
+.	I-N
+","	
+Tuong	B-N
+H	I-N
+.	I-N
+","	
+Baldini	B-N
+A	I-N
+.	I-N
+Mesodermal	
+expression	
+of	
+Tbx1	
+is	
+necessary	
+and	
+sufficient	
+for	
+pharyngeal	
+arch	
+and	
+cardiac	
+outflow	
+tract	
+development	
+.	
+Development	
+.	
+2006	
+;	
+133	
+:	
+3587	
+–	
+3595	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Baldini	B-N
+A	I-N
+.	I-N
+Dissecting	
+contiguous	
+gene	
+defects	
+:	
+TBX1	
+.	
+Curr	
+.	
+Opin	
+.	
+Genet	
+.	
+Dev	
+.	
+2005	
+;	
+15	
+:	
+279	
+–	
+284	
+.	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Epstein	B-N
+J	I-N
+.	I-N
+A	I-N
+.	I-N
+","	
+Parmacek	B-N
+M	I-N
+.	I-N
+S	I-N
+.	I-N
+Recent	
+advances	
+in	
+cardiac	
+development	
+with	
+therapeutic	
+implications	
+for	
+adult	
+cardiovascular	
+disease	
+.	
+Circulation	
+.	
+2005	
+;	
+112	
+:	
+592	
+–	
+597	
+.	
+[	
+PubMed	
+]	
+	
+12	
+.	
+McDaniell	B-N
+R	I-N
+.	I-N
+","	
+et	
+al	
+.	
+2006NOTCH2	
+mutations	
+cause	
+Alagille	
+syndrome	
+","	
+a	
+heterogeneous	
+disorder	
+of	
+the	
+Notch	
+signaling	
+pathway	
+.	
+.	
+Am	
+.	
+J	
+Hum	
+.	
+Genet	
+.	
+79169	
+–	
+173	
+.	
+173	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Campos	B-N
+A	I-N
+.	I-N
+H	I-N
+.	I-N
+","	
+Wang	B-N
+W	I-N
+.	I-N
+","	
+Pollman	B-N
+M	I-N
+.	I-N
+J	I-N
+.	I-N
+","	
+Gibbons	B-N
+G	I-N
+.	I-N
+H	I-N
+.	I-N
+Determinants	
+of	
+Notch-3	
+receptor	
+expression	
+and	
+signaling	
+in	
+vascular	
+smooth	
+muscle	
+cells	
+:	
+implications	
+in	
+cell-cycle	
+regulation	
+.	
+Circ	
+.	
+Res	
+.	
+2002	
+;	
+91	
+:	
+999	
+–	
+1006	
+.	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Morrow	B-N
+D	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Cyclic	
+strain	
+inhibits	
+Notch	
+receptor	
+signaling	
+in	
+vascular	
+smooth	
+muscle	
+cells	
+in	
+vitro	
+.	
+Circ	
+.	
+Res	
+.	
+2005	
+;	
+96	
+:	
+567	
+–	
+575	
+.	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Sakata	B-N
+Y	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Transcription	
+factor	
+CHF1	
+/	
+Hey2	
+regulates	
+neointimal	
+formation	
+in	
+vivo	
+and	
+vascular	
+smooth	
+muscle	
+proliferation	
+and	
+migration	
+in	
+vitro	
+.	
+Arterioscler	
+.	
+Thromb	
+.	
+Vasc	
+.	
+Biol	
+.	
+.	
+2004	
+;	
+24	
+:	
+2069	
+–	
+2074	
+.	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Domenga	B-N
+V	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Notch3	
+is	
+required	
+for	
+arterial	
+identity	
+and	
+maturation	
+of	
+vascular	
+smooth	
+muscle	
+cells	
+.	
+Genes	
+Dev	
+.	
+2004	
+;	
+18	
+:	
+2730	
+–	
+2735	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Arumugam	B-N
+T	I-N
+.	I-N
+V	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Gamma	
+secretase	
+–	
+mediated	
+Notch	
+signaling	
+worsens	
+brain	
+damage	
+and	
+functional	
+outcome	
+in	
+ischemic	
+stroke	
+.	
+Nat	
+.	
+Med	
+.	
+2006	
+;	
+12	
+:	
+621	
+–	
+623	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Shen	B-N
+H	I-N
+.	I-N
+","	
+et	
+al	
+.	
+The	
+Notch	
+coactivator	
+","	
+MAML1	
+","	
+functions	
+as	
+a	
+novel	
+coactivator	
+for	
+MEF2C-mediated	
+transcription	
+and	
+is	
+required	
+for	
+normal	
+myogenesis	
+.	
+Genes	
+Dev	
+.	
+2006	
+;	
+20	
+:	
+675	
+–	
+688	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Doi	B-N
+H	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Jagged1-selective	
+Notch	
+signaling	
+induces	
+smooth	
+muscle	
+differentiation	
+via	
+a	
+RBP-J	
+–	
+dependent	
+pathway	
+.	
+J	
+.	
+Biol	
+.	
+Chem	
+.	
+2006	
+;	
+281	
+:	
+28555	
+–	
+28564	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Proweller	B-N
+A	I-N
+.	I-N
+","	
+Pear	B-N
+W	I-N
+.	I-N
+S	I-N
+.	I-N
+","	
+Parmacek	B-N
+M	I-N
+.	I-N
+S	I-N
+.	I-N
+Notch	
+signaling	
+represses	
+myocardin-induced	
+smooth	
+muscle	
+cell	
+differentiation	
+.	
+J	
+.	
+Biol	
+.	
+Chem	
+.	
+2005	
+;	
+280	
+:	
+8994	
+–	
+9004	
+.	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Olson	B-N
+E	I-N
+.	I-N
+N	I-N
+.	I-N
+Gene	
+regulatory	
+networks	
+in	
+the	
+evolution	
+and	
+development	
+of	
+the	
+heart	
+.	
+Science	
+.	
+2006	
+;	
+313	
+:	
+1922	
+–	
+1927	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Loeys	B-N
+B	I-N
+.	I-N
+L	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Aneurysm	
+syndromes	
+caused	
+by	
+mutations	
+in	
+the	
+TGF-β	
+receptor	
+.	
+New	
+Engl	
+.	
+J	
+.	
+Med	
+.	
+.	
+2006	
+;	
+355	
+:	
+788	
+–	
+798	
+.	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Habashi	B-N
+J	I-N
+.	I-N
+P	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Losartan	
+","	
+an	
+AT1	
+antagonist	
+","	
+prevents	
+aortic	
+aneurysm	
+in	
+a	
+mouse	
+model	
+of	
+Marfan	
+syndrome	
+.	
+Science	
+.	
+.	
+2006	
+;	
+312	
+:	
+117	
+–	
+121	
+.	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	

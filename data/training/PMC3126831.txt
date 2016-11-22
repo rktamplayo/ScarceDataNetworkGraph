@@ -1,0 +1,1001 @@
+1	
+.	
+Jood	B-N
+K	I-N
+","	
+Ladenvall	B-N
+C	I-N
+","	
+Rosengren	B-N
+A	I-N
+","	
+Blomstrand	B-N
+C	I-N
+","	
+Jern	B-N
+C	I-N
+.	
+Family	
+history	
+in	
+ischemic	
+stroke	
+before	
+70	
+years	
+of	
+age	
+:	
+the	
+Sahlgrenska	
+Academy	
+Study	
+on	
+Ischemic	
+Stroke	
+.	
+Stroke	
+.	
+2005	
+;	
+36	
+:	
+1383	
+–	
+1387	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Jerrard-Dunne	B-N
+P	I-N
+","	
+Cloud	B-N
+G	I-N
+","	
+Hassan	B-N
+A	I-N
+","	
+Markus	B-N
+HS	I-N
+.	
+Evaluating	
+the	
+genetic	
+component	
+of	
+ischemic	
+stroke	
+subtypes	
+:	
+a	
+family	
+history	
+study	
+.	
+Stroke	
+.	
+2003	
+;	
+34	
+:	
+1364	
+–	
+1369	
+.	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Polychronopoulos	B-N
+P	I-N
+","	
+Gioldasis	B-N
+G	I-N
+","	
+Ellul	B-N
+J	I-N
+","	
+Metallinos	B-N
+IC	I-N
+","	
+Lekka	B-N
+NP	I-N
+","	
+et	
+al	
+.	
+Family	
+history	
+of	
+stroke	
+in	
+stroke	
+types	
+and	
+subtypes	
+.	
+J	
+Neurol	
+Sci	
+.	
+2002	
+;	
+195	
+:	
+117	
+–	
+122	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Burton	B-N
+PR	I-N
+","	
+Tobin	B-N
+MD	I-N
+","	
+Hopper	B-N
+JL	I-N
+.	
+Key	
+concepts	
+in	
+genetic	
+epidemiology	
+.	
+Lancet	
+.	
+2005	
+;	
+366	
+:	
+941	
+–	
+951	
+.	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Lisabeth	B-N
+LD	I-N
+","	
+Peyser	B-N
+PA	I-N
+","	
+Long	B-N
+JC	I-N
+","	
+Majerisk	B-N
+JJ	I-N
+","	
+Smith	B-N
+MA	I-N
+","	
+et	
+al	
+.	
+Stroke	
+among	
+siblings	
+in	
+a	
+biethnic	
+community	
+.	
+Neuroepidemiology	
+.	
+2008	
+;	
+31	
+:	
+33	
+–	
+38	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Knottnerus	B-N
+IL	I-N
+","	
+Govers-Riemslag	B-N
+JW	I-N
+","	
+Hamulyak	B-N
+K	I-N
+","	
+Rouhl	B-N
+RP	I-N
+","	
+Staals	B-N
+J	I-N
+","	
+et	
+al	
+.	
+Endothelial	
+activation	
+in	
+lacunar	
+stroke	
+subtypes	
+.	
+Stroke	
+.	
+2010	
+;	
+41	
+:	
+1617	
+–	
+1622	
+.	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Bamford	B-N
+J	I-N
+","	
+Sandercock	B-N
+P	I-N
+","	
+Jones	B-N
+L	I-N
+","	
+Warlow	B-N
+C	I-N
+.	
+The	
+natural	
+history	
+of	
+lacunar	
+infarction	
+:	
+the	
+Oxfordshire	
+Community	
+Stroke	
+Project	
+.	
+Stroke	
+.	
+1987	
+;	
+18	
+:	
+545	
+–	
+551	
+.	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Rouhl	B-N
+RP	I-N
+","	
+van	B-N
+Oostenbrugge	I-N
+RJ	I-N
+","	
+Knottnerus	B-N
+IL	I-N
+","	
+Staals	B-N
+JE	I-N
+","	
+Lodder	B-N
+J	I-N
+.	
+Virchow-Robin	
+spaces	
+relate	
+to	
+cerebral	
+small	
+vessel	
+disease	
+severity	
+.	
+J	
+Neurol	
+.	
+2008	
+;	
+255	
+:	
+692	
+–	
+696	
+.	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Bots	B-N
+ML	I-N
+","	
+Looman	B-N
+SJ	I-N
+","	
+Koudstaal	B-N
+PJ	I-N
+","	
+Hofman	B-N
+A	I-N
+","	
+Hoes	B-N
+AW	I-N
+","	
+et	
+al	
+.	
+Prevalence	
+of	
+stroke	
+in	
+the	
+general	
+population	
+.	
+The	
+Rotterdam	
+Study	
+.	
+Stroke	
+.	
+1996	
+;	
+27	
+:	
+1499	
+–	
+1501	
+.	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Staals	B-N
+J	I-N
+","	
+van	B-N
+Oostenbrugge	I-N
+RJ	I-N
+","	
+Knottnerus	B-N
+IL	I-N
+","	
+Rouhl	B-N
+RP	I-N
+","	
+Henskens	B-N
+LH	I-N
+","	
+et	
+al	
+.	
+Brain	
+microbleeds	
+relate	
+to	
+higher	
+ambulatory	
+blood	
+pressure	
+levels	
+in	
+first-ever	
+lacunar	
+stroke	
+patients	
+.	
+Stroke	
+.	
+2009	
+;	
+40	
+:	
+3264	
+–	
+3268	
+.	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Jackson	B-N
+C	I-N
+","	
+Sudlow	B-N
+C	I-N
+.	
+Are	
+lacunar	
+strokes	
+really	
+different	
+?	
+A	
+systematic	
+review	
+of	
+differences	
+in	
+risk	
+factor	
+profiles	
+between	
+lacunar	
+and	
+nonlacunar	
+infarcts	
+.	
+Stroke	
+.	
+2005	
+;	
+36	
+:	
+891	
+–	
+901	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Markus	B-N
+HS	I-N
+.	
+Unravelling	
+the	
+genetics	
+of	
+ischaemic	
+stroke	
+.	
+PLoS	
+Med	
+.	
+2010	
+;	
+7	
+:	
+e1000225	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Mullen	B-N
+SA	I-N
+","	
+Crompton	B-N
+DE	I-N
+","	
+Carney	B-N
+PW	I-N
+","	
+Helbig	B-N
+I	I-N
+","	
+Berkovic	B-N
+SF	I-N
+.	
+A	
+neurologist	
+'	
+s	
+guide	
+to	
+genome-wide	
+association	
+studies	
+.	
+Neurology	
+.	
+2009	
+;	
+72	
+:	
+558	
+–	
+565	
+.	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Atwood	B-N
+LD	I-N
+","	
+Wolf	B-N
+PA	I-N
+","	
+Heard-Costa	B-N
+NL	I-N
+","	
+Massaro	B-N
+JM	I-N
+","	
+Beiser	B-N
+A	I-N
+","	
+et	
+al	
+.	
+Genetic	
+variation	
+in	
+white	
+matter	
+hyperintensity	
+volume	
+in	
+the	
+Framingham	
+Study	
+.	
+Stroke	
+.	
+2004	
+;	
+35	
+:	
+1609	
+–	
+1613	
+.	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Carmelli	B-N
+D	I-N
+","	
+DeCarli	B-N
+C	I-N
+","	
+Swan	B-N
+GE	I-N
+","	
+Jack	B-N
+LM	I-N
+","	
+Reed	B-N
+T	I-N
+","	
+et	
+al	
+.	
+Evidence	
+for	
+genetic	
+variance	
+in	
+white	
+matter	
+hyperintensity	
+volume	
+in	
+normal	
+elderly	
+male	
+twins	
+.	
+Stroke	
+.	
+1998	
+;	
+29	
+:	
+1177	
+–	
+1181	
+.	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Leistner	B-N
+S	I-N
+","	
+Huebner	B-N
+N	I-N
+","	
+Faulstich	B-N
+A	I-N
+","	
+Ludwig	B-N
+D	I-N
+","	
+Rees	B-N
+M	I-N
+","	
+et	
+al	
+.	
+Increased	
+prevalence	
+of	
+microangiopathic	
+brain	
+lesions	
+among	
+siblings	
+of	
+patients	
+with	
+lacunar	
+stroke	
+.	
+A	
+prospective	
+multicenter	
+study	
+.	
+Eur	
+Neurol	
+.	
+2008	
+;	
+59	
+:	
+143	
+–	
+147	
+.	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Flossmann	B-N
+E	I-N
+","	
+Schulz	B-N
+UG	I-N
+","	
+Rothwell	B-N
+PM	I-N
+.	
+Potential	
+confounding	
+by	
+intermediate	
+phenotypes	
+in	
+studies	
+of	
+the	
+genetics	
+of	
+ischaemic	
+stroke	
+.	
+Cerebrovasc	
+Dis	
+.	
+2005	
+;	
+19	
+:	
+1	
+–	
+10	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Lindgren	B-N
+A	I-N
+","	
+Lovkvist	B-N
+H	I-N
+","	
+Hallstrom	B-N
+B	I-N
+","	
+Hoglund	B-N
+P	I-N
+","	
+Jonsson	B-N
+AC	I-N
+","	
+et	
+al	
+.	
+Prevalence	
+of	
+stroke	
+and	
+vascular	
+risk	
+factors	
+among	
+first-degree	
+relatives	
+of	
+stroke	
+patients	
+and	
+control	
+subjects	
+.	
+A	
+prospective	
+consecutive	
+study	
+.	
+Cerebrovasc	
+Dis	
+.	
+2005	
+;	
+20	
+:	
+381	
+–	
+387	
+.	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Jungehulsing	B-N
+GJ	I-N
+","	
+Muller-Nordhorn	B-N
+J	I-N
+","	
+Nolte	B-N
+CH	I-N
+","	
+Roll	B-N
+S	I-N
+","	
+Rossnagel	B-N
+K	I-N
+","	
+et	
+al	
+.	
+Prevalence	
+of	
+stroke	
+and	
+stroke	
+symptoms	
+:	
+a	
+population-based	
+survey	
+of	
+28	
+","	
+90	
+participants	
+.	
+Neuroepidemiology	
+.	
+2008	
+;	
+30	
+:	
+51	
+–	
+57	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Geddes	B-N
+JM	I-N
+","	
+Fear	B-N
+J	I-N
+","	
+Tennant	B-N
+A	I-N
+","	
+Pickering	B-N
+A	I-N
+","	
+Hillman	B-N
+M	I-N
+","	
+et	
+al	
+.	
+Prevalence	
+of	
+self	
+reported	
+stroke	
+in	
+a	
+population	
+in	
+northern	
+England	
+.	
+J	
+Epidemiol	
+Community	
+Health	
+.	
+1996	
+;	
+50	
+:	
+140	
+–	
+143	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Meschia	B-N
+JF	I-N
+","	
+Brown	B-N
+RD	I-N
+","	I-N
+Jr	I-N
+","	
+Brott	B-N
+TG	I-N
+","	
+Hardy	B-N
+J	I-N
+","	
+Atkinson	B-N
+EJ	I-N
+","	
+et	
+al	
+.	
+Feasibility	
+of	
+an	
+affected	
+sibling	
+pair	
+study	
+in	
+ischemic	
+stroke	
+:	
+results	
+of	
+a	
+2-center	
+family	
+history	
+registry	
+.	
+Stroke	
+.	
+2001	
+;	
+32	
+:	
+2939	
+–	
+2941	
+.	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Hassan	B-N
+A	I-N
+","	
+Sham	B-N
+PC	I-N
+","	
+Markus	B-N
+HS	I-N
+.	
+Planning	
+genetic	
+studies	
+in	
+human	
+stroke	
+:	
+sample	
+size	
+estimates	
+based	
+on	
+family	
+history	
+data	
+.	
+Neurology	
+.	
+2002	
+;	
+58	
+:	
+1483	
+–	
+1488	
+.	
+[	
+PubMed	
+]	

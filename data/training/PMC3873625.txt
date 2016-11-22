@@ -1,0 +1,1142 @@
+1	
+.	
+Pantoni	B-N
+L	I-N
+.	
+Cerebral	
+small	
+vessel	
+disease	
+:	
+from	
+pathogenesis	
+and	
+clinical	
+characteristics	
+to	
+therapeutic	
+challenges	
+.	
+Lancet	
+Neurol	
+2010	
+;	
+9	
+:	
+689	
+??	
+701	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Charidimou	B-N
+A	I-N
+","	
+Gang	B-N
+Q	I-N
+","	
+Werring	B-N
+DJ	I-N
+.	
+Sporadic	
+cerebral	
+amyloid	
+angiopathy	
+revisited	
+:	
+recent	
+insights	
+into	
+pathophysiology	
+and	
+clinical	
+spectrum	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+2012	
+;	
+83	
+:	
+124	
+??	
+137	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Viswanathan	B-N
+A	I-N
+","	
+Greenberg	B-N
+SM	I-N
+.	
+Cerebral	
+amyloid	
+angiopathy	
+in	
+the	
+elderly	
+.	
+Ann	
+Neurol	
+2011	
+;	
+70	
+:	
+871	
+??	
+880	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Vinters	B-N
+HV	I-N
+.	
+Cerebral	
+amyloid	
+angiopathy	
+.	
+A	
+critical	
+review	
+.	
+Stroke	
+1987	
+;	
+18	
+:	
+311	
+??	
+324	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Knudsen	B-N
+KA	I-N
+","	
+Rosand	B-N
+J	I-N
+","	
+Karluk	B-N
+D	I-N
+","	
+Greenberg	B-N
+SM	I-N
+.	
+Clinical	
+diagnosis	
+of	
+cerebral	
+amyloid	
+angiopathy	
+:	
+validation	
+of	
+the	
+Boston	
+criteria	
+.	
+Neurology	
+2001	
+;	
+56	
+:	
+537	
+??	
+539	
+[	
+PubMed	
+]	
+	
+6	
+.	
+van	B-N
+Rooden	I-N
+S	I-N
+","	
+van	B-N
+der	I-N
+Grond	I-N
+J	I-N
+","	
+van	B-N
+den	I-N
+Boom	I-N
+R	I-N
+","	
+et	
+al	
+.	
+Descriptive	
+analysis	
+of	
+the	
+Boston	
+criteria	
+applied	
+to	
+a	
+Dutch-type	
+cerebral	
+amyloid	
+angiopathy	
+population	
+.	
+Stroke	
+2009	
+;	
+40	
+:	
+3022	
+??	
+3027	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Charidimou	B-N
+A	I-N
+","	
+Meegahage	B-N
+R	I-N
+","	
+Fox	B-N
+Z	I-N
+","	
+et	
+al	
+.	
+Enlarged	
+perivascular	
+spaces	
+as	
+a	
+marker	
+of	
+underlying	
+arteriopathy	
+in	
+intracerebral	
+haemorrhage	
+:	
+a	
+multicentre	
+MRI	
+cohort	
+study	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+2013	
+;	
+84	
+:	
+624	
+??	
+629	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Cumurciuc	B-N
+R	I-N
+","	
+Guichard	B-N
+JP	I-N
+","	
+Reizine	B-N
+D	I-N
+","	
+Gray	B-N
+F	I-N
+","	
+Bousser	B-N
+MG	I-N
+","	
+Chabriat	B-N
+H	I-N
+.	
+Dilation	
+of	
+Virchow-Robin	
+spaces	
+in	
+CADASIL	
+.	
+Eur	
+J	
+Neurol	
+2006	
+;	
+13	
+:	
+187	
+??	
+190	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Doubal	B-N
+FN	I-N
+","	
+MacLullich	B-N
+AM	I-N
+","	
+Ferguson	B-N
+KJ	I-N
+","	
+Dennis	B-N
+MS	I-N
+","	
+Wardlaw	B-N
+JM	I-N
+.	
+Enlarged	
+perivascular	
+spaces	
+on	
+MRI	
+are	
+a	
+feature	
+of	
+cerebral	
+small	
+vessel	
+disease	
+.	
+Stroke	
+2010	
+;	
+41	
+:	
+450	
+??	
+454	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Martinez-Ramirez	B-N
+S	I-N
+","	
+Pontes-Neto	B-N
+OM	I-N
+","	
+Dumas	B-N
+AP	I-N
+","	
+et	
+al	
+.	
+Topography	
+of	
+dilated	
+perivascular	
+spaces	
+in	
+subjects	
+from	
+a	
+memory	
+clinic	
+cohort	
+.	
+Neurology	
+2013	
+;	
+80	
+:	
+1551	
+??	
+1556	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Rouhl	B-N
+RP	I-N
+","	
+van	B-N
+Oostenbrugge	I-N
+RJ	I-N
+","	
+Knottnerus	B-N
+IL	I-N
+","	
+Staals	B-N
+JE	I-N
+","	
+Lodder	B-N
+J	I-N
+.	
+Virchow-Robin	
+spaces	
+relate	
+to	
+cerebral	
+small	
+vessel	
+disease	
+severity	
+.	
+J	
+Neurol	
+2008	
+;	
+255	
+:	
+692	
+??	
+696	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Wardlaw	B-N
+JM	I-N
+","	
+Smith	B-N
+EE	I-N
+","	
+Biessels	B-N
+GJ	I-N
+","	
+et	
+al	
+.	
+Neuroimaging	
+standards	
+for	
+research	
+into	
+small	
+vessel	
+disease	
+and	
+its	
+contribution	
+to	
+ageing	
+and	
+neurodegeneration	
+.	
+Lancet	
+Neurol	
+2013	
+;	
+12	
+:	
+822	
+??	
+838	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Marin-Padilla	B-N
+M	I-N
+","	
+Knopman	B-N
+DS	I-N
+.	
+Developmental	
+aspects	
+of	
+the	
+intracerebral	
+microvasculature	
+and	
+perivascular	
+spaces	
+:	
+insights	
+into	
+brain	
+response	
+to	
+late-life	
+diseases	
+.	
+J	
+Neuropathol	
+Exp	
+Neurol	
+2011	
+;	
+70	
+:	
+1060	
+??	
+1069	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Weller	B-N
+RO	I-N
+","	
+Djuanda	B-N
+E	I-N
+","	
+Yow	B-N
+HY	I-N
+","	
+Carare	B-N
+RO	I-N
+.	
+Lymphatic	
+drainage	
+of	
+the	
+brain	
+and	
+the	
+pathophysiology	
+of	
+neurological	
+disease	
+.	
+Acta	
+Neuropathol	
+2009	
+;	
+117	
+:	
+1	
+??	
+14	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Arbel-Ornath	B-N
+M	I-N
+","	
+Hudry	B-N
+E	I-N
+","	
+Eikermann-Haerter	B-N
+K	I-N
+","	
+et	
+al	
+.	
+Interstitial	
+fluid	
+drainage	
+is	
+impaired	
+in	
+ischemic	
+stroke	
+and	
+Alzheimer	
+'	
+s	
+disease	
+mouse	
+models	
+.	
+Acta	
+Neuropathol	
+2013	
+;	
+126	
+:	
+353	
+??	
+364	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Roher	B-N
+AE	I-N
+","	
+Kuo	B-N
+YM	I-N
+","	
+Esh	B-N
+C	I-N
+","	
+et	
+al	
+.	
+Cortical	
+and	
+leptomeningeal	
+cerebrovascular	
+amyloid	
+and	
+white	
+matter	
+pathology	
+in	
+Alzheimer	
+'	
+s	
+disease	
+.	
+Mol	
+Med	
+2003	
+;	
+9	
+:	
+112	
+??	
+122	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Preston	B-N
+SD	I-N
+","	
+Steart	B-N
+PV	I-N
+","	
+Wilkinson	B-N
+A	I-N
+","	
+Nicoll	B-N
+JA	I-N
+","	
+Weller	B-N
+RO	I-N
+.	
+Capillary	
+and	
+arterial	
+cerebral	
+amyloid	
+angiopathy	
+in	
+Alzheimer	
+'	
+s	
+disease	
+:	
+defining	
+the	
+perivascular	
+route	
+for	
+the	
+elimination	
+of	
+amyloid	
+beta	
+from	
+the	
+human	
+brain	
+.	
+Neuropathol	
+Appl	
+Neurobiol	
+2003	
+;	
+29	
+:	
+106	
+??	
+117	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Attems	B-N
+J	I-N
+","	
+Jellinger	B-N
+K	I-N
+","	
+Thal	B-N
+DR	I-N
+","	
+Van	B-N
+Nostrand	I-N
+W	I-N
+.	
+Review	
+:	
+sporadic	
+cerebral	
+amyloid	
+angiopathy	
+.	
+Neuropathol	
+Appl	
+Neurobiol	
+2011	
+;	
+37	
+:	
+75	
+??	
+93	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Weller	B-N
+RO	I-N
+","	
+Massey	B-N
+A	I-N
+","	
+Newman	B-N
+TA	I-N
+","	
+Hutchings	B-N
+M	I-N
+","	
+Kuo	B-N
+YM	I-N
+","	
+Roher	B-N
+AE	I-N
+.	
+Cerebral	
+amyloid	
+angiopathy	
+:	
+amyloid	
+beta	
+accumulates	
+in	
+putative	
+interstitial	
+fluid	
+drainage	
+pathways	
+in	
+Alzheimer	
+'	
+s	
+disease	
+.	
+Am	
+J	
+Pathol	
+1998	
+;	
+153	
+:	
+725	
+??	
+733	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Vonsattel	B-N
+JP	I-N
+","	
+Myers	B-N
+RH	I-N
+","	
+Hedley-Whyte	B-N
+ET	I-N
+","	
+Ropper	B-N
+AH	I-N
+","	
+Bird	B-N
+ED	I-N
+","	
+Richardson	B-N
+EP	I-N
+.	I-N
+","	I-N
+Jr	I-N
+Cerebral	
+amyloid	
+angiopathy	
+without	
+and	
+with	
+cerebral	
+hemorrhages	
+:	
+a	
+comparative	
+histological	
+study	
+.	
+Ann	
+Neurol	
+1991	
+;	
+30	
+:	
+637	
+??	
+649	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Greenberg	B-N
+SM	I-N
+","	
+Vonsattel	B-N
+JP	I-N
+.	
+Diagnosis	
+of	
+cerebral	
+amyloid	
+angiopathy	
+.	
+Sensitivity	
+and	
+specificity	
+of	
+cortical	
+biopsy	
+.	
+Stroke	
+1997	
+;	
+28	
+:	
+1418	
+??	
+1422	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Maclullich	B-N
+AM	I-N
+","	
+Wardlaw	B-N
+JM	I-N
+","	
+Ferguson	B-N
+KJ	I-N
+","	
+Starr	B-N
+JM	I-N
+","	
+Seckl	B-N
+JR	I-N
+","	
+Deary	B-N
+IJ	I-N
+.	
+Enlarged	
+perivascular	
+spaces	
+are	
+associated	
+with	
+cognitive	
+function	
+in	
+healthy	
+elderly	
+men	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+2004	
+;	
+75	
+:	
+1519	
+??	
+1523	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Zhu	B-N
+YC	I-N
+","	
+Tzourio	B-N
+C	I-N
+","	
+Soumare	B-N
+A	I-N
+","	
+Mazoyer	B-N
+B	I-N
+","	
+Dufouil	B-N
+C	I-N
+","	
+Chabriat	B-N
+H	I-N
+.	
+Severity	
+of	
+dilated	
+Virchow-Robin	
+spaces	
+is	
+associated	
+with	
+age	
+","	
+blood	
+pressure	
+","	
+and	
+MRI	
+markers	
+of	
+small	
+vessel	
+disease	
+:	
+a	
+population-based	
+study	
+.	
+Stroke	
+2010	
+;	
+41	
+:	
+2483	
+??	
+2490	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Bossuyt	B-N
+PM	I-N
+","	
+Reitsma	B-N
+JB	I-N
+","	
+Bruns	B-N
+DE	I-N
+","	
+et	
+al	
+.	
+The	
+STARD	
+statement	
+for	
+reporting	
+studies	
+of	
+diagnostic	
+accuracy	
+:	
+explanation	
+and	
+elaboration	
+.	
+Ann	
+Intern	
+Med	
+2003	
+;	
+138	
+:	
+W1	
+??	
+W12	
+[	
+PubMed	
+]	
+	
+25	
+.	
+Weller	B-N
+RO	I-N
+","	
+Subash	B-N
+M	I-N
+","	
+Preston	B-N
+SD	I-N
+","	
+Mazanti	B-N
+I	I-N
+","	
+Carare	B-N
+RO	I-N
+.	
+Perivascular	
+drainage	
+of	
+amyloid-beta	
+peptides	
+from	
+the	
+brain	
+and	
+its	
+failure	
+in	
+cerebral	
+amyloid	
+angiopathy	
+and	
+Alzheimer	
+'	
+s	
+disease	
+.	
+Brain	
+Pathol	
+2008	
+;	
+18	
+:	
+253	
+??	
+266	
+[	
+PubMed	
+]	
+	
+26	
+.	
+Deramecourt	B-N
+V	I-N
+","	
+Slade	B-N
+JY	I-N
+","	
+Oakley	B-N
+AE	I-N
+","	
+et	
+al	
+.	
+Staging	
+and	
+natural	
+history	
+of	
+cerebrovascular	
+pathology	
+in	
+dementia	
+.	
+Neurology	
+2012	
+;	
+78	
+:	
+1043	
+??	
+1050	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	

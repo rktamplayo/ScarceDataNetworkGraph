@@ -1,0 +1,1292 @@
+1	
+.	
+Vinters	B-N
+HV	I-N
+.	
+Cerebral	
+amyloid	
+angiopathy	
+:	
+a	
+critical	
+review	
+.	
+Stroke	
+1987	
+;	
+18	
+:	
+311	
+??	
+324	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Okazaki	B-N
+H	I-N
+","	
+Reagan	B-N
+TJ	I-N
+","	
+Campbell	B-N
+RJ	I-N
+.	
+Clinicopathologic	
+studies	
+of	
+primary	
+cerebral	
+amyloid	
+angiopathy	
+.	
+Mayo	
+Clinic	
+Proc	
+1979	
+;	
+54	
+:	
+22	
+??	
+31	
+.	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Olichney	B-N
+JM	I-N
+","	
+Hansen	B-N
+LA	I-N
+","	
+Hofstetter	B-N
+CR	I-N
+","	
+Grundman	B-N
+M	I-N
+","	
+Katzman	B-N
+R	I-N
+","	
+Thal	B-N
+LJ	I-N
+.	
+Cerebral	
+infarction	
+in	
+Alzheimer	
+??	
+s	
+disease	
+is	
+associated	
+with	
+severe	
+amyloid	
+angiopathy	
+and	
+hypertension	
+.	
+Arch	
+Neurol	
+1995	
+;	
+52	
+:	
+702	
+??	
+708	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Wattendorff	B-N
+AR	I-N
+","	
+Frangione	B-N
+B	I-N
+","	
+Luyendijk	B-N
+W	I-N
+","	
+Bots	B-N
+GT	I-N
+.	
+Hereditary	
+cerebral	
+haemorrhage	
+with	
+amyloidosis	
+","	
+Dutch	
+type	
+(	
+HCHWA-D	
+)	
+:	
+clinicopathological	
+studies	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+1995	
+;	
+58	
+:	
+699	
+??	
+705	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Cadavid	B-N
+D	I-N
+","	
+Mena	B-N
+H	I-N
+","	
+Koeller	B-N
+K	I-N
+","	
+Frommelt	B-N
+RA	I-N
+.	
+Cerebral	
+beta	
+amyloid	
+angiopathy	
+is	
+a	
+risk	
+factor	
+for	
+cerebral	
+ischemic	
+infarction	
+:	
+a	
+case	
+control	
+study	
+in	
+human	
+brain	
+biopsies	
+.	
+J	
+Neuropathol	
+Exp	
+Neurol	
+2000	
+;	
+59	
+:	
+768	
+??	
+773	
+.	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Grabowski	B-N
+TJ	I-N
+","	
+Cho	B-N
+HS	I-N
+","	
+Vonsattel	B-N
+JPG	I-N
+","	
+Rebeck	B-N
+GW	I-N
+","	
+Greenberg	B-N
+SM	I-N
+.	
+Novel	
+amyloid	
+precursor	
+protein	
+mutation	
+in	
+an	
+Iowa	
+family	
+with	
+dementia	
+and	
+severe	
+cerebral	
+amyloid	
+angiopathy	
+.	
+Ann	
+Neurol	
+2001	
+;	
+49	
+:	
+697	
+??	
+705	
+.	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Haglund	B-N
+M	I-N
+","	
+Passant	B-N
+U	I-N
+","	
+Sjobeck	B-N
+M	I-N
+","	
+Ghebremedhin	B-N
+E	I-N
+","	
+Englund	B-N
+E	I-N
+.	
+Cerebral	
+amyloid	
+angiopathy	
+and	
+cortical	
+microinfarcts	
+as	
+putative	
+substrates	
+of	
+vascular	
+dementia	
+.	
+Int	
+J	
+Geriatr	
+Psychiatry	
+2006	
+;	
+21	
+:	
+681	
+??	
+687	
+.	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Petrovitch	B-N
+H	I-N
+","	
+Ross	B-N
+GW	I-N
+","	
+Steinhorn	B-N
+SC	I-N
+","	
+et	
+al	
+.	
+AD	
+lesions	
+and	
+infarcts	
+in	
+demented	
+and	
+non-demented	
+Japanese-American	
+men	
+.	
+Ann	
+Neurol	
+2005	
+;	
+57	
+:	
+98	
+??	
+103	
+.	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Swartz	B-N
+RH	I-N
+","	
+Stuss	B-N
+DT	I-N
+","	
+Gao	B-N
+F	I-N
+","	
+Black	B-N
+SE	I-N
+.	
+Independent	
+cognitive	
+effects	
+of	
+atrophy	
+and	
+diffuse	
+subcortical	
+and	
+thalamico-cortical	
+cerebrovascular	
+disease	
+in	
+dementia	
+.	
+Stroke	
+2008	
+;	
+39	
+:	
+822	
+??	
+830	
+.	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Haglund	B-N
+M	I-N
+","	
+Englund	B-N
+E	I-N
+.	
+Cerebral	
+amyloid	
+angiopathy	
+","	
+white	
+matter	
+lesions	
+and	
+Alzheimer	
+encephalopathy	
+:	
+a	
+histopathological	
+assessment	
+.	
+Dement	
+Geriatr	
+Cogn	
+Disord	
+2002	
+;	
+14	
+:	
+161	
+??	
+166	
+.	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Gurol	B-N
+ME	I-N
+","	
+Irizarry	B-N
+MC	I-N
+","	
+Smith	B-N
+EE	I-N
+","	
+et	
+al	
+.	
+Plasma	
+beta-amyloid	
+and	
+white	
+matter	
+lesions	
+in	
+AD	
+","	
+MCI	
+","	
+and	
+cerebral	
+amyloid	
+angiopathy	
+.	
+Neurology	
+2006	
+;	
+66	
+:	
+23	
+??	
+29	
+.	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Smith	B-N
+EE	I-N
+","	
+Vijayappa	B-N
+M	I-N
+","	
+Lima	B-N
+F	I-N
+","	
+et	
+al	
+.	
+Impaired	
+visual	
+evoked	
+flow	
+response	
+in	
+cerebral	
+amyloid	
+angiopathy	
+.	
+Neurology	
+2008	
+;	
+71	
+:	
+1424	
+??	
+1430	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Lansberg	B-N
+MG	I-N
+","	
+Thijs	B-N
+VN	I-N
+","	
+O	B-N
+??	I-N
+Brien	I-N
+MW	I-N
+","	
+et	
+al	
+.	
+Evolution	
+of	
+apparent	
+diffusion	
+coefficient	
+","	
+diffusion-weighted	
+","	
+and	
+T2-weighted	
+signal	
+intensity	
+of	
+acute	
+stroke	
+.	
+AJNR	
+Am	
+J	
+Neuroradiol	
+2001	
+;	
+22	
+:	
+637	
+??	
+644	
+.	
+[	
+PubMed	
+]	
+	
+14	
+.	
+O	B-N
+??	I-N
+Donnell	I-N
+HC	I-N
+","	
+Rosand	B-N
+J	I-N
+","	
+Knudsen	B-N
+KA	I-N
+","	
+et	
+al	
+.	
+Apolipoprotein	
+E	
+genotype	
+and	
+the	
+risk	
+of	
+recurrent	
+lobar	
+intracerebral	
+hemorrhage	
+.	
+N	
+Engl	
+J	
+Med	
+2000	
+;	
+342	
+:	
+240	
+??	
+245	
+.	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Greenberg	B-N
+SM	I-N
+","	
+Rosand	B-N
+J	I-N
+","	
+Schneider	B-N
+AT	I-N
+","	
+et	
+al	
+.	
+A	
+phase	
+2	
+study	
+of	
+tramiprosate	
+for	
+cerebral	
+amyloid	
+angiopathy	
+.	
+Alzheimer	
+Dis	
+Assoc	
+Disord	
+2006	
+;	
+20	
+:	
+269	
+??	
+274	
+.	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Knudsen	B-N
+KA	I-N
+","	
+Rosand	B-N
+J	I-N
+","	
+Karluk	B-N
+D	I-N
+","	
+Greenberg	B-N
+SM	I-N
+.	
+Clinical	
+diagnosis	
+of	
+cerebral	
+amyloid	
+angiopathy	
+:	
+validation	
+of	
+the	
+Boston	
+Criteria	
+.	
+Neurology	
+2001	
+;	
+56	
+:	
+537	
+??	
+539	
+.	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Kinnecom	B-N
+C	I-N
+","	
+Lev	B-N
+MH	I-N
+","	
+Wendell	B-N
+L	I-N
+","	
+et	
+al	
+.	
+Course	
+of	
+cerebral	
+amyloid	
+angiopathy-related	
+inflammation	
+.	
+Neurology	
+2007	
+;	
+68	
+:	
+1411	
+??	
+1416	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Fukumoto	B-N
+H	I-N
+","	
+Tennis	B-N
+M	I-N
+","	
+Locascio	B-N
+JJ	I-N
+","	
+Hyman	B-N
+BT	I-N
+","	
+Growdon	B-N
+JH	I-N
+","	
+Irizarry	B-N
+MC	I-N
+.	
+Age	
+but	
+not	
+diagnosis	
+is	
+the	
+main	
+predictor	
+of	
+plasma	
+amyloid	
+beta-protein	
+levels	
+.	
+Arch	
+Neurol	
+2003	
+;	
+60	
+:	
+958	
+??	
+964	
+.	
+[	
+PubMed	
+]	
+	
+19	
+.	
+McKhann	B-N
+G	I-N
+","	
+Drachman	B-N
+D	I-N
+","	
+Folstein	B-N
+M	I-N
+","	
+Katzman	B-N
+R	I-N
+","	
+Price	B-N
+D	I-N
+","	
+Stadlan	B-N
+EM	I-N
+.	
+Clinical	
+diagnosis	
+of	
+Alzheimer	
+??	
+s	
+disease	
+:	
+report	
+of	
+the	
+NINCDS-ADRDA	
+Work	
+Group	
+under	
+the	
+auspices	
+of	
+Department	
+of	
+Health	
+and	
+Human	
+Services	
+Task	
+Force	
+on	
+Alzheimer	
+??	
+s	
+Disease	
+.	
+Neurology	
+1984	
+;	
+34	
+:	
+939	
+??	
+944	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Petersen	B-N
+RC	I-N
+","	
+Doody	B-N
+R	I-N
+","	
+Kurz	B-N
+A	I-N
+","	
+et	
+al	
+.	
+Current	
+concepts	
+in	
+mild	
+cognitive	
+impairment	
+.	
+Arch	
+Neurol	
+2001	
+;	
+58	
+:	
+1985	
+??	
+1992	
+.	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Pettersen	B-N
+JA	I-N
+","	
+Sathiyamoorthy	B-N
+G	I-N
+","	
+Gao	B-N
+F	I-N
+","	
+et	
+al	
+.	
+Microbleed	
+topography	
+","	
+leukoaraiosis	
+","	
+and	
+cognition	
+in	
+probable	
+Alzheimer	
+disease	
+from	
+the	
+Sunnybrook	
+Dementia	
+Study	
+.	
+Arch	
+Neurol	
+2008	
+;	
+65	
+:	
+790	
+??	
+795	
+.	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Viswanathan	B-N
+A	I-N
+","	
+Patel	B-N
+P	I-N
+","	
+Rahman	B-N
+R	I-N
+","	
+et	
+al	
+.	
+Tissue	
+microstructural	
+changes	
+are	
+independently	
+associated	
+with	
+cognitive	
+impairment	
+in	
+cerebral	
+amyloid	
+angiopathy	
+.	
+Stroke	
+2008	
+;	
+39	
+:	
+1988	
+??	
+1992	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Greenberg	B-N
+SM	I-N
+","	
+Eng	B-N
+JA	I-N
+","	
+Ning	B-N
+M	I-N
+","	
+Smith	B-N
+EE	I-N
+","	
+Rosand	B-N
+J	I-N
+.	
+Hemorrhage	
+burden	
+predicts	
+recurrent	
+intracerebral	
+hemorrhage	
+after	
+lobar	
+hemorrhage	
+.	
+Stroke	
+2004	
+;	
+35	
+:	
+1415	
+??	
+1420	
+.	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Nandigam	B-N
+RN	I-N
+","	
+Chen	B-N
+YW	I-N
+","	
+Gurol	B-N
+ME	I-N
+","	
+Rosand	B-N
+J	I-N
+","	
+Greenberg	B-N
+SM	I-N
+","	
+Smith	B-N
+EE	I-N
+.	
+Validation	
+of	
+intracranial	
+area	
+as	
+a	
+surrogate	
+measure	
+of	
+intracranial	
+volume	
+when	
+using	
+clinical	
+MRI	
+.	
+J	
+Neuroimaging	
+2007	
+;	
+17	
+:	
+74	
+??	
+77	
+.	
+[	
+PubMed	
+]	
+	
+25	
+.	
+Chen	B-N
+YW	I-N
+","	
+Gurol	B-N
+ME	I-N
+","	
+Rosand	B-N
+J	I-N
+","	
+et	
+al	
+.	
+Progression	
+of	
+white	
+matter	
+lesions	
+and	
+hemorrhages	
+in	
+cerebral	
+amyloid	
+angiopathy	
+.	
+Neurology	
+2006	
+;	
+67	
+:	
+83	
+??	
+87	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+26	
+.	
+Vernooij	B-N
+MW	I-N
+","	
+van	B-N
+der	I-N
+Lugt	I-N
+A	I-N
+","	
+Ikram	B-N
+MA	I-N
+","	
+et	
+al	
+.	
+Prevalence	
+and	
+risk	
+factors	
+of	
+cerebral	
+microbleeds	
+:	
+the	
+Rotterdam	
+Scan	
+Study	
+.	
+Neurology	
+2008	
+;	
+70	
+:	
+1208	
+??	
+1214	
+.	
+[	
+PubMed	
+]	
+	
+27	
+.	
+Gobron	B-N
+C	I-N
+","	
+Viswanathan	B-N
+A	I-N
+","	
+Bousser	B-N
+MG	I-N
+","	
+Chabriat	B-N
+H	I-N
+.	
+Multiple	
+simultaneous	
+cerebral	
+infarctions	
+in	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+.	
+Cerebrovasc	
+Dis	
+2006	
+;	
+22	
+:	
+445	
+??	
+446	
+.	
+[	
+PubMed	
+]	
+	
+28	
+.	
+Pantoni	B-N
+L	I-N
+","	
+Garcia	B-N
+JH	I-N
+.	
+Pathogenesis	
+of	
+leukoaraiosis	
+:	
+a	
+review	
+.	
+Stroke	
+1997	
+;	
+28	
+:	
+652	
+??	
+659	
+.	
+[	
+PubMed	
+]	
+	
+29	
+.	
+Vonsattel	B-N
+JP	I-N
+","	
+Myers	B-N
+RH	I-N
+","	
+Hedley-Whyte	B-N
+ET	I-N
+","	
+Ropper	B-N
+AH	I-N
+","	
+Bird	B-N
+ED	I-N
+","	
+Richardson	B-N
+EP	I-N
+.	
+Cerebral	
+amyloid	
+angiopathy	
+without	
+and	
+with	
+cerebral	
+hemorrhages	
+:	
+a	
+comparative	
+histological	
+study	
+.	
+Ann	
+Neurol	
+1991	
+;	
+30	
+:	
+637	
+??	
+649	
+.	
+[	
+PubMed	
+]	
+	
+30	
+.	
+Smith	B-N
+EE	I-N
+","	
+Gurol	B-N
+ME	I-N
+","	
+Eng	B-N
+JA	I-N
+","	
+et	
+al	
+.	
+White	
+matter	
+lesions	
+","	
+cognition	
+","	
+and	
+recurrent	
+hemorrhage	
+in	
+lobar	
+intracerebral	
+hemorrhage	
+.	
+Neurology	
+2004	
+;	
+63	
+:	
+1606	
+??	
+1612	
+.	
+[	
+PubMed	
+]	

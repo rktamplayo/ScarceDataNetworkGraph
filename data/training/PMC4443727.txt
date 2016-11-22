@@ -1,0 +1,1386 @@
+1	
+.	
+Bernick	B-N
+C	I-N
+","	
+Kuller	B-N
+L	I-N
+","	
+Dulberg	B-N
+C	I-N
+","	
+Longstreth	B-N
+WT	I-N
+","	
+Manolio	B-N
+T	I-N
+","	
+Beauchamp	B-N
+N	I-N
+","	
+et	
+al	
+.	
+Silent	
+MRI	
+infarcts	
+and	
+the	
+risk	
+of	
+future	
+stroke	
+:	
+the	
+cardiovascular	
+health	
+study	
+.	
+Neurology	
+(	
+2001	
+)	
+57	
+:	
+1222	
+–	
+9	
+.	
+10	
+.	
+1212	
+/	
+WNL	
+.	
+57	
+.	
+7	
+.	
+1222	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+2	
+.	
+Vermeer	B-N
+SE	I-N
+","	
+Hollander	B-N
+M	I-N
+","	
+van	B-N
+Dijk	I-N
+EJ	I-N
+","	
+Hofman	B-N
+A	I-N
+","	
+Koudstaal	B-N
+PJ	I-N
+","	
+Breteler	B-N
+MMB	I-N
+.	
+.	
+Silent	
+brain	
+infarcts	
+and	
+white	
+matter	
+lesions	
+increase	
+stroke	
+risk	
+in	
+the	
+general	
+population	
+:	
+the	
+Rotterdam	
+Scan	
+Study	
+.	
+Stroke	
+(	
+2003	
+)	
+34	
+:	
+1126	
+–	
+9	
+.	
+10	
+.	
+1161	
+/	
+1	
+.	
+STR	
+.	
+68408	
+.	
+82115	
+.	
+D2	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+3	
+.	
+Jokinen	B-N
+H	I-N
+","	
+Gouw	B-N
+AA	I-N
+","	
+Madureira	B-N
+S	I-N
+","	
+Ylikoski	B-N
+R	I-N
+","	
+van	B-N
+Straaten	I-N
+ECW	I-N
+","	
+van	B-N
+der	I-N
+Flier	I-N
+WM	I-N
+","	
+et	
+al	
+.	
+Incident	
+lacunes	
+influence	
+cognitive	
+decline	
+:	
+the	
+LADIS	
+study	
+.	
+Neurology	
+(	
+2011	
+)	
+76	
+:	
+1872	
+–	
+8	
+.	
+10	
+.	
+1212	
+/	
+WNL	
+.	
+0b013e31821d752f	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+4	
+.	
+Baune	B-N
+BT	I-N
+","	
+Roesler	B-N
+A	I-N
+","	
+Knecht	B-N
+S	I-N
+","	
+Berger	B-N
+K	I-N
+.	
+.	
+Single	
+and	
+combined	
+effects	
+of	
+cerebral	
+white	
+matter	
+lesions	
+and	
+lacunar	
+infarctions	
+on	
+cognitive	
+function	
+in	
+an	
+elderly	
+population	
+.	
+J	
+Gerontol	
+A	
+Biol	
+Sci	
+Med	
+Sci	
+(	
+2009	
+)	
+64	
+:	
+118	
+–	
+24	
+.	
+10	
+.	
+1093	
+/	
+gerona	
+/	
+gln004	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+5	
+.	
+Sacco	B-N
+RL	I-N
+","	
+Kasner	B-N
+SE	I-N
+","	
+Broderick	B-N
+JP	I-N
+","	
+Caplan	B-N
+LR	I-N
+","	
+Connors	B-N
+JJB	I-N
+","	
+Culebras	B-N
+A	I-N
+","	
+et	
+al	
+.	
+An	
+updated	
+definition	
+of	
+stroke	
+for	
+the	
+21st	
+century	
+:	
+a	
+statement	
+for	
+healthcare	
+professionals	
+from	
+the	
+American	
+Heart	
+Association	
+/	
+American	
+Stroke	
+Association	
+.	
+Stroke	
+(	
+2013	
+)	
+44	
+:	
+2064	
+–	
+89	
+.	
+10	
+.	
+1161	
+/	
+STR	
+.	
+0b013e318296aeca	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+6	
+.	
+Potter	B-N
+GM	I-N
+","	
+Marlborough	B-N
+FJ	I-N
+","	
+Wardlaw	B-N
+JM	I-N
+.	
+.	
+Wide	
+variation	
+in	
+definition	
+","	
+detection	
+","	
+and	
+description	
+of	
+lacunar	
+lesions	
+on	
+imaging	
+.	
+Stroke	
+(	
+2011	
+)	
+42	
+:	
+359	
+–	
+66	
+.	
+10	
+.	
+1161	
+/	
+STROKEAHA	
+.	
+110	
+.	
+594754	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+7	
+.	
+Wardlaw	B-N
+JM	I-N
+","	
+Smith	B-N
+EE	I-N
+","	
+Biessels	B-N
+GJ	I-N
+","	
+Cordonnier	B-N
+C	I-N
+","	
+Fazekas	B-N
+F	I-N
+","	
+Frayne	B-N
+R	I-N
+","	
+et	
+al	
+.	
+Neuroimaging	
+standards	
+for	
+research	
+into	
+small	
+vessel	
+disease	
+and	
+its	
+contribution	
+to	
+ageing	
+and	
+neurodegeneration	
+.	
+Lancet	
+Neurol	
+(	
+2013	
+)	
+12	
+:	
+822	
+–	
+38	
+.	
+10	
+.	
+1016	
+/	
+S1474-4422	
+(	
+13	
+)	
+70124-8	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+8	
+.	
+Potter	B-N
+GM	I-N
+","	
+Doubal	B-N
+FN	I-N
+","	
+Jackson	B-N
+CA	I-N
+","	
+Chappell	B-N
+FM	I-N
+","	
+Sudlow	B-N
+CL	I-N
+","	
+Dennis	B-N
+MS	I-N
+","	
+et	
+al	
+.	
+Counting	
+cavitating	
+lacunes	
+underestimates	
+the	
+burden	
+of	
+lacunar	
+infarction	
+.	
+Stroke	
+(	
+2010	
+)	
+41	
+:	
+267	
+–	
+72	
+.	
+10	
+.	
+1161	
+/	
+STROKEAHA	
+.	
+109	
+.	
+566307	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+9	
+.	
+Koch	B-N
+S	I-N
+","	
+McClendon	B-N
+MS	I-N
+","	
+Bhatia	B-N
+R	I-N
+.	
+.	
+Imaging	
+evolution	
+of	
+acute	
+lacunar	
+infarction	
+:	
+leukoariosis	
+or	
+lacune	
+?	
+Neurology	
+(	
+2011	
+)	
+77	
+:	
+1091	
+–	
+5	
+.	
+10	
+.	
+1212	
+/	
+WNL	
+.	
+0b013e31822e1470	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+10	
+.	
+Moreau	B-N
+F	I-N
+","	
+Patel	B-N
+S	I-N
+","	
+Lauzon	B-N
+ML	I-N
+","	
+McCreary	B-N
+CR	I-N
+","	
+Goyal	B-N
+M	I-N
+","	
+Frayne	B-N
+R	I-N
+","	
+et	
+al	
+.	
+Cavitation	
+after	
+acute	
+symptomatic	
+lacunar	
+stroke	
+depends	
+on	
+time	
+","	
+location	
+","	
+and	
+MRI	
+sequence	
+.	
+Stroke	
+(	
+2012	
+)	
+43	
+:	
+1837	
+–	
+42	
+.	
+10	
+.	
+1161	
+/	
+STROKEAHA	
+.	
+111	
+.	
+647859	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+11	
+.	
+Loos	B-N
+CMJ	I-N
+","	
+Staals	B-N
+J	I-N
+","	
+Wardlaw	B-N
+JM	I-N
+","	
+van	B-N
+Oostenbrugge	I-N
+RJ	I-N
+.	
+.	
+Cavitation	
+of	
+deep	
+lacunar	
+infarcts	
+in	
+patients	
+with	
+first-ever	
+lacunar	
+stroke	
+:	
+a	
+2-year	
+follow-up	
+study	
+with	
+MR	
+.	
+Stroke	
+(	
+2012	
+)	
+43	
+:	
+2245	
+–	
+7	
+.	
+10	
+.	
+1161	
+/	
+STROKEAHA	
+.	
+112	
+.	
+660076	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+12	
+.	
+Amarenco	B-N
+P	I-N
+","	
+Bogousslavsky	B-N
+J	I-N
+","	
+Caplan	B-N
+LR	I-N
+","	
+Donnan	B-N
+GA	I-N
+","	
+Hennerici	B-N
+MG	I-N
+.	
+.	
+New	
+approach	
+to	
+stroke	
+subtyping	
+:	
+the	
+A-S-C-O	
+(	
+phenotypic	
+)	
+classification	
+of	
+stroke	
+.	
+Cerebrovasc	
+Dis	
+(	
+2009	
+)	
+27	
+:	
+502	
+–	
+8	
+.	
+10	
+.	
+1159	
+/	
+210433	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+13	
+.	
+Griebe	B-N
+M	I-N
+","	
+Fischer	B-N
+E	I-N
+","	
+Kablau	B-N
+M	I-N
+","	
+Eisele	B-N
+P	I-N
+","	
+Wolf	B-N
+ME	I-N
+","	
+Chatzikonstantinou	B-N
+A	I-N
+","	
+et	
+al	
+.	
+Thrombolysis	
+in	
+patients	
+with	
+lacunar	
+stroke	
+is	
+safe	
+:	
+an	
+observational	
+study	
+.	
+J	
+Neurol	
+(	
+2014	
+)	
+261	
+:	
+405	
+–	
+11	
+.	
+10	
+.	
+1007	
+/	
+s00415-013-7212-8	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+14	
+.	
+Fazekas	B-N
+F	I-N
+","	
+Chawluk	B-N
+JB	I-N
+","	
+Alavi	B-N
+A	I-N
+","	
+Hurtig	B-N
+HI	I-N
+","	
+Zimmerman	B-N
+RA	I-N
+.	
+.	
+MR	
+signal	
+abnormalities	
+at	
+1	
+.	
+5	
+T	
+in	
+Alzheimer	
+’	
+s	
+dementia	
+and	
+normal	
+aging	
+.	
+AJR	
+Am	
+J	
+Roentgenol	
+(	
+1987	
+)	
+149	
+:	
+351	
+–	
+6	
+.	
+10	
+.	
+2214	
+/	
+ajr	
+.	
+149	
+.	
+2	
+.	
+351	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+15	
+.	
+Fazekas	B-N
+F	I-N
+","	
+Kleinert	B-N
+R	I-N
+","	
+Offenbacher	B-N
+H	I-N
+","	
+Schmidt	B-N
+R	I-N
+","	
+Kleinert	B-N
+G	I-N
+","	
+Payer	B-N
+F	I-N
+","	
+et	
+al	
+.	
+Pathologic	
+correlates	
+of	
+incidental	
+MRI	
+white	
+matter	
+signal	
+hyperintensities	
+.	
+Neurology	
+(	
+1993	
+)	
+43	
+:	
+1683	
+–	
+9	
+.	
+10	
+.	
+1212	
+/	
+WNL	
+.	
+43	
+.	
+9	
+.	
+1683	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+16	
+.	
+Pantoni	B-N
+L	I-N
+.	
+.	
+Cerebral	
+small	
+vessel	
+disease	
+:	
+from	
+pathogenesis	
+and	
+clinical	
+characteristics	
+to	
+therapeutic	
+challenges	
+.	
+Lancet	
+Neurol	
+(	
+2010	
+)	
+9	
+:	
+689	
+–	
+701	
+.	
+10	
+.	
+1016	
+/	
+S1474-4422	
+(	
+10	
+)	
+70104-6	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+17	
+.	
+Bamford	B-N
+JM	I-N
+","	
+Warlow	B-N
+CP	I-N
+.	
+Evolution	
+and	
+testing	
+of	
+the	
+lacunar	
+hypothesis	
+.	
+Stroke	
+(	
+1988	
+)	
+19	
+:	
+1074	
+–	
+82	
+.	
+10	
+.	
+1161	
+/	
+1	
+.	
+STR	
+.	
+19	
+.	
+9	
+.	
+1074	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+18	
+.	
+Duering	B-N
+M	I-N
+","	
+Csanadi	B-N
+E	I-N
+","	
+Gesierich	B-N
+B	I-N
+","	
+Jouvent	B-N
+E	I-N
+","	
+Hervé	B-N
+D	I-N
+","	
+Seiler	B-N
+S	I-N
+","	
+et	
+al	
+.	
+Incident	
+lacunes	
+preferentially	
+localize	
+to	
+the	
+edge	
+of	
+white	
+matter	
+hyperintensities	
+:	
+insights	
+into	
+the	
+pathophysiology	
+of	
+cerebral	
+small	
+vessel	
+disease	
+.	
+Brain	
+(	
+2013	
+)	
+136	
+:	
+2717	
+–	
+26	
+.	
+10	
+.	
+1093	
+/	
+brain	
+/	
+awt184	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+19	
+.	
+Donnan	B-N
+GA	I-N
+","	
+Bladin	B-N
+PF	I-N
+","	
+Berkovic	B-N
+SF	I-N
+","	
+Longley	B-N
+WA	I-N
+","	
+Saling	B-N
+MM	I-N
+.	
+The	
+stroke	
+syndrome	
+of	
+striatocapsular	
+infarction	
+.	
+Brain	
+(	
+1991	
+)	
+114	
+:	
+51	
+–	
+70	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Boon	B-N
+A	I-N
+","	
+Lodder	B-N
+J	I-N
+","	
+Heuts-van	B-N
+Raak	I-N
+L	I-N
+","	
+Kessels	B-N
+F	I-N
+.	
+.	
+Silent	
+brain	
+infarcts	
+in	
+755	
+consecutive	
+patients	
+with	
+a	
+first-ever	
+supratentorial	
+ischemic	
+stroke	
+.	
+Relationship	
+with	
+index-stroke	
+subtype	
+","	
+vascular	
+risk	
+factors	
+","	
+and	
+mortality	
+.	
+Stroke	
+(	
+1994	
+)	
+25	
+:	
+2384	
+–	
+90	
+.	
+10	
+.	
+1161	
+/	
+1	
+.	
+STR	
+.	
+25	
+.	
+12	
+.	
+2384	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+21	
+.	
+Beaulieu	B-N
+C	I-N
+","	
+De	B-N
+Crespigny	I-N
+A	I-N
+","	
+Tong	B-N
+DC	I-N
+","	
+Moseley	B-N
+ME	I-N
+","	
+Albers	B-N
+GW	I-N
+","	
+Marks	B-N
+MP	I-N
+.	
+.	
+Longitudinal	
+magnetic	
+resonance	
+imaging	
+study	
+of	
+perfusion	
+and	
+diffusion	
+in	
+stroke	
+:	
+evolution	
+of	
+lesion	
+volume	
+and	
+correlation	
+with	
+clinical	
+outcome	
+.	
+Ann	
+Neurol	
+(	
+1999	
+)	
+46	
+:	
+568	
+–	
+78	
+.	
+10	
+.	
+1002	
+/	
+1531-8249	
+(	
+199910	
+)	
+46	
+:	
+4	
+<	
+568	
+:	
+AID-ANA4	
+>	
+3	
+.	
+0	
+.	
+CO	
+;	
+2-R	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+22	
+.	
+Ritzl	B-N
+A	I-N
+","	
+Meisel	B-N
+S	I-N
+","	
+Wittsack	B-N
+HJ	I-N
+","	
+Fink	B-N
+GR	I-N
+","	
+Siebler	B-N
+M	I-N
+","	
+Mödder	B-N
+U	I-N
+","	
+et	
+al	
+.	
+Development	
+of	
+brain	
+infarct	
+volume	
+as	
+assessed	
+by	
+magnetic	
+resonance	
+imaging	
+(	
+MRI	
+)	
+:	
+follow-up	
+of	
+diffusion-weighted	
+MRI	
+lesions	
+.	
+J	
+Magn	
+Reson	
+Imaging	
+(	
+2004	
+)	
+20	
+:	
+201	
+–	
+7	
+.	
+10	
+.	
+1002	
+/	
+jmri	
+.	
+20096	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	

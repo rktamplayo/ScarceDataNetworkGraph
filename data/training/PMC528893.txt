@@ -1,0 +1,1508 @@
+Artavanis-Tsakonas	B-N
+S	I-N
+.	
+","	
+Rand	B-N
+","	I-N
+M	I-N
+.	I-N
+D	I-N
+.	
+","	
+and	
+Lake	B-N
+","	I-N
+R	I-N
+.	I-N
+J	I-N
+.	
+1999	
+.	
+Notch	
+signaling	
+:	
+Cell	
+fate	
+control	
+and	
+signal	
+integration	
+in	
+development	
+.	
+Science	
+284	
+:	
+770-776	
+.	
+[	
+PubMed	
+]	
+	
+Berrou	
+E	
+.	
+and	
+Bryckaert	
+","	
+M	
+.	
+2001	
+.	
+Platelet-derived	
+growth	
+factor	
+inhibits	
+smooth	
+muscle	
+cell	
+adhesion	
+to	
+fibronectin	
+by	
+ERK-dependent	
+and	
+ERK-independent	
+pathways	
+.	
+J	
+.	
+Biol	
+.	
+Chem	
+.	
+276	
+:	
+39303-39309	
+.	
+[	
+PubMed	
+]	
+	
+Bonvento	B-N
+G	I-N
+.	
+","	
+Charbonne	B-N
+","	I-N
+R	I-N
+.	
+","	
+Correze	B-N
+","	I-N
+J	I-N
+.	I-N
+L	I-N
+.	
+","	
+Borredon	B-N
+","	I-N
+J	I-N
+.	
+","	
+Seylaz	B-N
+","	I-N
+J	I-N
+.	
+","	
+and	
+Lacombe	B-N
+","	I-N
+P	I-N
+.	
+1994	
+.	
+Is	
+慣-chloralose	
+plus	
+halothane	
+induction	
+a	
+suitable	
+anesthetic	
+regimen	
+for	
+cerebrovascular	
+research	
+?	
+Brain	
+Res	
+.	
+665	
+:	
+213-221	
+.	
+[	
+PubMed	
+]	
+	
+Carmeliet	
+P	
+.	
+2003	
+.	
+Angiogenesis	
+in	
+health	
+and	
+disease	
+.	
+Nat	
+.	
+Med	
+.	
+9	
+:	
+653-660	
+.	
+[	
+PubMed	
+]	
+	
+Chartier	B-N
+C	I-N
+.	
+","	
+Degryse	B-N
+","	I-N
+E	I-N
+.	
+","	
+Gantzer	B-N
+","	I-N
+M	I-N
+.	
+","	
+Dieterle	B-N
+","	I-N
+A	I-N
+.	
+","	
+Pavirani	B-N
+","	I-N
+A	I-N
+.	
+","	
+and	
+Mehtali	B-N
+","	I-N
+M	I-N
+.	
+1996	
+.	
+Efficient	
+generation	
+of	
+recombinant	
+adenovirus	
+vectors	
+by	
+homologous	
+recombination	
+in	
+Escherichia	
+coli	
+.	
+J	
+.	
+Virol	
+.	
+70	
+:	
+4805-4810	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Davis	B-N
+M	I-N
+.	I-N
+J	I-N
+.	
+and	
+Hill	B-N
+","	I-N
+M	I-N
+.	I-N
+A	I-N
+.	
+1999	
+.	
+Signaling	
+mechanisms	
+underlying	
+the	
+vascular	
+myogenic	
+response	
+.	
+Physiol	
+.	
+Rev	
+.	
+79	
+:	
+387-423	
+.	
+[	
+PubMed	
+]	
+	
+Fischer	B-N
+A	I-N
+.	
+","	
+Schumacher	B-N
+","	I-N
+N	I-N
+.	
+","	
+Maier	B-N
+","	I-N
+M	I-N
+.	
+","	
+Sendtner	B-N
+","	I-N
+M	I-N
+.	
+","	
+and	
+Gessler	B-N
+","	I-N
+M	I-N
+.	
+2004	
+.	
+The	
+Notch	
+target	
+genes	
+Hey1	
+and	
+Hey2	
+are	
+required	
+for	
+embryonic	
+vascular	
+development	
+.	
+Genes	
+&	
+Dev	
+.	
+18	
+:	
+901-911	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Iso	B-N
+T	I-N
+.	
+","	
+Kedes	B-N
+","	I-N
+L	I-N
+.	
+","	
+and	
+Hamamori	B-N
+","	I-N
+Y	I-N
+.	
+2003	
+.	
+HES	
+and	
+HERP	
+families	
+:	
+Multiple	
+effectors	
+of	
+the	
+Notch	
+signaling	
+pathway	
+.	
+J	
+.	
+Cell	
+Physiol	
+.	
+194	
+:	
+237-255	
+.	
+[	
+PubMed	
+]	
+	
+Joutel	B-N
+A	I-N
+.	
+","	
+Corpechot	B-N
+","	I-N
+C	I-N
+.	
+","	
+Ducros	B-N
+","	I-N
+A	I-N
+.	
+","	
+Vahedi	B-N
+","	I-N
+K	I-N
+.	
+","	
+Chabriat	B-N
+","	I-N
+H	I-N
+.	
+","	
+Mouton	B-N
+","	I-N
+P	I-N
+.	
+","	
+Alamowitch	B-N
+","	I-N
+S	I-N
+.	
+","	
+Domenga	B-N
+","	I-N
+V	I-N
+.	
+","	
+Cecillion	B-N
+","	I-N
+M	I-N
+.	
+","	
+Marechal	B-N
+","	I-N
+E	I-N
+.	
+","	
+et	
+al	
+.	
+1996	
+.	
+Notch3	
+mutations	
+in	
+CADASIL	
+","	
+an	
+hereditary	
+adult-onset	
+condition	
+causing	
+stroke	
+and	
+dementia	
+.	
+Nature	
+383	
+:	
+707-710	
+.	
+[	
+PubMed	
+]	
+	
+Joutel	B-N
+A	I-N
+.	
+","	
+Andreux	B-N
+","	I-N
+F	I-N
+.	
+","	
+Gaulis	B-N
+","	I-N
+S	I-N
+.	
+","	
+Domenga	B-N
+","	I-N
+V	I-N
+.	
+","	
+Cecillon	B-N
+","	I-N
+M	I-N
+.	
+","	
+Battail	B-N
+","	I-N
+N	I-N
+.	
+","	
+Piga	B-N
+","	I-N
+N	I-N
+.	
+","	
+Chapon	B-N
+","	I-N
+F	I-N
+.	
+","	
+Godfrain	B-N
+","	I-N
+C	I-N
+.	
+","	
+and	
+Tournier-Lasserve	B-N
+","	I-N
+E	I-N
+.	
+2000	
+.	
+The	
+ectodomain	
+of	
+the	
+Notch3	
+receptor	
+accumulates	
+within	
+the	
+cerebrovasculature	
+of	
+CADASIL	
+patients	
+.	
+J	
+.	
+Clin	
+.	
+Invest	
+.	
+105	
+:	
+597-605	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Krebs	B-N
+L	I-N
+.	I-N
+T	I-N
+.	
+","	
+Xue	B-N
+","	I-N
+Y	I-N
+.	
+","	
+Norton	B-N
+","	I-N
+C	I-N
+.	I-N
+R	I-N
+.	
+","	
+Shutter	B-N
+","	I-N
+J	I-N
+.	I-N
+R	I-N
+.	
+","	
+Maguire	B-N
+","	I-N
+M	I-N
+.	
+","	
+Sundberg	B-N
+","	I-N
+J	I-N
+.	I-N
+P	I-N
+.	
+","	
+Gallahan	B-N
+","	I-N
+D	I-N
+.	
+","	
+Closson	B-N
+","	I-N
+V	I-N
+.	
+","	
+Kitajewski	B-N
+","	I-N
+J	I-N
+.	
+","	
+Callahan	B-N
+","	I-N
+R	I-N
+.	
+","	
+et	
+al	
+.	
+2000	
+.	
+Notch	
+signaling	
+is	
+essential	
+for	
+vascular	
+morphogenesis	
+in	
+mice	
+.	
+Genes	
+&	
+Dev	
+.	
+14	
+:	
+1343-1352	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Krebs	B-N
+L	I-N
+.	I-N
+T	I-N
+.	
+","	
+Xue	B-N
+","	I-N
+Y	I-N
+.	
+","	
+Norton	B-N
+","	I-N
+C	I-N
+.	I-N
+R	I-N
+.	
+","	
+Sundberg	B-N
+","	I-N
+J	I-N
+.	I-N
+P	I-N
+.	
+","	
+Beatus	B-N
+","	I-N
+P	I-N
+.	
+","	
+Lendahl	B-N
+","	I-N
+U	I-N
+.	
+","	
+Joutel	B-N
+","	I-N
+A	I-N
+.	
+","	
+and	
+Gridley	B-N
+","	I-N
+T	I-N
+.	
+2003	
+.	
+Characterization	
+of	
+Notch3-deficient	
+mice	
+:	
+Normal	
+embryonic	
+development	
+and	
+absence	
+of	
+genetic	
+interactions	
+with	
+a	
+Notch1	
+mutation	
+.	
+Genesis	
+37	
+:	
+139-143	
+.	
+[	
+PubMed	
+]	
+	
+Lawson	B-N
+N	I-N
+.	I-N
+D	I-N
+.	
+and	
+Weinstein	B-N
+","	I-N
+B	I-N
+.	I-N
+M	I-N
+.	
+2002	
+.	
+Arteries	
+and	
+veins	
+:	
+Making	
+a	
+difference	
+with	
+zebrafish	
+.	
+Nat	
+.	
+Rev	
+.	
+Genet	
+.	
+3	
+:	
+674-682	
+.	
+[	
+PubMed	
+]	
+	
+Lawson	B-N
+N	I-N
+.	I-N
+D	I-N
+.	
+","	
+Scheer	B-N
+","	I-N
+N	I-N
+.	
+","	
+Pham	B-N
+","	I-N
+V	I-N
+.	I-N
+N	I-N
+.	
+","	
+Kim	B-N
+","	I-N
+C	I-N
+.	I-N
+H	I-N
+.	
+","	
+Chitnis	B-N
+","	I-N
+A	I-N
+.	I-N
+B	I-N
+.	
+","	
+Campos-Ortega	B-N
+","	I-N
+J	I-N
+.	I-N
+A	I-N
+.	
+","	
+and	
+Weinstein	B-N
+","	I-N
+B	I-N
+.	I-N
+M	I-N
+.	
+2001	
+.	
+Notch	
+signaling	
+is	
+required	
+for	
+arterial	
+??	
+venous	
+differentiation	
+during	
+embryonic	
+vascular	
+development	
+.	
+Development	
+128	
+:	
+3675-3683	
+.	
+[	
+PubMed	
+]	
+	
+Li	B-N
+L	I-N
+.	
+","	
+Miano	B-N
+","	I-N
+J	I-N
+.	I-N
+M	I-N
+.	
+","	
+Cserjesi	B-N
+","	I-N
+P	I-N
+.	
+","	
+and	
+Olson	B-N
+","	B-N
+E	I-N
+.	I-N
+N	I-N
+.	
+1996	
+.	
+SM22	
+慣	
+","	
+a	
+marker	
+of	
+adult	
+smooth	
+muscle	
+","	
+is	
+expressed	
+in	
+multiple	
+myogenic	
+lineages	
+during	
+embryogenesis	
+.	
+Circ	
+.	
+Res	
+.	
+78	
+:	
+188-195	
+.	
+[	
+PubMed	
+]	
+	
+Moessler	B-N
+H	I-N
+.	
+","	
+Mericskay	B-N
+","	I-N
+M	I-N
+.	
+","	
+Li	B-N
+","	I-N
+Z	I-N
+.	
+","	
+Nagl	B-N
+","	I-N
+S	I-N
+.	
+","	
+Paulin	B-N
+","	I-N
+D	I-N
+.	
+","	
+and	
+Small	B-N
+","	I-N
+J	I-N
+.	I-N
+V	I-N
+.	
+1996	
+.	
+The	
+SM22	
+promoter	
+directs	
+tissue-specific	
+expression	
+in	
+arterial	
+but	
+not	
+in	
+venous	
+or	
+visceral	
+smooth	
+muscle	
+cells	
+in	
+transgenic	
+mice	
+.	
+Development	
+122	
+:	
+2415-2425	
+.	
+[	
+PubMed	
+]	
+	
+Moyon	B-N
+D	I-N
+.	
+","	
+Pardanaud	B-N
+","	I-N
+L	I-N
+.	
+","	
+Yuan	B-N
+","	I-N
+L	I-N
+.	
+","	
+Breant	B-N
+","	I-N
+C	I-N
+.	
+","	
+and	
+Eichmann	B-N
+","	I-N
+A	I-N
+.	
+2001	
+.	
+Plasticity	
+of	
+endothelial	
+cells	
+during	
+arterial	
+??	
+venous	
+differentiation	
+in	
+the	
+avian	
+embryo	
+.	
+Development	
+128	
+:	
+3359-3370	
+.	
+[	
+PubMed	
+]	
+	
+Mukouyama	B-N
+Y	I-N
+.	I-N
+S	I-N
+.	
+","	
+Shin	B-N
+","	I-N
+D	I-N
+.	
+","	
+Britsch	B-N
+","	I-N
+S	I-N
+.	
+","	
+Taniguchi	B-N
+","	I-N
+M	I-N
+.	
+","	
+and	
+Anderson	B-N
+","	I-N
+D	I-N
+.	I-N
+J	I-N
+.	
+2002	
+.	
+Sensory	
+nerves	
+determine	
+the	
+pattern	
+of	
+arterial	
+differentiation	
+and	
+blood	
+vessel	
+branching	
+in	
+the	
+skin	
+.	
+Cell	
+109	
+:	
+693-705	
+.	
+[	
+PubMed	
+]	
+	
+Owens	B-N
+G	I-N
+.	I-N
+K	I-N
+.	
+1998	
+.	
+Molecular	
+control	
+of	
+vascular	
+smooth	
+muscle	
+cell	
+differentiation	
+.	
+Acta	
+Physiol	
+.	
+Scand	
+.	
+164	
+:	
+623-635	
+.	
+[	
+PubMed	
+]	
+	
+Ruchoux	B-N
+M	I-N
+.	I-N
+M	I-N
+.	
+","	
+Guerouaou	B-N
+","	I-N
+D	I-N
+.	
+","	
+Vandenhaute	B-N
+","	I-N
+B	I-N
+.	
+","	
+Pruvo	B-N
+","	I-N
+J	I-N
+.	I-N
+P	I-N
+.	
+","	
+Vermersch	B-N
+","	I-N
+P	I-N
+.	
+","	
+and	
+Leys	B-N
+","	I-N
+D	I-N
+.	
+1995	
+.	
+Systemic	
+vascular	
+smooth	
+muscle	
+cell	
+impairment	
+in	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+.	
+Acta	
+Neuropathol	
+.	
+(	
+Berl	
+)	
+89	
+:	
+500-512	
+.	
+[	
+PubMed	
+]	
+	
+Ruchoux	B-N
+M	I-N
+.	I-N
+M	I-N
+.	
+","	
+Domenga	B-N
+","	I-N
+V	I-N
+.	
+","	
+Brulin	B-N
+","	I-N
+P	I-N
+.	
+","	
+Maciazek	B-N
+","	I-N
+J	I-N
+.	
+","	
+Limol	B-N
+","	I-N
+S	I-N
+.	
+","	
+Tournier-Lasserve	B-N
+","	I-N
+E	I-N
+.	
+","	
+and	
+Joutel	B-N
+","	I-N
+A	I-N
+.	
+2003	
+.	
+Transgenic	
+mice	
+expressing	
+mutant	
+Notch3	
+develop	
+vascular	
+alterations	
+characteristic	
+of	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+.	
+Am	
+.	
+J	
+.	
+Pathol	
+.	
+162	
+:	
+329-342	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Shawber	B-N
+C	I-N
+.	I-N
+J	I-N
+.	
+and	
+Kitajewski	B-N
+","	I-N
+J	I-N
+.	
+2004	
+.	
+Notch	
+function	
+in	
+the	
+vasculature	
+:	
+Insights	
+from	
+zebrafish	
+","	
+mouse	
+and	
+man	
+.	
+Bioessays	
+26	
+:	
+225-234	
+.	
+[	
+PubMed	
+]	
+	
+Tiemann	B-N
+K	I-N
+.	
+","	
+Weyer	B-N
+","	I-N
+D	I-N
+.	
+","	
+Djoufack	B-N
+","	I-N
+P	I-N
+.	I-N
+C	I-N
+.	
+","	
+Ghanem	B-N
+","	I-N
+A	I-N
+.	
+","	
+Lewalter	B-N
+","	I-N
+T	I-N
+.	
+","	
+Dreiner	B-N
+","	I-N
+U	I-N
+.	
+","	
+Meyer	B-N
+","	I-N
+R	I-N
+.	
+","	
+Grohe	B-N
+","	I-N
+C	I-N
+.	
+","	
+and	
+Fink	B-N
+","	I-N
+K	I-N
+.	I-N
+B	I-N
+.	
+2003	
+.	
+Increasing	
+myocardial	
+contraction	
+and	
+blood	
+pressure	
+in	
+C57BL	
+/	
+6	
+mice	
+during	
+early	
+postnatal	
+development	
+.	
+Am	
+.	
+J	
+.	
+Physiol	
+.	
+Heart	
+Circ	
+.	
+Physiol	
+.	
+284	
+:	
+H464-H474	
+.	
+[	
+PubMed	
+]	
+	
+van	B-N
+der	I-N
+Loop	I-N
+F	I-N
+.	I-N
+T	I-N
+.	
+","	
+Gabbiani	B-N
+","	I-N
+G	I-N
+.	
+","	
+Kohnen	B-N
+","	I-N
+G	I-N
+.	
+","	
+Ramaekers	B-N
+","	I-N
+F	I-N
+.	I-N
+C	I-N
+.	
+","	
+and	
+van	B-N
+Eys	I-N
+","	I-N
+G	I-N
+.	I-N
+J	I-N
+.	
+1997	
+.	
+Differentiation	
+of	
+smooth	
+muscle	
+cells	
+in	
+human	
+blood	
+vessels	
+as	
+defined	
+by	
+smoothelin	
+","	
+a	
+novel	
+marker	
+for	
+the	
+contractile	
+phenotype	
+.	
+Arterioscler	
+.	
+Thromb	
+.	
+Vasc	
+.	
+Biol	
+.	
+17	
+:	
+665-671	
+.	
+[	
+PubMed	
+]	
+	
+Wang	B-N
+H	I-N
+.	I-N
+U	I-N
+.	
+","	
+Chen	B-N
+","	I-N
+Z	I-N
+.	I-N
+F	I-N
+.	
+","	
+and	
+Anderson	B-N
+","	I-N
+D	I-N
+.	I-N
+J	I-N
+.	
+1998	
+.	
+Molecular	
+distinction	
+and	
+angiogenic	
+interaction	
+between	
+embryonic	
+arteries	
+and	
+veins	
+revealed	
+by	
+ephrin-B2	
+and	
+its	
+receptor	
+Eph-B4	
+.	
+Cell	
+93	
+:	
+741-753	
+.	
+[	
+PubMed	
+]	
+	
+Xue	B-N
+Y	I-N
+.	
+","	
+Gao	B-N
+","	I-N
+X	I-N
+.	
+","	
+Lindsell	B-N
+","	I-N
+C	I-N
+.	I-N
+E	I-N
+.	
+","	
+Norton	B-N
+","	I-N
+C	I-N
+.	I-N
+R	I-N
+.	
+","	
+Chang	B-N
+","	I-N
+B	I-N
+.	
+","	
+Hicks	B-N
+","	I-N
+C	I-N
+.	
+","	
+Gendron-Maguire	B-N
+","	I-N
+M	I-N
+.	
+","	
+Rand	B-N
+","	I-N
+E	I-N
+.	I-N
+B	I-N
+.	
+","	
+Weinmaster	B-N
+","	I-N
+G	I-N
+.	
+","	
+and	
+Gridley	B-N
+","	I-N
+T	I-N
+.	
+1999	
+.	
+Embryonic	
+lethality	
+and	
+vascular	
+defects	
+in	
+mice	
+lacking	
+the	
+Notch	
+ligand	
+Jagged1	
+.	
+Hum	
+.	
+Mol	
+.	
+Genet	
+.	
+8	
+:	
+723-730	
+.	
+[	
+PubMed	
+]	

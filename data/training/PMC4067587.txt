@@ -1,0 +1,1217 @@
+1	
+.	
+Boltshauser	B-N
+E	I-N
+","	
+Wilson	B-N
+J	I-N
+","	
+Hoare	B-N
+RD	I-N
+.	
+1976	
+.	
+Sturge	
+–	
+Weber	
+syndrome	
+with	
+bilateral	
+intracranial	
+calcification	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+39	
+:	
+429	
+–	
+435	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Jouvent	B-N
+E	I-N
+","	
+Viswanathan	B-N
+A	I-N
+","	
+Mangin	B-N
+JF	I-N
+","	
+O	B-N
+'	I-N
+Sullivan	I-N
+M	I-N
+","	
+Guichard	B-N
+JP	I-N
+","	
+Gschwendtner	B-N
+A	I-N
+","	
+Cumurciuc	B-N
+R	I-N
+","	
+Buffon	B-N
+F	I-N
+","	
+Peters	B-N
+N	I-N
+","	
+Pachai	B-N
+C	I-N
+","	
+Bousser	B-N
+MG	I-N
+","	
+Dichgans	B-N
+M	I-N
+","	
+Chabriat	B-N
+H	I-N
+.	
+2007	
+.	
+Brain	
+atrophy	
+is	
+related	
+to	
+lacunar	
+lesions	
+and	
+tissue	
+microstructural	
+changes	
+in	
+CADASIL	
+.	
+Stroke	
+38	
+:	
+1786	
+–	
+1790	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Kobayashi	B-N
+S	I-N
+","	
+Yamadori	B-N
+I	I-N
+","	
+Miki	B-N
+H	I-N
+","	
+Ohmori	B-N
+M	I-N
+.	
+1987	
+.	
+Idiopathic	
+nonarteriosclerotic	
+cerebral	
+calcification	
+(	
+Fahr	
+'	
+s	
+disease	
+)	
+:	
+an	
+electron	
+microscopic	
+study	
+.	
+Acta	
+Neuropathol	
+73	
+:	
+62	
+–	
+66	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Shanley	B-N
+DJ	I-N
+.	
+1995	
+.	
+Mineralizing	
+microangiopathy	
+:	
+CT	
+and	
+MRI	
+.	
+Neuroradiology	
+37	
+:	
+331	
+–	
+333	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Fankhauser	B-N
+R	I-N
+","	
+Luginbuhl	B-N
+H	I-N
+","	
+McGrath	B-N
+JT	I-N
+.	
+1965	
+.	
+Cerebrovascular	
+disease	
+in	
+various	
+animal	
+species	
+.	
+Ann	
+N	
+Y	
+Acad	
+Sci	
+127	
+:	
+817	
+–	
+860	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Hamir	B-N
+AN	I-N
+","	
+Palmer	B-N
+MV	I-N
+","	
+Kunkle	B-N
+RA	I-N
+.	
+2008	
+.	
+Wasting	
+and	
+neurologic	
+signs	
+in	
+a	
+white-tailed	
+deer	
+(	
+Odocoileus	
+virginianus	
+)	
+not	
+associated	
+with	
+abnormal	
+prion	
+protein	
+.	
+J	
+Wildl	
+Dis	
+44	
+:	
+1045	
+–	
+1050	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Storts	B-N
+RH	I-N
+","	
+Montgomery	B-N
+D	I-N
+L	I-N
+.	
+2001	
+.	
+The	
+nervous	
+system	
+","	
+381-459	
+.	
+In	
+:	
+M	
+.	
+Donald	
+McGavin	
+","	
+William	
+W	
+.	
+Carlton	
+","	
+James	
+F	
+.	
+Zachary	
+.	
+Thomson	
+'	
+s	
+Special	
+Veterinary	
+Pathology	
+.	
+St	
+.	
+Louis	
+(	
+Missouri	
+)	
+:	
+Mosby	
+	
+8	
+.	
+Yanai	B-N
+T	I-N
+","	
+Masegi	B-N
+T	I-N
+","	
+Ishikawa	B-N
+K	I-N
+","	
+Sakai	B-N
+H	I-N
+","	
+Iwasaki	B-N
+T	I-N
+","	
+Moritomo	B-N
+Y	I-N
+","	
+Goto	B-N
+N	I-N
+.	
+1996	
+.	
+Spontaneous	
+vascular	
+mineralization	
+in	
+the	
+brain	
+of	
+horses	
+.	
+J	
+Vet	
+Med	
+Sci	
+58	
+:	
+35	
+–	
+40	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Yanai	B-N
+T	I-N
+","	
+Masegi	B-N
+T	I-N
+","	
+Ueda	B-N
+K	I-N
+","	
+Manabe	B-N
+J	I-N
+","	
+Teranishi	B-N
+M	I-N
+","	
+Takaoka	B-N
+M	I-N
+","	
+Matsunuma	B-N
+N	I-N
+","	
+Fukuda	B-N
+K	I-N
+","	
+Goto	B-N
+N	I-N
+.	
+1993	
+.	
+Spontaneous	
+globoid	
+mineralization	
+in	
+the	
+cerebellum	
+of	
+rats	
+.	
+J	
+Comp	
+Pathol	
+109	
+:	
+447	
+–	
+451	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Institute	
+for	
+Laboratory	
+Animal	
+Research	
+.	
+1996	
+.	
+Guide	
+for	
+the	
+care	
+and	
+use	
+of	
+laboratory	
+animals	
+.	
+Washington	
+(	
+DC	
+)	
+:	
+National	
+Academies	
+Press	
+.	
+	
+11	
+.	
+Zoller	B-N
+M	I-N
+","	
+Grevot	B-N
+A	I-N
+","	
+Matz-Rensing	B-N
+K	I-N
+","	
+Hofmann	B-N
+P	I-N
+","	
+Jurek	B-N
+V	I-N
+","	
+Schulz-Schaeffer	B-N
+W	I-N
+","	
+Kaup	B-N
+FJ	I-N
+.	
+2007	
+.	
+Leucoencephalopathy	
+with	
+cerebral	
+calcinosis	
+in	
+a	
+young	
+chimpanzee	
+(	
+Pan	
+troglodytes	
+)	
+—	
+a	
+case	
+report	
+.	
+J	
+Med	
+Primatol	
+36	
+:	
+385	
+–	
+390	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Institute	
+for	
+Laboratory	
+Animal	
+Research	
+.	
+1996	
+.	
+Guide	
+for	
+the	
+care	
+and	
+use	
+of	
+laboratory	
+animals	
+.	
+Washington	
+(	
+DC	
+)	
+:	
+National	
+Academies	
+Press	
+	
+13	
+.	
+Animal	
+Welfare	
+Act	
+as	
+Amended	
+.	
+20087	
+USC	
+§	
+2131	
+–	
+2159	
+	
+14	
+.	
+Animal	
+Welfare	
+Regulations	
+.	
+2008	
+.	
+9	
+CFR	
+§	
+3	
+.	
+75	
+–	
+3	
+.	
+92	
+	
+15	
+.	
+Hopkins	B-N
+WD	I-N
+","	
+Russell	B-N
+JL	I-N
+","	
+Schaeffer	B-N
+JA	I-N
+","	
+Gardner	B-N
+M	I-N
+","	
+Schapiro	B-N
+SJ	I-N
+.	
+2009	
+.	
+Handedness	
+for	
+tool	
+use	
+in	
+captive	
+chimpanzees	
+(	
+Pan	
+troglodytes	
+)	
+:	
+sex	
+differences	
+","	
+performance	
+","	
+heritability	
+","	
+and	
+comparison	
+to	
+the	
+wild	
+.	
+Behaviour	
+146	
+:	
+1463	
+–	
+1483	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Hopkins	B-N
+WD	I-N
+","	
+Russell	B-N
+JL	I-N
+.	
+2004	
+.	
+Further	
+evidence	
+of	
+a	
+right-hand	
+advantage	
+in	
+motor	
+skill	
+by	
+chimpanzees	
+(	
+Pan	
+troglodytes	
+)	
+.	
+Neuropsychologia	
+42	
+:	
+990	
+–	
+996	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Russell	B-N
+JL	I-N
+","	
+Lyn	B-N
+H	I-N
+","	
+Schaeffer	B-N
+JA	I-N
+","	
+Hopkins	B-N
+WD	I-N
+.	
+2011	
+.	
+The	
+role	
+of	
+socio-communicative	
+rearing	
+environments	
+in	
+the	
+development	
+of	
+social	
+and	
+physical	
+cognition	
+in	
+apes	
+.	
+Dev	
+Sci	
+14	
+:	
+1459	
+–	
+1470	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Sehgal	B-N
+V	I-N
+","	
+Delproposto	B-N
+Z	I-N
+","	
+Haddar	B-N
+D	I-N
+","	
+Haacke	B-N
+EM	I-N
+","	
+Sloan	B-N
+AE	I-N
+","	
+Zamorano	B-N
+LJ	I-N
+","	
+Barger	B-N
+G	I-N
+","	
+Hu	B-N
+J	I-N
+","	
+Xu	B-N
+Y	I-N
+","	
+Prabhakaran	B-N
+KP	I-N
+","	
+Elangovan	B-N
+IR	I-N
+","	
+Neelavalli	B-N
+J	I-N
+","	
+Reichenbach	B-N
+JR	I-N
+.	
+2006	
+.	
+Susceptibility-weighted	
+imaging	
+to	
+visualize	
+blood	
+products	
+and	
+improve	
+tumor	
+contrast	
+in	
+the	
+study	
+of	
+brain	
+masses	
+.	
+J	
+Magn	
+Reson	
+Imaging	
+24	
+:	
+41	
+–	
+51	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Thomas	B-N
+B	I-N
+","	
+Somasundaram	B-N
+S	I-N
+","	
+Thamburaj	B-N
+K	I-N
+","	
+Kesavadas	B-N
+C	I-N
+","	
+Gupta	B-N
+AK	I-N
+","	
+Bodhey	B-N
+NK	I-N
+","	
+Kapilamoorthy	B-N
+TR	I-N
+.	
+2008	
+.	
+Clinical	
+applications	
+of	
+susceptibility-weighted	
+MR	
+imaging	
+of	
+the	
+brain	
+—	
+a	
+pictorial	
+review	
+.	
+Neuroradiology	
+50	
+:	
+105	
+–	
+116	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Tsui	B-N
+YK	I-N
+","	
+Tsai	B-N
+FY	I-N
+","	
+Hasso	B-N
+AN	I-N
+","	
+Greensite	B-N
+F	I-N
+","	
+Nguyen	B-N
+BV	I-N
+.	
+2009	
+.	
+Susceptibility-weighted	
+imaging	
+for	
+differential	
+diagnosis	
+of	
+cerebral	
+vascular	
+pathology	
+:	
+a	
+pictorial	
+review	
+.	
+J	
+Neurol	
+Sci	
+287	
+:	
+7	
+–	
+16	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Almstedt	B-N
+K	I-N
+","	
+Lundqvist	B-N
+M	I-N
+","	
+Carlsson	B-N
+J	I-N
+","	
+Karlsson	B-N
+M	I-N
+","	
+Persson	B-N
+B	I-N
+","	
+Jonsson	B-N
+BH	I-N
+","	
+Carlsson	B-N
+U	I-N
+","	
+Hammarstrom	B-N
+P	I-N
+.	
+2004	
+.	
+Unfolding	
+a	
+folding	
+disease	
+:	
+folding	
+","	
+misfolding	
+","	
+and	
+aggregation	
+of	
+the	
+marble	
+brain	
+syndrome-associated	
+mutant	
+H107Y	
+of	
+human	
+carbonic	
+anhydrase	
+II	
+.	
+J	
+Mol	
+Biol	
+342	
+:	
+619	
+–	
+633	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Joutel	B-N
+A	I-N
+","	
+Corpechot	B-N
+C	I-N
+","	
+Ducros	B-N
+A	I-N
+","	
+Vahedi	B-N
+K	I-N
+","	
+Chabriat	B-N
+H	I-N
+","	
+Mouton	B-N
+P	I-N
+","	
+Alamowitch	B-N
+S	I-N
+","	
+Domenga	B-N
+V	I-N
+","	
+Cecillion	B-N
+M	I-N
+","	
+Marechal	B-N
+E	I-N
+","	
+Maciazek	B-N
+J	I-N
+","	
+Vayssiere	B-N
+C	I-N
+","	
+Cruaud	B-N
+C	I-N
+","	
+Cabanis	B-N
+EA	I-N
+","	
+Ruchoux	B-N
+MM	I-N
+","	
+Weissenbach	B-N
+J	I-N
+","	
+Bach	B-N
+JF	I-N
+","	
+Bousser	B-N
+MG	I-N
+","	
+Tournier-Lasserve	B-N
+E	I-N
+.	
+1996	
+.	
+Notch3	
+mutations	
+in	
+CADASIL	
+","	
+a	
+hereditary	
+adult-onset	
+condition	
+causing	
+stroke	
+and	
+dementia	
+.	
+Nature	
+383	
+:	
+707	
+–	
+710	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Chimpanzee	
+Sequencing	
+and	
+Analysis	
+Consortium	
+.	
+2005	
+.	
+Initial	
+sequence	
+of	
+the	
+chimpanzee	
+genome	
+and	
+comparison	
+with	
+the	
+human	
+genome	
+.	
+Nature	
+437	
+:	
+69	
+–	
+87	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Tang	B-N
+FT	I-N
+","	
+Chen	B-N
+SR	I-N
+","	
+Wu	B-N
+XQ	I-N
+","	
+Wang	B-N
+TQ	I-N
+","	
+Chen	B-N
+JW	I-N
+","	
+Li	B-N
+J	I-N
+","	
+Bao	B-N
+LP	I-N
+","	
+Huang	B-N
+HQ	I-N
+","	
+Liu	B-N
+PQ	I-N
+.	
+2006	
+.	
+Hypercholesterolemia	
+accelerates	
+vascular	
+calcification	
+induced	
+by	
+excessive	
+vitamin	
+D	
+via	
+oxidative	
+stress	
+.	
+Calcif	
+Tissue	
+Int	
+79	
+:	
+326	
+–	
+339	
+[	
+PubMed	
+]	
+	
+25	
+.	
+Herndon	B-N
+JG	I-N
+","	
+Tigges	B-N
+J	I-N
+.	
+2001	
+.	
+Hematologic	
+and	
+blood	
+biochemical	
+variables	
+of	
+captive	
+chimpanzees	
+:	
+cross-sectional	
+and	
+longitudinal	
+analyses	
+.	
+Comp	
+Med	
+51	
+:	
+60	
+–	
+69	
+[	
+PubMed	
+]	
+	
+26	
+.	
+Nudo	B-N
+RJ	I-N
+","	
+Jenkins	B-N
+WM	I-N
+","	
+Merzenich	B-N
+MM	I-N
+","	
+Prejean	B-N
+T	I-N
+","	
+Grenda	B-N
+R	I-N
+.	
+1992	
+.	
+Neurophysiological	
+correlates	
+of	
+hand	
+preference	
+in	
+primary	
+motor	
+cortex	
+of	
+adult	
+squirrel	
+monkeys	
+.	
+J	
+Neurosci	
+12	
+:	
+2918-2947	
+[	
+PubMed	
+]	
+	
+27	
+.	
+Loeb	B-N
+JA	I-N
+","	
+Sohrab	B-N
+SA	I-N
+","	
+Huq	B-N
+M	I-N
+","	
+Fuerst	B-N
+DR	I-N
+.	
+2006	
+.	
+Brain	
+calcifications	
+induce	
+neurological	
+dysfunction	
+that	
+can	
+be	
+reversed	
+by	
+a	
+bone	
+drug	
+.	
+J	
+Neurol	
+Sci	
+243	
+:	
+77	
+–	
+81	
+[	
+PubMed	
+]	

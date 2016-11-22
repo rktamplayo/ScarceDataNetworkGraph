@@ -1,0 +1,1097 @@
+[	
+1	
+]	
+Joutel	B-N
+A	I-N
+","	
+Corpechot	B-N
+C	I-N
+","	
+Ducros	B-N
+A	I-N
+","	
+et	
+al	
+.	
+Notch3	
+mutations	
+in	
+CADASIL	
+","	
+a	
+hereditary	
+adult-onset	
+condition	
+causing	
+stroke	
+and	
+dementia	
+.	
+Nature	
+.	
+1996	
+;	
+383	
+(	
+6602	
+)	
+:	
+707	
+–	
+710	
+.	
+[	
+PubMed	
+]	
+	
+[	
+2	
+]	
+Baudrimont	B-N
+M	I-N
+","	
+Dubas	B-N
+F	I-N
+","	
+Joutel	B-N
+A	I-N
+","	
+et	
+al	
+.	
+Autosomal	
+dominant	
+leukoencephalopathy	
+and	
+subcortical	
+ischemic	
+stroke	
+.	
+A	
+clinicopathological	
+study	
+.	
+Stroke	
+.	
+1993	
+;	
+24	
+(	
+1	
+)	
+:	
+122	
+–	
+125	
+.	
+[	
+PubMed	
+]	
+	
+[	
+3	
+]	
+Auer	B-N
+DP	I-N
+","	
+Pütz	B-N
+B	I-N
+","	
+Gössl	B-N
+C	I-N
+","	
+et	
+al	
+.	
+Differential	
+lesion	
+patterns	
+in	
+CADASIL	
+and	
+sporadic	
+subcortical	
+arteriosclerotic	
+encephalopathy	
+:	
+MR	
+imaging	
+study	
+with	
+statistical	
+parametric	
+group	
+comparison	
+.	
+Radiology	
+.	
+2001	
+;	
+218	
+(	
+2	
+)	
+:	
+443	
+–	
+451	
+.	
+[	
+PubMed	
+]	
+	
+[	
+4	
+]	
+Markus	B-N
+HS	I-N
+","	
+Martin	B-N
+RJ	I-N
+","	
+Simpson	B-N
+MA	I-N
+","	
+et	
+al	
+.	
+Diagnostic	
+strategies	
+in	
+CADASIL	
+.	
+Neurology	
+.	
+2002	
+;	
+59	
+(	
+8	
+)	
+:	
+1134	
+–	
+1138	
+.	
+[	
+PubMed	
+]	
+	
+[	
+5	
+]	
+Singhal	B-N
+S	I-N
+","	
+Rich	B-N
+P	I-N
+","	
+Markus	B-N
+HS	I-N
+.	
+The	
+spatial	
+distribution	
+of	
+MR	
+imaging	
+abnormalities	
+in	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+and	
+their	
+relationship	
+to	
+age	
+and	
+clinical	
+features	
+.	
+AJNR	
+Am	
+J	
+Neuroradiol	
+.	
+2005	
+;	
+26	
+(	
+10	
+)	
+:	
+2481	
+–	
+2487	
+.	
+[	
+PubMed	
+]	
+	
+[	
+6	
+]	
+Chabriat	B-N
+H	I-N
+","	
+Joutel	B-N
+A	I-N
+","	
+Dichgans	B-N
+M	I-N
+","	
+et	
+al	
+.	
+Cadasil	
+.	
+Lancet	
+Neurol	
+.	
+2009	
+;	
+8	
+(	
+7	
+)	
+:	
+643	
+–	
+653	
+.	
+[	
+PubMed	
+]	
+	
+[	
+7	
+]	
+Hervé	B-N
+D	I-N
+","	
+Chabriat	B-N
+H	I-N
+.	
+Cadasil	
+.	
+J	
+Geriatr	
+Psychiatry	
+Neurol	
+.	
+2010	
+;	
+23	
+(	
+4	
+)	
+:	
+269	
+–	
+276	
+.	
+[	
+PubMed	
+]	
+	
+[	
+8	
+]	
+Yin	B-N
+XZ	I-N
+","	
+Ding	B-N
+MP	I-N
+","	
+Zhang	B-N
+BR	I-N
+","	
+et	
+al	
+.	
+Report	
+of	
+two	
+Chinese	
+families	
+and	
+a	
+review	
+of	
+Mainland	
+Chinese	
+CADASIL	
+patients	
+.	
+J	
+Neurol	
+Sci	
+.	
+2009	
+;	
+279	
+(	
+01월 02일	
+)	
+:	
+88	
+–	
+92	
+.	
+[	
+PubMed	
+]	
+	
+[	
+9	
+]	
+Wang	B-N
+Z	I-N
+","	
+Yuan	B-N
+Y	I-N
+","	
+Zhang	B-N
+W	I-N
+","	
+et	
+al	
+.	
+NOTCH3	
+mutations	
+and	
+clinical	
+features	
+in	
+33	
+mainland	
+Chinese	
+families	
+with	
+CADASIL	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+.	
+2011	
+;	
+82	
+(	
+5	
+)	
+:	
+534	
+–	
+539	
+.	
+[	
+PubMed	
+]	
+	
+[	
+10	
+]	
+Abe	B-N
+K	I-N
+","	
+Murakami	B-N
+T	I-N
+","	
+Matsubara	B-N
+E	I-N
+","	
+et	
+al	
+.	
+Clinical	
+Features	
+of	
+CADASIL	
+.	
+Ann	
+N	
+Y	
+Acad	
+Sci	
+.	
+2002	
+;	
+977	
+:	
+266	
+–	
+272	
+.	
+[	
+PubMed	
+]	
+	
+[	
+11	
+]	
+Suwanwela	B-N
+N	I-N
+","	
+Srikiatkhachorn	B-N
+A	I-N
+","	
+Tangwongchai	B-N
+S	I-N
+","	
+et	
+al	
+.	
+Mutation	
+of	
+the	
+Notch	
+3	
+gene	
+in	
+a	
+Thai	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+family	
+.	
+J	
+Med	
+Assoc	
+Thai	
+.	
+2003	
+;	
+86	
+(	
+2	
+)	
+:	
+178	
+–	
+182	
+.	
+[	
+PubMed	
+]	
+	
+[	
+12	
+]	
+Moon	B-N
+SY	I-N
+","	
+Kim	B-N
+HY	I-N
+","	
+Seok	B-N
+JI	I-N
+","	
+et	
+al	
+.	
+A	
+novel	
+mutation	
+(	
+C67Y	
+)	
+in	
+the	
+NOTCH3	
+gene	
+in	
+a	
+Korean	
+CADASIL	
+patient	
+.	
+J	
+Korean	
+Med	
+Sci	
+.	
+2003	
+;	
+18	
+(	
+1	
+)	
+:	
+141	
+–	
+144	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+[	
+13	
+]	
+Lee	B-N
+YC	I-N
+","	
+Liu	B-N
+CS	I-N
+","	
+Chang	B-N
+MH	I-N
+","	
+et	
+al	
+.	
+Population-specific	
+spectrum	
+of	
+NOTCH3	
+mutations	
+","	
+MRI	
+features	
+and	
+founder	
+effect	
+of	
+CADASIL	
+in	
+Chinese	
+.	
+J	
+Neurol	
+.	
+2009	
+;	
+256	
+(	
+2	
+)	
+:	
+249	
+–	
+255	
+.	
+[	
+PubMed	
+]	
+	
+[	
+14	
+]	
+Kalaria	B-N
+RN	I-N
+","	
+Viitanen	B-N
+M	I-N
+","	
+Kalimo	B-N
+H	I-N
+","	
+et	
+al	
+.	
+The	
+pathogenesis	
+of	
+CADASIL	
+:	
+an	
+update	
+.	
+J	
+Neurol	
+Sci	
+.	
+2004	
+;	
+226	
+(	
+01월 02일	
+)	
+:	
+35	
+–	
+39	
+.	
+[	
+PubMed	
+]	
+	
+[	
+15	
+]	
+André	B-N
+C	I-N
+.	
+CADASIL	
+:	
+pathogenesis	
+","	
+clinical	
+and	
+radiological	
+findings	
+and	
+treatment	
+.	
+Arq	
+Neuropsiquiatr	
+.	
+2010	
+;	
+68	
+(	
+2	
+)	
+:	
+287	
+–	
+299	
+.	
+[	
+PubMed	
+]	
+	
+[	
+16	
+]	
+Shuja	B-N
+S	I-N
+","	
+Lindquist	B-N
+J	I-N
+","	
+Lee	B-N
+KP	I-N
+","	
+et	
+al	
+.	
+CADASIL	
+disease	
+","	
+an	
+inherited	
+slowly	
+progressive	
+vascular	
+dementia	
+:	
+case	
+report	
+with	
+radiologic	
+and	
+electron	
+microscopic	
+findings	
+.	
+J	
+Stroke	
+Cerebrovasc	
+Dis	
+.	
+2009	
+;	
+18	
+(	
+6	
+)	
+:	
+491	
+–	
+493	
+.	
+[	
+PubMed	
+]	
+	
+[	
+17	
+]	
+Tang	B-N
+SC	I-N
+","	
+Jeng	B-N
+JS	I-N
+","	
+Lee	B-N
+MJ	I-N
+","	
+et	
+al	
+.	
+Notch	
+signaling	
+and	
+CADASIL	
+.	
+Acta	
+Neurol	
+Taiwan	
+.	
+2009	
+;	
+18	
+(	
+2	
+)	
+:	
+81	
+–	
+90	
+.	
+[	
+PubMed	
+]	
+	
+[	
+18	
+]	
+Meyer	B-N
+JS	I-N
+","	
+Konno	B-N
+S	I-N
+","	
+Margishvili	B-N
+GM	I-N
+","	
+et	
+al	
+.	
+Vasodilator	
+responses	
+to	
+acetazolamide	
+tested	
+in	
+subtypes	
+of	
+vascular	
+dementia	
+.	
+J	
+Stroke	
+Cerebrovasc	
+Dis	
+.	
+1998	
+;	
+7	
+(	
+5	
+)	
+:	
+323	
+–	
+329	
+.	
+[	
+PubMed	
+]	
+	
+[	
+19	
+]	
+Weller	B-N
+M	I-N
+","	
+Dichgans	B-N
+J	I-N
+","	
+Klockgether	B-N
+T	I-N
+.	
+Acetazolamide-responsive	
+migraine	
+in	
+CADASIL	
+.	
+Neurology	
+.	
+1998	
+;	
+50	
+(	
+5	
+)	
+:	
+1505	
+.	
+[	
+PubMed	
+]	
+	
+[	
+20	
+]	
+Forteza	B-N
+AM	I-N
+","	
+Brozman	B-N
+B	I-N
+","	
+Rabinstein	B-N
+AA	I-N
+","	
+et	
+al	
+.	
+Acetazolamide	
+for	
+the	
+treatment	
+of	
+migraine	
+with	
+aura	
+in	
+CADASIL	
+.	
+Neurology	
+.	
+2001	
+;	
+57	
+(	
+11	
+)	
+:	
+2144	
+–	
+2145	
+.	
+[	
+PubMed	
+]	
+	
+[	
+21	
+]	
+Choi	B-N
+JC	I-N
+","	
+Kang	B-N
+SY	I-N
+","	
+Kang	B-N
+JH	I-N
+","	
+et	
+al	
+.	
+Intracerebral	
+hemorrhages	
+in	
+CADASIL	
+.	
+Neurology	
+.	
+2006	
+;	
+67	
+(	
+11	
+)	
+:	
+2042	
+–	
+2044	
+.	
+[	
+PubMed	
+]	
+	
+[	
+22	
+]	
+Endres	B-N
+M	I-N
+","	
+Laufs	B-N
+U	I-N
+","	
+Huang	B-N
+Z	I-N
+","	
+et	
+al	
+.	
+Stroke	
+protection	
+by	
+3-hydroxy-3-methylglutaryl	
+(	
+HMG	
+)	
+#NAME?	
+reductase	
+inhibitors	
+mediated	
+by	
+endothelial	
+nitric	
+oxide	
+synthase	
+.	
+Proc	
+Natl	
+Acad	
+Sci	
+U	
+S	
+A	
+.	
+1998	
+;	
+95	
+(	
+15	
+)	
+:	
+8880	
+–	
+8885	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+[	
+23	
+]	
+Dichgans	B-N
+M	I-N
+","	
+Markus	B-N
+HS	I-N
+","	
+Salloway	B-N
+S	I-N
+","	
+et	
+al	
+.	
+Donepezil	
+in	
+patients	
+with	
+subcortical	
+vascular	
+cognitive	
+impairment	
+:	
+a	
+randomised	
+double-blind	
+trial	
+in	
+CADASIL	
+.	
+Lancet	
+Neurol	
+.	
+2008	
+;	
+7	
+(	
+4	
+)	
+:	
+310	
+–	
+318	
+.	
+[	
+PubMed	
+]	
+	
+[	
+24	
+]	
+Ueda	B-N
+M	I-N
+","	
+Nakaguma	B-N
+R	I-N
+","	
+Ando	B-N
+Y	I-N
+.	
+Cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+(	
+CADASIL	
+)	
+Rinsho	
+Byori	
+.	
+2009	
+;	
+57	
+(	
+3	
+)	
+:	
+242	
+–	
+251	
+.	
+[	
+PubMed	
+]	
+	
+[	
+25	
+]	
+State	
+Council	
+of	
+the	
+People	
+'	
+s	
+Republic	
+of	
+China	
+.	
+Administrative	
+Regulations	
+on	
+Medical	
+Institution	
+.	
+1994-09-01	

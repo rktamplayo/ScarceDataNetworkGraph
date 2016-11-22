@@ -1,0 +1,1053 @@
+1	
+.	
+Joutel	B-N
+A	I-N
+","	
+Corpechot	B-N
+C	I-N
+","	
+Ducros	B-N
+A	I-N
+","	
+Vahedi	B-N
+K	I-N
+","	
+Chabriat	B-N
+H	I-N
+","	
+et	
+al	
+.	
+(	
+1996	
+)	
+Notch3	
+mutations	
+in	
+CADASIL	
+","	
+a	
+hereditary	
+adult-onset	
+condition	
+causing	
+stroke	
+and	
+dementia	
+.	
+Nature	
+383	
+:	
+707	
+–	
+710	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Choi	B-N
+JC	I-N
+(	
+2010	
+)	
+Cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+:	
+a	
+genetic	
+cause	
+of	
+cerebral	
+small	
+vessel	
+disease	
+.	
+J	
+Clin	
+Neurol	
+6	
+:	
+1	
+–	
+9	
+.	
+doi	
+:	
+10	
+.	
+3988	
+/	
+jcn	
+.	
+2010	
+.	
+6	
+.	
+1	
+.	
+1	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Chabriat	B-N
+H	I-N
+","	
+Vahedi	B-N
+K	I-N
+","	
+Iba-Zizen	B-N
+MT	I-N
+","	
+Joutel	B-N
+A	I-N
+","	
+Nibbio	B-N
+A	I-N
+","	
+et	
+al	
+.	
+(	
+1995	
+)	
+Clinical	
+spectrum	
+of	
+CADASIL	
+:	
+a	
+study	
+of	
+7	
+families	
+.	
+Cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+.	
+Lancet	
+346	
+:	
+934	
+–	
+939	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Lee	B-N
+JS	I-N
+","	
+Choi	B-N
+JC	I-N
+","	
+Kang	B-N
+SY	I-N
+","	
+Kang	B-N
+JH	I-N
+","	
+Na	B-N
+HR	I-N
+","	
+et	
+al	
+.	
+(	
+2011	
+)	
+Effects	
+of	
+lacunar	
+infarctions	
+on	
+cognitive	
+impairment	
+in	
+patients	
+with	
+cerebral	
+autosomal-dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+.	
+J	
+Clin	
+Neurol	
+7	
+:	
+210	
+–	
+214	
+.	
+doi	
+:	
+10	
+.	
+3988	
+/	
+jcn	
+.	
+2011	
+.	
+7	
+.	
+4	
+.	
+210	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Chabriat	B-N
+H	I-N
+","	
+Joutel	B-N
+A	I-N
+","	
+Dichgans	B-N
+M	I-N
+","	
+Tournier-Lasserve	B-N
+E	I-N
+","	
+Bousser	B-N
+MG	I-N
+(	
+2009	
+)	
+CADASIL	
+.	
+Lancet	
+Neurol	
+8	
+:	
+643	
+–	
+653	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+S1474-4422	
+(	
+9	
+)	
+70127-9	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Lee	B-N
+SH	I-N
+","	
+Kwon	B-N
+SJ	I-N
+","	
+Kim	B-N
+KS	I-N
+","	
+Yoon	B-N
+BW	I-N
+","	
+Roh	B-N
+JK	I-N
+(	
+2004	
+)	
+Cerebral	
+microbleeds	
+in	
+patients	
+with	
+hypertensive	
+stroke	
+.	
+Topographical	
+distribution	
+in	
+the	
+supratentorial	
+area	
+.	
+J	
+Neurol	
+251	
+:	
+1183	
+–	
+1189	
+.	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Lesnik	B-N
+Oberstein	I-N
+SA	I-N
+","	
+van	B-N
+den	I-N
+Boom	I-N
+R	I-N
+","	
+van	B-N
+Buchem	I-N
+MA	I-N
+","	
+van	B-N
+Houwelingen	I-N
+HC	I-N
+","	
+Bakker	B-N
+E	I-N
+","	
+et	
+al	
+.	
+(	
+2001	
+)	
+Cerebral	
+microbleeds	
+in	
+CADASIL	
+.	
+Neurology	
+57	
+:	
+1066	
+–	
+1070	
+.	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Boulanger	B-N
+JM	I-N
+","	
+Coutts	B-N
+SB	I-N
+","	
+Elizasziw	B-N
+M	I-N
+","	
+Gagnon	B-N
+AJ	I-N
+","	
+Simon	B-N
+JE	I-N
+","	
+Subramaniam	B-N
+S	I-N
+.	
+et	
+al	
+.	
+(	
+2006	
+)	
+Cerebral	
+microhemorrhage	
+predict	
+new	
+disabling	
+or	
+fatal	
+stroke	
+in	
+patients	
+with	
+acute	
+ischemic	
+stroke	
+or	
+transient	
+ischemic	
+attack	
+.	
+Stroke	
+37	
+(	
+3	
+)	
+:	
+911	
+–	
+914	
+.	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Silen	B-N
+Vermeer	I-N
+SE	I-N
+","	
+Longstreth	B-N
+WT	I-N
+Jr	I-N
+","	
+Koudstaal	B-N
+PJ	I-N
+(	
+2007	
+)	
+brain	
+infarcts	
+:	
+a	
+systematic	
+review	
+.	
+Lancet	
+Neurol	
+.	
+6	
+(	
+7	
+)	
+:	
+611	
+–	
+9	
+.	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Greenberg	B-N
+SM	I-N
+","	
+Vernooij	B-N
+MW	I-N
+","	
+Cordonnier	B-N
+C	I-N
+","	
+Viswanathan	B-N
+A	I-N
+","	
+Al-Shahi	B-N
+Salman	I-N
+R	I-N
+","	
+et	
+al	
+.	
+(	
+2009	
+)	
+Cerebral	
+microbleeds	
+:	
+a	
+field	
+guide	
+to	
+detection	
+and	
+interpretation	
+.	
+The	
+Lancet	
+Neurology	
+8	
+:	
+165	
+–	
+174	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+S1474-4422	
+(	
+9	
+)	
+70013-4	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Lee	B-N
+SH	I-N
+","	
+Bae	B-N
+HJ	I-N
+","	
+Ko	B-N
+SB	I-N
+","	
+Kim	B-N
+H	I-N
+","	
+Yoon	B-N
+BW	I-N
+","	
+Roh	B-N
+JK	I-N
+(	
+2004	
+)	
+Comparative	
+analysis	
+of	
+the	
+spatial	
+distribution	
+and	
+severity	
+of	
+cerebral	
+microbleeds	
+and	
+old	
+lacunes	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+.	
+75	
+(	
+3	
+)	
+:	
+423	
+–	
+7	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Dichgans	B-N
+M	I-N
+","	
+Holtmannspotter	B-N
+M	I-N
+","	
+Herzog	B-N
+J	I-N
+","	
+Peters	B-N
+N	I-N
+","	
+Bergmann	B-N
+M	I-N
+","	
+et	
+al	
+.	
+(	
+2002	
+)	
+Cerebral	
+Microbleeds	
+in	
+CADASIL	
+:	
+A	
+Gradient-Echo	
+Magnetic	
+Resonance	
+Imaging	
+and	
+Autopsy	
+Study	
+.	
+Stroke	
+33	
+:	
+67	
+–	
+71	
+.	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Opherk	B-N
+C	I-N
+","	
+Peters	B-N
+N	I-N
+","	
+Herzog	B-N
+J	I-N
+","	
+Luedtke	B-N
+R	I-N
+","	
+Dichgans	B-N
+M	I-N
+.	
+(	
+2004	
+)	
+Long-term	
+prognosis	
+and	
+causes	
+of	
+death	
+in	
+CADASIL	
+:	
+a	
+retrospective	
+study	
+in	
+411	
+patients	
+.	
+Brain	
+127	
+:	
+2533	
+–	
+2539	
+.	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Arboleda-Velasquez	B-N
+JF	I-N
+","	
+Lopera	B-N
+F	I-N
+","	
+Lopez	B-N
+E	I-N
+","	
+Frosch	B-N
+MP	I-N
+","	
+Sepulveda-Falla	B-N
+D	I-N
+","	
+Gutierrez	B-N
+JE	I-N
+","	
+et	
+al	
+.	
+(	
+2002	
+)	
+C455R	
+notch3	
+mutation	
+in	
+a	
+Colombian	
+CADASIL	
+kindred	
+with	
+early	
+onset	
+of	
+stroke	
+.	
+Neurology	
+59	
+:	
+277	
+–	
+9	
+.	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Choi	B-N
+JC	I-N
+","	
+Song	B-N
+SK	I-N
+","	
+Lee	B-N
+JS	I-N
+","	
+Kang	B-N
+SY	I-N
+","	
+Kang	B-N
+JH	I-N
+(	
+2013	
+)	
+Diversity	
+of	
+stroke	
+presentation	
+in	
+CADASIL	
+:	
+study	
+from	
+patients	
+harboring	
+the	
+predominant	
+NOTCH3	
+mutation	
+R544C	
+.	
+J	
+Stroke	
+Cerebrovasc	
+Dis	
+22	
+:	
+126	
+–	
+131	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+j	
+.	
+jstrokecerebrovasdis	
+.	
+2011	
+.	
+7	
+.	
+2	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Choi	B-N
+JC	I-N
+","	
+Kang	B-N
+SY	I-N
+","	
+Kang	B-N
+JH	I-N
+","	
+Park	B-N
+JK	I-N
+(	
+2006	
+)	
+Intracerebral	
+hemorrhages	
+in	
+CADASIL	
+.	
+Neurology	
+67	
+:	
+2042	
+–	
+2044	
+.	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Lee	B-N
+SH	I-N
+","	
+Heo	B-N
+JH	I-N
+","	
+Yoon	B-N
+BW	I-N
+(	
+2005	
+)	
+Effects	
+of	
+microbleeds	
+on	
+hemorrhage	
+development	
+in	
+leukoaraiosis	
+patients	
+.	
+Hypertens	
+Res	
+28	
+:	
+895	
+–	
+899	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Lee	B-N
+SH	I-N
+","	
+Lee	B-N
+ST	I-N
+","	
+Kim	B-N
+BJ	I-N
+","	
+Park	B-N
+HK	I-N
+","	
+Kim	B-N
+CK	I-N
+","	
+et	
+al	
+.	
+(	
+2011	
+)	
+Dynamic	
+temporal	
+change	
+of	
+cerebral	
+microbleeds	
+:	
+long-term	
+follow-up	
+MRI	
+study	
+.	
+PLoS	
+One	
+6	
+:	
+e25930	
+doi	
+:	
+10	
+.	
+1371	
+/	
+journal	
+.	
+pone	
+.	
+25930	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Viswanathan	B-N
+A	I-N
+","	
+Guichard	B-N
+JP	I-N
+","	
+Gschwendtner	B-N
+A	I-N
+","	
+Buffon	B-N
+F	I-N
+","	
+Cumurcuic	B-N
+R	I-N
+","	
+et	
+al	
+.	
+(	
+2006	
+)	
+Blood	
+pressure	
+and	
+haemoglobin	
+A1c	
+are	
+associated	
+with	
+microhaemorrhage	
+in	
+CADASIL	
+:	
+a	
+two-centre	
+cohort	
+study	
+.	
+Brain	
+129	
+:	
+2375	
+–	
+2383	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Rinnoci	B-N
+V	I-N
+","	
+Nannucci	B-N
+S	I-N
+","	
+Valenti	B-N
+R	I-N
+","	
+Donnini	B-N
+I	I-N
+","	
+Bianchi	B-N
+S	I-N
+","	
+Pescini	B-N
+F	I-N
+","	
+et	
+al	
+.	
+(	
+2013	
+)	
+Cerebral	
+hemorrhages	
+in	
+CADASIL	
+:	
+report	
+of	
+four	
+cases	
+and	
+a	
+brief	
+review	
+.	
+J	
+Neurol	
+Sci	
+.	
+330	
+(	
+1	
+–	
+2	
+)	
+:	
+45	
+–	
+51	
+doi	
+:	
+10	
+.	
+1016	
+/	
+j	
+.	
+jns	
+.	
+2013	
+.	
+4	
+.	
+23	
+[	
+PubMed	
+]	

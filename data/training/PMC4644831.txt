@@ -1,0 +1,1579 @@
+1	
+.	
+Tong	B-N
+D	I-N
+.	I-N
+C	I-N
+.	I-N
+","	
+Adami	B-N
+A	I-N
+.	I-N
+","	
+Moseley	B-N
+M	I-N
+.	I-N
+E	I-N
+.	I-N
+","	
+Marks	B-N
+M	I-N
+.	I-N
+P	I-N
+.	I-N
+Relationship	
+between	
+apparent	
+diffusion	
+coefficient	
+and	
+subsequent	
+hemorrhagic	
+transformation	
+following	
+acute	
+ischemic	
+stroke	
+.	
+Stroke	
+.	
+2000	
+;	
+31	
+(	
+10	
+)	
+:	
+2378	
+–	
+2384	
+.	
+doi	
+:	
+10	
+.	
+1161	
+/	
+1	
+.	
+str	
+.	
+31	
+.	
+10	
+.	
+2378	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+2	
+.	
+Wilson	B-N
+M	I-N
+.	I-N
+","	
+Morgan	B-N
+P	I-N
+.	I-N
+S	I-N
+.	I-N
+","	
+Lin	B-N
+X	I-N
+.	I-N
+","	
+Turner	B-N
+B	I-N
+.	I-N
+P	I-N
+.	I-N
+","	
+Blumhardt	B-N
+L	I-N
+.	I-N
+D	I-N
+.	I-N
+Quantitative	
+diffusion	
+weighted	
+magnetic	
+resonance	
+imaging	
+","	
+cerebral	
+atrophy	
+","	
+and	
+disability	
+in	
+multiple	
+sclerosis	
+.	
+Journal	
+of	
+Neurology	
+Neurosurgery	
+and	
+Psychiatry	
+.	
+2001	
+;	
+70	
+(	
+3	
+)	
+:	
+318	
+–	
+322	
+.	
+doi	
+:	
+10	
+.	
+1136	
+/	
+jnnp	
+.	
+70	
+.	
+3	
+.	
+318	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+3	
+.	
+Tozer	B-N
+D	I-N
+.	I-N
+J	I-N
+.	I-N
+","	
+Jäger	B-N
+H	I-N
+.	I-N
+R	I-N
+.	I-N
+","	
+Danchaivijitr	B-N
+N	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Apparent	
+diffusion	
+coefficient	
+histograms	
+may	
+predict	
+low-grade	
+glioma	
+subtype	
+.	
+NMR	
+in	
+Biomedicine	
+.	
+2007	
+;	
+20	
+(	
+1	
+)	
+:	
+49	
+–	
+57	
+.	
+doi	
+:	
+10	
+.	
+1002	
+/	
+nbm	
+.	
+1091	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+4	
+.	
+Lee	B-N
+J	I-N
+.	I-N
+","	
+Choi	B-N
+S	I-N
+.	I-N
+H	I-N
+.	I-N
+","	
+Kim	B-N
+J	I-N
+.	I-N
+#NAME?	I-N
+.	I-N
+","	
+Sohn	B-N
+C	I-N
+.	I-N
+#NAME?	I-N
+.	I-N
+","	
+Lee	B-N
+S	I-N
+.	I-N
+","	
+Jeong	B-N
+J	I-N
+.	I-N
+Glioma	
+grading	
+using	
+apparent	
+diffusion	
+coefficient	
+map	
+:	
+application	
+of	
+histogram	
+analysis	
+based	
+on	
+automatic	
+segmentation	
+.	
+NMR	
+in	
+Biomedicine	
+.	
+2014	
+;	
+27	
+(	
+9	
+)	
+:	
+1046	
+–	
+1052	
+.	
+doi	
+:	
+10	
+.	
+1002	
+/	
+nbm	
+.	
+3153	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+5	
+.	
+Della	B-N
+Nave	I-N
+R	I-N
+.	I-N
+","	
+Magaudda	B-N
+A	I-N
+.	I-N
+","	
+Michelucci	B-N
+R	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Whole-brain	
+histogram	
+and	
+voxel-based	
+analyses	
+of	
+apparent	
+diffusion	
+coefficient	
+and	
+magnetization	
+transfer	
+ratio	
+in	
+celiac	
+disease	
+","	
+epilepsy	
+","	
+and	
+cerebral	
+calcifications	
+syndrome	
+.	
+American	
+Journal	
+of	
+Neuroradiology	
+.	
+2007	
+;	
+28	
+(	
+3	
+)	
+:	
+479	
+–	
+485	
+.	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Mascalchi	B-N
+M	I-N
+.	I-N
+","	
+Moretti	B-N
+M	I-N
+.	I-N
+","	
+Della	B-N
+Nave	I-N
+R	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Longitudinal	
+evaluation	
+of	
+leukoaraiosis	
+with	
+whole	
+brain	
+ADC	
+histograms	
+.	
+Neurology	
+.	
+2002	
+;	
+59	
+(	
+6	
+)	
+:	
+938	
+–	
+940	
+.	
+doi	
+:	
+10	
+.	
+1212	
+/	
+wnl	
+.	
+59	
+.	
+6	
+.	
+938	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+7	
+.	
+Mascalchi	B-N
+M	I-N
+.	I-N
+","	
+Tessa	B-N
+C	I-N
+.	I-N
+","	
+Moretti	B-N
+M	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Whole	
+brain	
+apparent	
+diffusion	
+coefficient	
+histogram	
+:	
+a	
+new	
+tool	
+for	
+evaluation	
+of	
+leukoaraiosis	
+.	
+Journal	
+of	
+Magnetic	
+Resonance	
+Imaging	
+.	
+2002	
+;	
+15	
+(	
+2	
+)	
+:	
+144	
+–	
+148	
+.	
+doi	
+:	
+10	
+.	
+1002	
+/	
+jmri	
+.	
+10050	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+8	
+.	
+Molko	B-N
+N	I-N
+.	I-N
+","	
+Pappata	B-N
+S	I-N
+.	I-N
+","	
+Mangin	B-N
+J	I-N
+.	I-N
+#NAME?	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Monitoring	
+disease	
+progression	
+in	
+CADASIL	
+with	
+diffusion	
+magnetic	
+resonance	
+imaging	
+:	
+a	
+study	
+with	
+whole	
+brain	
+histogram	
+analysis	
+.	
+Stroke	
+.	
+2002	
+;	
+33	
+(	
+12	
+)	
+:	
+2902	
+–	
+2908	
+.	
+doi	
+:	
+10	
+.	
+1161	
+/	
+1	
+.	
+str	
+.	
+41681	
+.	
+25514	
+.	
+22	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+9	
+.	
+Zhou	B-N
+Y	I-N
+.	I-N
+","	
+Lin	B-N
+F	I-N
+.	I-N
+-C	I-N
+.	I-N
+","	
+Zhu	B-N
+J	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Whole	
+brain	
+diffusion	
+tensor	
+imaging	
+histogram	
+analysis	
+in	
+vascular	
+cognitive	
+impairment	
+.	
+Journal	
+of	
+the	
+Neurological	
+Sciences	
+.	
+2008	
+;	
+268	
+(	
+01월 02일	
+)	
+:	
+60	
+–	
+64	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+j	
+.	
+jns	
+.	
+2007	
+.	
+11	
+.	
+5	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+10	
+.	
+Rovaris	B-N
+M	I-N
+.	I-N
+","	
+Iannucci	B-N
+G	I-N
+.	I-N
+","	
+Cercignani	B-N
+M	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Age-related	
+changes	
+in	
+conventional	
+","	
+magnetization	
+transfer	
+","	
+and	
+diffusion-tensor	
+MR	
+imaging	
+findings	
+:	
+study	
+with	
+whole-brain	
+tissue	
+histogram	
+analysis	
+.	
+Radiology	
+.	
+2003	
+;	
+227	
+(	
+3	
+)	
+:	
+731	
+–	
+738	
+.	
+doi	
+:	
+10	
+.	
+1148	
+/	
+radiol	
+.	
+2273020721	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+11	
+.	
+Steens	B-N
+S	I-N
+.	I-N
+C	I-N
+.	I-N
+A	I-N
+.	I-N
+","	
+Admiraal-Behloul	B-N
+F	I-N
+.	I-N
+","	
+Schaap	B-N
+J	I-N
+.	I-N
+A	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Reproducibility	
+of	
+brain	
+ADC	
+histograms	
+.	
+European	
+Radiology	
+.	
+2004	
+;	
+14	
+(	
+3	
+)	
+:	
+425	
+–	
+430	
+.	
+doi	
+:	
+10	
+.	
+1007	
+/	
+s00330-003-2121-3	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+12	
+.	
+Kin	B-N
+T	I-N
+.	I-N
+","	
+Hirano	B-N
+M	I-N
+.	I-N
+","	
+Taoka	B-N
+T	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Global	
+and	
+region-specific	
+analyses	
+of	
+apparent	
+diffusion	
+coefficient	
+in	
+dentatorubral-pallidoluysian	
+atrophy	
+.	
+American	
+Journal	
+of	
+Neuroradiology	
+.	
+2006	
+;	
+27	
+(	
+7	
+)	
+:	
+1463	
+–	
+1466	
+.	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Shanmuganathan	B-N
+K	I-N
+.	I-N
+","	
+Gullapalli	B-N
+R	I-N
+.	I-N
+P	I-N
+.	I-N
+","	
+Mirvis	B-N
+S	I-N
+.	I-N
+E	I-N
+.	I-N
+","	
+Roys	B-N
+S	I-N
+.	I-N
+","	
+Murthy	B-N
+P	I-N
+.	
+Whole-brain	
+apparent	
+diffusion	
+coefficient	
+in	
+traumatic	
+brain	
+injury	
+:	
+correlation	
+with	
+Glasgow	
+Coma	
+Scale	
+score	
+.	
+American	
+Journal	
+of	
+Neuroradiology	
+.	
+2004	
+;	
+25	
+(	
+4	
+)	
+:	
+539	
+–	
+544	
+.	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Welsh	B-N
+R	I-N
+.	I-N
+C	I-N
+.	I-N
+","	
+Rahbar	B-N
+H	I-N
+.	I-N
+","	
+Foerster	B-N
+B	I-N
+.	I-N
+","	
+Thurnher	B-N
+M	I-N
+.	I-N
+","	
+Sundgren	B-N
+P	I-N
+.	I-N
+C	I-N
+.	I-N
+Brain	
+diffusivity	
+in	
+patients	
+with	
+neuropsychiatric	
+systemic	
+lupus	
+erythematosus	
+with	
+new	
+acute	
+neurological	
+symptoms	
+.	
+Journal	
+of	
+Magnetic	
+Resonance	
+Imaging	
+.	
+2007	
+;	
+26	
+(	
+3	
+)	
+:	
+541	
+–	
+551	
+.	
+doi	
+:	
+10	
+.	
+1002	
+/	
+jmri	
+.	
+21036	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+15	
+.	
+Sämann	B-N
+P	I-N
+.	I-N
+G	I-N
+.	I-N
+","	
+Knop	B-N
+M	I-N
+.	I-N
+","	
+Golgor	B-N
+E	I-N
+.	I-N
+","	
+Messler	B-N
+S	I-N
+.	I-N
+","	
+Czisch	B-N
+M	I-N
+.	I-N
+","	
+Weber	B-N
+F	I-N
+.	I-N
+Brain	
+volume	
+and	
+diffusion	
+markers	
+as	
+predictors	
+of	
+disability	
+and	
+short-term	
+disease	
+evolution	
+in	
+multiple	
+sclerosis	
+.	
+American	
+Journal	
+of	
+Neuroradiology	
+.	
+2012	
+;	
+33	
+(	
+7	
+)	
+:	
+1356	
+–	
+1362	
+.	
+doi	
+:	
+10	
+.	
+3174	
+/	
+ajnr	
+.	
+a2972	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+16	
+.	
+Pope	B-N
+W	I-N
+.	I-N
+B	I-N
+.	I-N
+","	
+Kim	B-N
+H	I-N
+.	I-N
+J	I-N
+.	I-N
+","	
+Huo	B-N
+J	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Recurrent	
+glioblastoma	
+multiforme	
+:	
+ADC	
+histogram	
+analysis	
+predicts	
+response	
+to	
+bevacizumab	
+treatment	
+.	
+Radiology	
+.	
+2009	
+;	
+252	
+(	
+1	
+)	
+:	
+182	
+–	
+189	
+.	
+doi	
+:	
+10	
+.	
+1148	
+/	
+radiol	
+.	
+2521081534	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+17	
+.	
+Dyke	B-N
+J	I-N
+.	I-N
+P	I-N
+.	I-N
+","	
+Voss	B-N
+H	I-N
+.	I-N
+U	I-N
+.	I-N
+","	
+Sondhi	B-N
+D	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Assessing	
+disease	
+severity	
+in	
+late	
+infantile	
+neuronal	
+ceroid	
+lipofuscinosis	
+using	
+quantitative	
+MR	
+diffusion-weighted	
+imaging	
+.	
+American	
+Journal	
+of	
+Neuroradiology	
+.	
+2007	
+;	
+28	
+(	
+7	
+)	
+:	
+1232	
+–	
+1236	
+.	
+doi	
+:	
+10	
+.	
+3174	
+/	
+ajnr	
+.	
+a0551	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+18	
+.	
+Zhang	B-N
+L	I-N
+.	I-N
+","	
+Harrison	B-N
+M	I-N
+.	I-N
+","	
+Heier	B-N
+L	I-N
+.	I-N
+A	I-N
+.	I-N
+","	
+et	
+al	
+.	
+Diffusion	
+changes	
+in	
+patients	
+with	
+systemic	
+lupus	
+erythematosus	
+.	
+Magnetic	
+Resonance	
+Imaging	
+.	
+2007	
+;	
+25	
+(	
+3	
+)	
+:	
+399	
+–	
+405	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+j	
+.	
+mri	
+.	
+2006	
+.	
+9	
+.	
+37	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+19	
+.	
+Watanabe	B-N
+M	I-N
+.	I-N
+","	
+Sakai	B-N
+O	I-N
+.	I-N
+","	
+Ozonoff	B-N
+A	I-N
+.	I-N
+","	
+Kussman	B-N
+S	I-N
+.	I-N
+","	
+Jara	B-N
+H	I-N
+.	I-N
+Age-related	
+apparent	
+diffusion	
+coefficient	
+changes	
+in	
+the	
+normal	
+brain	
+.	
+Radiology	
+.	
+2013	
+;	
+266	
+(	
+2	
+)	
+:	
+575	
+–	
+582	
+.	
+doi	
+:	
+10	
+.	
+1148	
+/	
+radiol	
+.	
+12112420	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+20	
+.	
+Klose	B-N
+U	I-N
+.	I-N
+","	
+Batra	B-N
+M	I-N
+.	I-N
+","	
+Nägele	B-N
+T	I-N
+.	I-N
+Age-dependent	
+changes	
+in	
+the	
+histogram	
+of	
+apparent	
+diffusion	
+coefficients	
+values	
+in	
+magnetic	
+resonance	
+imaging	
+.	
+Frontiers	
+in	
+Aging	
+Neuroscience	
+.	
+2013	
+;	
+5	
+","	
+article	
+78	
+doi	
+:	
+10	
+.	
+3389	
+/	
+fnagi	
+.	
+2013	
+.	
+78	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+21	
+.	
+Baumann	B-N
+P	I-N
+.	I-N
+S	I-N
+.	I-N
+","	
+Cammoun	B-N
+L	I-N
+.	I-N
+","	
+Conus	B-N
+P	I-N
+.	I-N
+","	
+et	
+al	
+.	
+High	
+b-value	
+diffusion-weighted	
+imaging	
+:	
+a	
+sensitive	
+method	
+to	
+reveal	
+white	
+matter	
+differences	
+in	
+schizophrenia	
+.	
+Psychiatry	
+Research	
+.	
+2012	
+;	
+201	
+(	
+2	
+)	
+:	
+144	
+–	
+151	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+j	
+.	
+pscychresns	
+.	
+2011	
+.	
+8	
+.	
+3	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+22	
+.	
+Ziegler	B-N
+G	I-N
+.	I-N
+","	
+Dahnke	B-N
+R	I-N
+.	I-N
+","	
+Jäncke	B-N
+L	I-N
+.	I-N
+","	
+Yotter	B-N
+R	I-N
+.	I-N
+A	I-N
+.	I-N
+","	
+May	B-N
+A	I-N
+.	I-N
+","	
+Gaser	B-N
+C	I-N
+.	I-N
+Brain	
+structural	
+trajectories	
+over	
+the	
+adult	
+lifespan	
+.	
+Human	
+Brain	
+Mapping	
+.	
+2012	
+;	
+33	
+(	
+10	
+)	
+:	
+2377	
+–	
+2389	
+.	
+doi	
+:	
+10	
+.	
+1002	
+/	
+hbm	
+.	
+21374	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+23	
+.	
+Hasan	B-N
+K	I-N
+.	I-N
+M	I-N
+.	I-N
+","	
+Walimuni	B-N
+I	I-N
+.	I-N
+S	I-N
+.	I-N
+","	
+Kramer	B-N
+L	I-N
+.	I-N
+A	I-N
+.	I-N
+","	
+Frye	B-N
+R	I-N
+.	I-N
+E	I-N
+.	I-N
+Human	
+brain	
+atlas-based	
+volumetry	
+and	
+relaxometry	
+:	
+application	
+to	
+healthy	
+development	
+and	
+natural	
+aging	
+.	
+Magnetic	
+Resonance	
+in	
+Medicine	
+.	
+2010	
+;	
+64	
+(	
+5	
+)	
+:	
+1382	
+–	
+1389	
+.	
+doi	
+:	
+10	
+.	
+1002	
+/	
+mrm	
+.	
+22515	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	

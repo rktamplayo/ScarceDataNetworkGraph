@@ -1,0 +1,1640 @@
+1	
+.	
+Ophoff	B-N
+RA	I-N
+","	
+Terwindt	B-N
+GM	I-N
+","	
+Vergouwe	B-N
+MN	I-N
+","	
+van	B-N
+Eijk	I-N
+R	I-N
+","	
+Oefner	B-N
+PJ	I-N
+","	
+Hoffman	B-N
+SM	I-N
+","	
+et	
+al	
+.	
+Familial	
+hemiplegic	
+migraine	
+and	
+episodic	
+ataxia	
+type-2	
+are	
+caused	
+by	
+mutations	
+in	
+the	
+Ca2	
++	
+channel	
+gene	
+CACNL1A4	
+.	
+Cell	
+.	
+1996	
+;	
+87	
+:	
+543	
+??	
+52	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+S0092-8674	
+(	
+0	
+)	
+81373-2	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+2	
+.	
+Denier	B-N
+C	I-N
+","	
+Ducros	B-N
+A	I-N
+","	
+Durr	B-N
+A	I-N
+","	
+Eymard	B-N
+B	I-N
+","	
+Chassande	B-N
+B	I-N
+","	
+Tournier-Lasserve	B-N
+E	I-N
+","	
+et	
+al	
+.	
+Missense	
+CACNA1A	
+mutation	
+causing	
+episodic	
+ataxia	
+type	
+2	
+.	
+Arch	
+Neurol	
+.	
+2001	
+;	
+58	
+:	
+292	
+??	
+5	
+.	
+doi	
+:	
+10	
+.	
+1001	
+/	
+archneur	
+.	
+58	
+.	
+2	
+.	
+292	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+3	
+.	
+Pietrobon	B-N
+D	I-N
+.	
+CaV2	
+.	
+1	
+channelopathies	
+.	
+Pflugers	
+Arch	
+.	
+2010	
+;	
+460	
+:	
+375	
+??	
+93	
+.	
+doi	
+:	
+10	
+.	
+1007	
+/	
+s00424-010-0802-8	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+4	
+.	
+Gallanti	B-N
+A	I-N
+","	
+Cardin	B-N
+V	I-N
+","	
+Tonelli	B-N
+A	I-N
+","	
+Bussone	B-N
+G	I-N
+","	
+Bresolin	B-N
+N	I-N
+","	
+Mariani	B-N
+C	I-N
+","	
+et	
+al	
+.	
+The	
+genetic	
+features	
+of	
+24	
+patients	
+affected	
+by	
+familial	
+and	
+sporadic	
+hemiplegic	
+migraine	
+.	
+Neurol	
+Sci	
+.	
+2011	
+;	
+32	
+(	
+Suppl	
+1	
+)	
+:	
+S141	
+??	
+2	
+.	
+doi	
+:	
+10	
+.	
+1007	
+/	
+s10072-011-0517-4	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+5	
+.	
+Dichgans	B-N
+M	I-N
+","	
+Freilinger	B-N
+T	I-N
+","	
+Eckstein	B-N
+BE	I-N
+","	
+Babini	B-N
+E	I-N
+","	
+Lorenz-Depiereux	B-N
+B	I-N
+","	
+Biskup	B-N
+S	I-N
+","	
+et	
+al	
+.	
+Mutation	
+in	
+the	
+neuronal	
+voltage-gated	
+sodium	
+channel	
+SCN1A	
+in	
+familial	
+hemiplegic	
+migraine	
+.	
+Lancet	
+.	
+2005	
+;	
+366	
+:	
+371	
+??	
+7	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+S0140-6736	
+(	
+5	
+)	
+66786-4	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+6	
+.	
+Meisler	B-N
+MH	I-N
+","	
+Kearney	B-N
+JA	I-N
+.	
+Sodium	
+channel	
+mutations	
+in	
+epilepsy	
+and	
+other	
+neurological	
+disorders	
+.	
+J	
+Clin	
+Investig	
+.	
+2005	
+;	
+115	
+:	
+2010	
+??	
+7	
+.	
+doi	
+:	
+10	
+.	
+1172	
+/	
+JCI25466	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+7	
+.	
+Lafreni챔re	B-N
+RG	I-N
+","	
+Cader	B-N
+MZ	I-N
+","	
+Poulin	B-N
+JF	I-N
+","	
+Andres-Enguix	B-N
+I	I-N
+","	
+Simoneau	B-N
+M	I-N
+","	
+Gupta	B-N
+N	I-N
+","	
+et	
+al	
+.	
+A	
+dominant-negative	
+mutation	
+in	
+the	
+TRESK	
+potassium	
+channel	
+is	
+linked	
+to	
+familial	
+migraine	
+with	
+aura	
+.	
+Nat	
+Med	
+.	
+2010	
+;	
+16	
+:	
+1157	
+??	
+60	
+.	
+doi	
+:	
+10	
+.	
+1038	
+/	
+nm	
+.	
+2216	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+8	
+.	
+Hamel	B-N
+E	I-N
+.	
+Serotonin	
+and	
+migraine	
+:	
+biology	
+and	
+clinical	
+implications	
+.	
+Cephalalgia	
+.	
+2007	
+;	
+27	
+:	
+1293	
+??	
+300	
+.	
+doi	
+:	
+10	
+.	
+1111	
+/	
+j	
+.	
+1468-2982	
+.	
+2007	
+.	
+1476	
+.	
+x	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+9	
+.	
+Sch체rks	B-N
+M	I-N
+.	
+Genetics	
+of	
+migraine	
+in	
+the	
+age	
+of	
+genome-wide	
+association	
+studies	
+.	
+J	
+Headache	
+Pain	
+.	
+2012	
+;	
+13	
+:	
+1	
+??	
+9	
+.	
+doi	
+:	
+10	
+.	
+1007	
+/	
+s10194-011-0399-0	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+10	
+.	
+Todt	B-N
+U	I-N
+","	
+Netzer	B-N
+C	I-N
+","	
+Toliat	B-N
+M	I-N
+.	
+New	
+genetic	
+evidence	
+for	
+involvement	
+of	
+the	
+dopamine	
+system	
+in	
+migraine	
+with	
+aura	
+.	
+Hum	
+Genet	
+.	
+2009	
+;	
+125	
+:	
+265	
+??	
+79	
+.	
+doi	
+:	
+10	
+.	
+1007	
+/	
+s00439-009-0623-z	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+11	
+.	
+Anttila	B-N
+V	I-N
+","	
+Winsvold	B-N
+BS	I-N
+","	
+Gormley	B-N
+P	I-N
+","	
+Kurth	B-N
+T	I-N
+","	
+Bettella	B-N
+F	I-N
+","	
+McMahon	B-N
+G	I-N
+","	
+North	
+American	
+Brain	
+Expression	
+Consortium	
+.	
+UK	
+Brain	
+Expression	
+Consortium	
+.	
+International	
+Headache	
+Genetics	
+Consortium	
+et	
+al	
+.	
+Genome-wide	
+meta-analysis	
+identifies	
+new	
+susceptibility	
+loci	
+for	
+migraine	
+.	
+Nat	
+Genet	
+.	
+2013	
+;	
+45	
+:	
+912	
+??	
+7	
+.	
+doi	
+:	
+10	
+.	
+1038	
+/	
+ng	
+.	
+2676	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+12	
+.	
+Style	
+Matters	
+:	
+Statements	
+from	
+the	
+Vancouver	
+Group	
+.	
+http	
+:	
+/	
+/	
+dx	
+.	
+doi	
+.	
+org	
+/	
+10	
+.	
+1136	
+/	
+bmj	
+.	
+302	
+.	
+6786	
+.	
+1194	
+.	
+BMJ	
+1991	
+;	
+302	
+:	
+1194	
+.	
+	
+13	
+.	
+The	
+International	
+Classification	
+of	
+Headache	
+Disorders	
+","	
+3rd	
+edition	
+(	
+beta	
+version	
+)	
+Part	
+one	
+:	
+the	
+primary	
+headaches	
+.	
+Cephalalgia	
+2013	
+;	
+33	
+(	
+9	
+)	
+:	
+644	
+??	
+658	
+.	
+	
+14	
+.	
+Adzhubei	B-N
+I	I-N
+","	
+Jordan	B-N
+DM	I-N
+","	
+Sunyaev	B-N
+SR	I-N
+.	
+Curr	
+Protoc	
+Hum	
+Genet	
+","	
+Chapter	
+7	
+:	
+Unit7	
+.	
+20	
+.	
+2013	
+.	
+Predicting	
+functional	
+effect	
+of	
+human	
+missense	
+mutations	
+using	
+PolyPhen-2	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Choi	B-N
+Y	I-N
+","	
+Chan	B-N
+AP	I-N
+.	
+PROVEAN	
+web	
+server	
+:	
+a	
+tool	
+to	
+predict	
+the	
+functional	
+effect	
+of	
+amino	
+acid	
+substitutions	
+and	
+indels	
+.	
+Bioinformatics	
+.	
+2015	
+;	
+31	
+(	
+16	
+)	
+:	
+2745	
+??	
+7	
+.	
+doi	
+:	
+10	
+.	
+1093	
+/	
+bioinformatics	
+/	
+btv195	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+16	
+.	
+Kumar	B-N
+P	I-N
+","	
+Henikoff	B-N
+S	I-N
+","	
+Ng	B-N
+PC	I-N
+.	
+Predicting	
+the	
+effects	
+of	
+coding	
+non-synonymous	
+variants	
+on	
+protein	
+function	
+using	
+the	
+SIFT	
+algorithm	
+.	
+Nat	
+Protoc	
+.	
+2009	
+;	
+4	
+:	
+1073	
+??	
+81	
+.	
+doi	
+:	
+10	
+.	
+1038	
+/	
+nprot	
+.	
+2009	
+.	
+86	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+17	
+.	
+Schwarz	B-N
+JM	I-N
+","	
+Cooper	B-N
+DN	I-N
+","	
+Schuelke	B-N
+M	I-N
+","	
+Seelow	B-N
+D	I-N
+.	
+MutationTaster2	
+:	
+mutation	
+prediction	
+for	
+the	
+deep-sequencing	
+age	
+.	
+Nat	
+Methods	
+.	
+2014	
+;	
+11	
+:	
+361	
+??	
+2	
+.	
+doi	
+:	
+10	
+.	
+1038	
+/	
+nmeth	
+.	
+2890	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+18	
+.	
+Escayg	B-N
+A	I-N
+","	
+MacDonald	B-N
+BT	I-N
+","	
+Meisler	B-N
+MH	I-N
+","	
+Baulac	B-N
+S	I-N
+","	
+Huberfeld	B-N
+G	I-N
+","	
+An-Gourfinkel	B-N
+I	I-N
+","	
+et	
+al	
+.	
+Mutations	
+of	
+SCN1A	
+","	
+encoding	
+a	
+neuronal	
+sodium	
+channel	
+","	
+in	
+two	
+families	
+with	
+GEFS	
++	
+2	
+.	
+Nat	
+Genet	
+.	
+2000	
+;	
+24	
+(	
+4	
+)	
+:	
+343	
+??	
+5	
+.	
+doi	
+:	
+10	
+.	
+1038	
+/	
+74159	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+19	
+.	
+Witkowska-Olearska	B-N
+K	I-N
+.	
+Epidemiology	
+of	
+vascular	
+headache	
+and	
+migraine	
+in	
+the	
+population	
+of	
+Warsaw	
+.	
+Neurol	
+Neurochir	
+Pol	
+.	
+1975	
+;	
+9	
+:	
+495	
+??	
+502	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Szczudlik	B-N
+A	I-N
+.	
+Migraine	
+awareness	
+","	
+treatment	
+","	
+and	
+education	
+in	
+Poland	
+.	
+Cephalalgia	
+.	
+1998	
+;	
+18	
+:	
+65	
+??	
+6	
+.	
+doi	
+:	
+10	
+.	
+1177	
+/	
+0333102498018S2212	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+21	
+.	
+Vahedi	B-N
+K	I-N
+","	
+Depienne	B-N
+C	I-N
+","	
+Le	B-N
+Fort	I-N
+D	I-N
+","	
+Riant	B-N
+F	I-N
+","	
+Chaine	B-N
+P	I-N
+","	
+Trouillard	B-N
+O	I-N
+","	
+et	
+al	
+.	
+Elicited	
+repetitive	
+daily	
+blindness	
+:	
+a	
+new	
+phenotype	
+associated	
+with	
+hemiplegic	
+migraine	
+and	
+SCN1A	
+mutations	
+.	
+Neurology	
+.	
+2009	
+;	
+72	
+:	
+1178	
+??	
+83	
+.	
+doi	
+:	
+10	
+.	
+1212	
+/	
+1	
+.	
+wnl	
+.	
+345393	
+.	
+53132	
+.	
+8c	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+22	
+.	
+Weller	B-N
+CM	I-N
+","	
+Pelzer	B-N
+N	I-N
+","	
+de	B-N
+Vries	I-N
+B	I-N
+","	
+L처pez	B-N
+MA	I-N
+","	
+De	B-N
+F횪bregues	I-N
+O	I-N
+","	
+Pascual	B-N
+J	I-N
+","	
+et	
+al	
+.	
+Two	
+novel	
+SCN1A	
+mutations	
+identified	
+in	
+families	
+with	
+familial	
+hemiplegic	
+migraine	
+.	
+Cephalalgia	
+.	
+2014	
+;	
+34	
+:	
+1062	
+??	
+9	
+.	
+doi	
+:	
+10	
+.	
+1177	
+/	
+3.33102E+14	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+23	
+.	
+Kahlig	B-N
+KM	I-N
+","	
+Misra	B-N
+SN	I-N
+","	
+George	B-N
+AL	I-N
+.	I-N
+","	I-N
+Jr	I-N
+Impaired	
+inactivation	
+gate	
+stabilization	
+predicts	
+increased	
+persistent	
+current	
+for	
+an	
+epilepsy-associated	
+SCN1A	
+mutation	
+.	
+J	
+Neurosci	
+.	
+2006	
+;	
+26	
+:	
+10958	
+??	
+66	
+.	
+doi	
+:	
+10	
+.	
+1523	
+/	
+JNEUROSCI	
+.	
+Jun-78	
+.	
+2006	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+24	
+.	
+Andres-Enguix	B-N
+I	I-N
+","	
+Shang	B-N
+L	I-N
+","	
+Stansfeld	B-N
+PJ	I-N
+","	
+Morahan	B-N
+JM	I-N
+","	
+Sansom	B-N
+MS	I-N
+","	
+Lafreni챔re	B-N
+RG	I-N
+","	
+et	
+al	
+.	
+Functional	
+analysis	
+of	
+missense	
+variants	
+in	
+the	
+TRESK	
+(	
+KCNK18	
+)	
+K	
+channel	
+.	
+Sci	
+Rep	
+.	
+2012	
+;	
+2	
+:	
+237	
+.	
+doi	
+:	
+10	
+.	
+1038	
+/	
+srep00237	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+25	
+.	
+Rainero	B-N
+I	I-N
+","	
+Rubino	B-N
+E	I-N
+","	
+Gallone	B-N
+S	I-N
+","	
+Zavarise	B-N
+P	I-N
+","	
+Carli	B-N
+D	I-N
+","	
+Boschi	B-N
+S	I-N
+","	
+et	
+al	
+.	
+KCNK18	
+(	
+TRESK	
+)	
+genetic	
+variants	
+in	
+Italian	
+patients	
+with	
+migraine	
+.	
+Headache	
+.	
+2014	
+;	
+54	
+:	
+1515	
+??	
+22	
+.	
+doi	
+:	
+10	
+.	
+1111	
+/	
+head	
+.	
+12439	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+26	
+.	
+Yu	B-N
+FH	I-N
+","	
+Catterall	B-N
+WA	I-N
+.	
+Overview	
+of	
+the	
+voltage-gated	
+sodium	
+channel	
+family	
+.	
+Genome	
+Biol	
+.	
+2003	
+;	
+4	
+:	
+207	
+.	
+doi	
+:	
+10	
+.	
+1186	
+/	
+gb-2003-4-3-207	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+27	
+.	
+Intiso	B-N
+D	I-N
+","	
+Crociani	B-N
+P	I-N
+","	
+Fogli	B-N
+D	I-N
+","	
+Grandone	B-N
+E	I-N
+","	
+Cappucci	B-N
+G	I-N
+","	
+Di	B-N
+Rienzo	I-N
+F	I-N
+","	
+et	
+al	
+.	
+Occurrence	
+of	
+factor	
+V	
+Leiden	
+mutation	
+(	
+Arg506Gln	
+)	
+and	
+anticardiolipin	
+antibodies	
+in	
+migraine	
+patients	
+.	
+Neurol	
+Sci	
+.	
+2002	
+;	
+22	
+:	
+455	
+??	
+8	
+.	
+doi	
+:	
+10	
+.	
+1007	
+/	
+s100720200005	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+28	
+.	
+Soriani	B-N
+S	I-N
+","	
+Borgna-Pignatti	B-N
+C	I-N
+","	
+Trabetti	B-N
+E	I-N
+","	
+Casartelli	B-N
+A	I-N
+","	
+Montagna	B-N
+P	I-N
+","	
+Pignatti	B-N
+PF	I-N
+","	
+et	
+al	
+.	
+Frequency	
+of	
+factor	
+V	
+Leiden	
+in	
+juvenile	
+migraine	
+with	
+aura	
+.	
+Headache	
+.	
+1998	
+;	
+38	
+:	
+779	
+??	
+81	
+.	
+doi	
+:	
+10	
+.	
+1046	
+/	
+j	
+.	
+1526-4610	
+.	
+1998	
+.	
+3810779	
+.	
+x	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+29	
+.	
+Brackenbury	B-N
+WJ	I-N
+","	
+Isom	B-N
+LL	I-N
+.	
+Na	
+channel	
+棺	
+subunits	
+:	
+overachievers	
+of	
+the	
+ion	
+channel	
+family	
+.	
+Front	
+Pharmacol	
+.	
+2011	
+;	
+28	
+(	
+2	
+)	
+:	
+53	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	

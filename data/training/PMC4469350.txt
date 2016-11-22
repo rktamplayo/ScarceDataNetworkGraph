@@ -1,0 +1,1304 @@
+1	
+.	
+Launer	B-N
+LJ	I-N
+","	
+Ross	B-N
+GW	I-N
+","	
+Petrovitch	B-N
+H	I-N
+","	
+et	
+al	
+.	
+Midlife	
+blood	
+pressure	
+and	
+dementia	
+:	
+the	
+Honolulu-Asia	
+aging	
+study	
+.	
+Neurobiol	
+Aging	
+2000	
+;	
+21	
+:	
+49	
+–	
+55	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Luchsinger	B-N
+JA	I-N
+","	
+Tang	B-N
+MX	I-N
+","	
+Stern	B-N
+Y	I-N
+","	
+Shea	B-N
+S	I-N
+","	
+Mayeux	B-N
+R	I-N
+.	
+Diabetes	
+mellitus	
+and	
+risk	
+of	
+Alzheimer	
+'	
+s	
+disease	
+and	
+dementia	
+with	
+stroke	
+in	
+a	
+multiethnic	
+cohort	
+.	
+Am	
+J	
+Epidemiol	
+2001	
+;	
+154	
+:	
+635	
+–	
+641	
+.	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Yaffe	B-N
+K	I-N
+","	
+Haan	B-N
+M	I-N
+","	
+Blackwell	B-N
+T	I-N
+","	
+Cherkasova	B-N
+E	I-N
+","	
+Whitmer	B-N
+RA	I-N
+","	
+West	B-N
+N	I-N
+.	
+Metabolic	
+syndrome	
+and	
+cognitive	
+decline	
+in	
+elderly	
+Latinos	
+:	
+findings	
+from	
+the	
+Sacramento	
+Area	
+Latino	
+Study	
+of	
+Aging	
+study	
+.	
+J	
+Am	
+Geriatr	
+Soc	
+2007	
+;	
+55	
+:	
+758	
+–	
+762	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Gorelick	B-N
+PB	I-N
+","	
+Scuteri	B-N
+A	I-N
+","	
+Black	B-N
+SE	I-N
+","	
+et	
+al	
+.	
+Vascular	
+contributions	
+to	
+cognitive	
+impairment	
+and	
+dementia	
+:	
+a	
+statement	
+for	
+healthcare	
+professionals	
+from	
+the	
+american	
+heart	
+association	
+/	
+american	
+stroke	
+association	
+.	
+Stroke	
+2011	
+;	
+42	
+:	
+2672	
+–	
+2713	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+5	
+.	
+McKhann	B-N
+GM	I-N
+","	
+Knopman	B-N
+DS	I-N
+","	
+Chertkow	B-N
+H	I-N
+","	
+et	
+al	
+.	
+The	
+diagnosis	
+of	
+dementia	
+due	
+to	
+Alzheimer	
+'	
+s	
+disease	
+:	
+recommendations	
+from	
+the	
+National	
+Institute	
+on	
+Aging-Alzheimer	
+'	
+s	
+Association	
+workgroups	
+on	
+diagnostic	
+guidelines	
+for	
+Alzheimer	
+'	
+s	
+disease	
+.	
+Alzheimers	
+Dement	
+2011	
+;	
+7	
+:	
+263	
+–	
+269	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Debette	B-N
+S	I-N
+","	
+Markus	B-N
+HS	I-N
+.	
+The	
+clinical	
+importance	
+of	
+white	
+matter	
+hyperintensities	
+on	
+brain	
+magnetic	
+resonance	
+imaging	
+:	
+systematic	
+review	
+and	
+meta-analysis	
+.	
+BMJ	
+2010	
+;	
+341	
+:	
+c3666	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Looi	B-N
+JC	I-N
+","	
+Sachdev	B-N
+PS	I-N
+.	
+Differentiation	
+of	
+vascular	
+dementia	
+from	
+AD	
+on	
+neuropsychological	
+tests	
+.	
+Neurology	
+1999	
+;	
+53	
+:	
+670	
+–	
+678	
+.	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Reed	B-N
+BR	I-N
+","	
+Mungas	B-N
+DM	I-N
+","	
+Kramer	B-N
+JH	I-N
+","	
+et	
+al	
+.	
+Profiles	
+of	
+neuropsychological	
+impairment	
+in	
+autopsy-defined	
+Alzheimer	
+'	
+s	
+disease	
+and	
+cerebrovascular	
+disease	
+.	
+Brain	
+2007	
+;	
+130	
+:	
+731	
+–	
+739	
+.	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Pendlebury	B-N
+ST	I-N
+","	
+Mariz	B-N
+J	I-N
+","	
+Bull	B-N
+L	I-N
+","	
+Mehta	B-N
+Z	I-N
+","	
+Rothwell	B-N
+PM	I-N
+.	
+MoCA	
+","	
+ACE-R	
+","	
+and	
+MMSE	
+versus	
+the	
+National	
+Institute	
+of	
+Neurological	
+Disorders	
+and	
+Stroke-Canadian	
+Stroke	
+Network	
+Vascular	
+Cognitive	
+Impairment	
+Harmonization	
+Standards	
+Neuropsychological	
+Battery	
+after	
+TIA	
+and	
+stroke	
+.	
+Stroke	
+2012	
+;	
+43	
+:	
+464	
+–	
+469	
+.	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Hachinski	B-N
+V	I-N
+","	
+Iadecola	B-N
+C	I-N
+","	
+Petersen	B-N
+RC	I-N
+","	
+et	
+al	
+.	
+National	
+Institute	
+of	
+Neurological	
+Disorders	
+and	
+Stroke-Canadian	
+Stroke	
+Network	
+vascular	
+cognitive	
+impairment	
+harmonization	
+standards	
+.	
+Stroke	
+2006	
+;	
+37	
+:	
+2220	
+–	
+2241	
+.	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Pendlebury	B-N
+ST	I-N
+","	
+Rothwell	B-N
+PM	I-N
+.	
+Prevalence	
+","	
+incidence	
+","	
+and	
+factors	
+associated	
+with	
+pre-stroke	
+and	
+post-stroke	
+dementia	
+:	
+a	
+systematic	
+review	
+and	
+meta-analysis	
+.	
+The	
+Lancet	
+Neurol	
+2009	
+;	
+8	
+:	
+1006	
+–	
+1018	
+.	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Ivan	B-N
+CS	I-N
+","	
+Seshadri	B-N
+S	I-N
+","	
+Beiser	B-N
+A	I-N
+","	
+et	
+al	
+.	
+Dementia	
+after	
+stroke	
+:	
+the	
+Framingham	
+Study	
+.	
+Stroke	
+2004	
+;	
+35	
+:	
+1264	
+–	
+1268	
+.	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Sachdev	B-N
+P	I-N
+","	
+Kalaria	B-N
+R	I-N
+","	
+O	B-N
+'	I-N
+Brien	I-N
+J	I-N
+","	
+et	
+al	
+.	
+Diagnostic	
+criteria	
+for	
+vascular	
+cognitive	
+disorders	
+:	
+a	
+VASCOG	
+statement	
+.	
+Alzheimer	
+Dis	
+Assoc	
+Disord	
+2014	
+;	
+28	
+:	
+206	
+–	
+218	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Jacova	B-N
+C	I-N
+","	
+Pearce	B-N
+LA	I-N
+","	
+Costello	B-N
+R	I-N
+","	
+et	
+al	
+.	
+Cognitive	
+impairment	
+in	
+lacunar	
+strokes	
+:	
+the	
+SPS3	
+trial	
+.	
+Ann	
+Neurol	
+2012	
+;	
+72	
+:	
+351	
+–	
+362	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Dubois	B-N
+B	I-N
+","	
+Slachevsky	B-N
+A	I-N
+","	
+Litvan	B-N
+I	I-N
+","	
+Pillon	B-N
+B	I-N
+.	
+The	
+FAB	
+:	
+a	
+Frontal	
+Assessment	
+Battery	
+at	
+bedside	
+.	
+Neurology	
+2000	
+;	
+55	
+:	
+1621	
+–	
+1626	
+.	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Savva	B-N
+GM	I-N
+","	
+Wharton	B-N
+SB	I-N
+","	
+Ince	B-N
+PG	I-N
+","	
+et	
+al	
+.	
+Age	
+","	
+neuropathology	
+","	
+and	
+dementia	
+.	
+N	
+Engl	
+J	
+Med	
+2009	
+;	
+360	
+:	
+2302	
+–	
+2309	
+.	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Moroney	B-N
+JT	I-N
+","	
+Bagiella	B-N
+E	I-N
+","	
+Desmond	B-N
+DW	I-N
+","	
+et	
+al	
+.	
+Meta-analysis	
+of	
+the	
+Hachinski	
+Ischemic	
+Score	
+in	
+pathologically	
+verified	
+dementias	
+.	
+Neurology	
+1997	
+;	
+49	
+:	
+1096	
+–	
+1105	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Reed	B-N
+BR	I-N
+","	
+Mungas	B-N
+DM	I-N
+","	
+Kramer	B-N
+JH	I-N
+","	
+et	
+al	
+.	
+Clinical	
+and	
+neuropsychological	
+features	
+in	
+autopsy-defined	
+vascular	
+dementia	
+.	
+Clin	
+Neuropsychol	
+2004	
+;	
+18	
+:	
+63	
+–	
+74	
+.	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Markus	B-N
+HS	I-N
+","	
+Martin	B-N
+RJ	I-N
+","	
+Simpson	B-N
+MA	I-N
+","	
+et	
+al	
+.	
+Diagnostic	
+strategies	
+in	
+CADASIL	
+.	
+Neurology	
+2002	
+;	
+59	
+:	
+1134	
+–	
+1138	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Park	B-N
+JH	I-N
+","	
+Seo	B-N
+SW	I-N
+","	
+Kim	B-N
+C	I-N
+","	
+et	
+al	
+.	
+Pathogenesis	
+of	
+cerebral	
+microbleeds	
+:	
+in	
+vivo	
+imaging	
+of	
+amyloid	
+and	
+subcortical	
+ischemic	
+small	
+vessel	
+disease	
+in	
+226	
+individuals	
+with	
+cognitive	
+impairment	
+.	
+Ann	
+Neurol	
+2013	
+;	
+73	
+:	
+584	
+–	
+593	
+.	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Vermeer	B-N
+SE	I-N
+","	
+Prins	B-N
+ND	I-N
+","	
+den	B-N
+Heijer	I-N
+T	I-N
+","	
+Hofman	B-N
+A	I-N
+","	
+Koudstaal	B-N
+PJ	I-N
+","	
+Breteler	B-N
+MM	I-N
+.	
+Silent	
+brain	
+infarcts	
+and	
+the	
+risk	
+of	
+dementia	
+and	
+cognitive	
+decline	
+.	
+N	
+Engl	
+J	
+Med	
+2003	
+;	
+348	
+:	
+1215	
+–	
+1222	
+.	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Kwan	B-N
+LT	I-N
+","	
+Reed	B-N
+BR	I-N
+","	
+Eberling	B-N
+JL	I-N
+","	
+et	
+al	
+.	
+Effects	
+of	
+subcortical	
+cerebral	
+infarction	
+on	
+cortical	
+glucose	
+metabolism	
+and	
+cognitive	
+function	
+.	
+Arch	
+Neurol	
+1999	
+;	
+56	
+:	
+809	
+–	
+814	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Gutierrez	B-N
+J	I-N
+","	
+Rundek	B-N
+T	I-N
+","	
+Ekind	B-N
+MS	I-N
+","	
+Sacco	B-N
+RL	I-N
+","	
+Wright	B-N
+CB	I-N
+.	
+Perivascular	
+spaces	
+are	
+associated	
+with	
+atherosclerosis	
+:	
+an	
+insight	
+from	
+the	
+Northern	
+Manhattan	
+Study	
+.	
+AJNR	
+Am	
+J	
+Neuroradiol	
+2013	
+;	
+34	
+:	
+1711	
+–	
+1716	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Pullicino	B-N
+PM	I-N
+","	
+Miller	B-N
+LL	I-N
+","	
+Alexandrov	B-N
+AV	I-N
+","	
+Ostrow	B-N
+PT	I-N
+.	
+Infraputaminal	
+‘	
+lacunes	
+’	
+.	
+Clinical	
+and	
+pathological	
+correlations	
+.	
+Stroke	
+1995	
+;	
+26	
+:	
+1598	
+–	
+1602	
+.	
+[	
+PubMed	
+]	
+	
+25	
+.	
+Wardlaw	B-N
+JM	I-N
+","	
+Smith	B-N
+EE	I-N
+","	
+Biessels	B-N
+GJ	I-N
+","	
+et	
+al	
+.	
+Neuroimaging	
+standards	
+for	
+research	
+into	
+small	
+vessel	
+disease	
+and	
+its	
+contribution	
+to	
+ageing	
+and	
+neurodegeneration	
+.	
+Lancet	
+Neurol	
+2013	
+;	
+12	
+:	
+822	
+–	
+838	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+26	
+.	
+Arvanitakis	B-N
+Z	I-N
+","	
+Leurgans	B-N
+SE	I-N
+","	
+Barnes	B-N
+LL	I-N
+","	
+Bennett	B-N
+DA	I-N
+","	
+Schneider	B-N
+JA	I-N
+.	
+Microinfarct	
+pathology	
+","	
+dementia	
+","	
+and	
+cognitive	
+systems	
+.	
+Stroke	
+2011	
+;	
+42	
+:	
+722	
+–	
+727	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+27	
+.	
+Sullivan	B-N
+P	I-N
+","	
+Pary	B-N
+R	I-N
+","	
+Telang	B-N
+F	I-N
+","	
+Rifai	B-N
+AH	I-N
+","	
+Zubenko	B-N
+GS	I-N
+.	
+Risk	
+factors	
+for	
+white	
+matter	
+changes	
+detected	
+by	
+magnetic	
+resonance	
+imaging	
+in	
+the	
+elderly	
+.	
+Stroke	
+1990	
+;	
+21	
+:	
+1424	
+–	
+1428	
+.	
+[	
+PubMed	
+]	
+	
+28	
+.	
+Brickman	B-N
+AM	I-N
+","	
+Provenzano	B-N
+FA	I-N
+","	
+Muraskin	B-N
+J	I-N
+","	
+et	
+al	
+.	
+Regional	
+white	
+matter	
+hyperintensity	
+volume	
+","	
+not	
+hippocampal	
+atrophy	
+","	
+predicts	
+incident	
+Alzheimer	
+disease	
+in	
+the	
+community	
+.	
+Arch	
+Neurol	
+2012	
+;	
+69	
+:	
+1621	
+–	
+1627	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+29	
+.	
+Wong	B-N
+WB	I-N
+","	
+Lin	B-N
+VW	I-N
+","	
+Boudreau	B-N
+D	I-N
+","	
+Devine	B-N
+EB	I-N
+.	
+Statins	
+in	
+the	
+prevention	
+of	
+dementia	
+and	
+Alzheimer	
+'	
+s	
+disease	
+:	
+a	
+meta-analysis	
+of	
+observational	
+studies	
+and	
+an	
+assessment	
+of	
+confounding	
+.	
+Pharmacoepidemiol	
+Drug	
+Saf	
+2013	
+;	
+22	
+:	
+345	
+–	
+358	
+.	
+[	
+PubMed	
+]	

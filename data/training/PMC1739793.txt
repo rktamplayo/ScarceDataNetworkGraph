@@ -1,0 +1,3383 @@
+Chabriat	B-N
+H	I-N
+","	
+Vahedi	B-N
+K	I-N
+","	
+Iba-Zizen	B-N
+MT	I-N
+","	
+Joutel	B-N
+A	I-N
+","	
+Nibbio	B-N
+A	I-N
+","	
+Nagy	B-N
+TG	I-N
+","	
+Krebs	B-N
+MO	I-N
+","	
+Julien	B-N
+J	I-N
+","	
+Dubois	B-N
+B	I-N
+","	
+Ducrocq	B-N
+X	I-N
+","	
+et	
+al	
+.	
+Clinical	
+spectrum	
+of	
+CADASIL	
+:	
+a	
+study	
+of	
+7	
+families	
+.	
+Cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+.	
+Lancet	
+.	
+1995	
+Oct	
+7	
+;	
+346	
+(	
+8980	
+)	
+:	
+934	
+??	
+939	
+.	
+[	
+PubMed	
+]	
+	
+Tournier-Lasserve	B-N
+E	I-N
+","	
+Iba-Zizen	B-N
+MT	I-N
+","	
+Romero	B-N
+N	I-N
+","	
+Bousser	B-N
+MG	I-N
+.	
+Autosomal	
+dominant	
+syndrome	
+with	
+strokelike	
+episodes	
+and	
+leukoencephalopathy	
+.	
+Stroke	
+.	
+1991	
+Oct	
+;	
+22	
+(	
+10	
+)	
+:	
+1297	
+??	
+1302	
+.	
+[	
+PubMed	
+]	
+	
+Ruchoux	B-N
+MM	I-N
+","	
+Guerouaou	B-N
+D	I-N
+","	
+Vandenhaute	B-N
+B	I-N
+","	
+Pruvo	B-N
+JP	I-N
+","	
+Vermersch	B-N
+P	I-N
+","	
+Leys	B-N
+D	I-N
+.	
+Systemic	
+vascular	
+smooth	
+muscle	
+cell	
+impairment	
+in	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+.	
+Acta	
+Neuropathol	
+.	
+1995	
+;	
+89	
+(	
+6	
+)	
+:	
+500	
+??	
+512	
+.	
+[	
+PubMed	
+]	
+	
+Ruchoux	B-N
+MM	I-N
+","	
+Chabriat	B-N
+H	I-N
+","	
+Bousser	B-N
+MG	I-N
+","	
+Baudrimont	B-N
+M	I-N
+","	
+Tournier-Lasserve	B-N
+E	I-N
+.	
+Presence	
+of	
+ultrastructural	
+arterial	
+lesions	
+in	
+muscle	
+and	
+skin	
+vessels	
+of	
+patients	
+with	
+CADASIL	
+.	
+Stroke	
+.	
+1994	
+Nov	
+;	
+25	
+(	
+11	
+)	
+:	
+2291	
+??	
+2292	
+.	
+[	
+PubMed	
+]	
+	
+Hussain	B-N
+Monira	I-N
+B	I-N
+","	
+Singhal	B-N
+Sumeet	I-N
+","	
+Markus	B-N
+Hugh	I-N
+S	I-N
+","	
+Singer	B-N
+Donald	I-N
+R	I-N
+J	I-N
+.	
+Abnormal	
+vasoconstrictor	
+responses	
+to	
+angiotensin	
+II	
+and	
+noradrenaline	
+in	
+isolated	
+small	
+arteries	
+from	
+patients	
+with	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+(	
+CADASIL	
+)	
+.	
+Stroke	
+.	
+2004	
+Apr	
+;	
+35	
+(	
+4	
+)	
+:	
+853	
+??	
+858	
+.	
+[	
+PubMed	
+]	
+	
+Manabe	B-N
+Y	I-N
+","	
+Murakami	B-N
+T	I-N
+","	
+Iwatsuki	B-N
+K	I-N
+","	
+Narai	B-N
+H	I-N
+","	
+Warita	B-N
+H	I-N
+","	
+Hayashi	B-N
+T	I-N
+","	
+Shoji	B-N
+M	I-N
+","	
+Imai	B-N
+Y	I-N
+","	
+Abe	B-N
+K	I-N
+.	
+Nocturnal	
+blood	
+pressure	
+dip	
+in	
+CADASIL	
+.	
+J	
+Neurol	
+Sci	
+.	
+2001	
+Dec	
+15	
+;	
+193	
+(	
+1	
+)	
+:	
+13	
+??	
+16	
+.	
+[	
+PubMed	
+]	
+	
+Goate	B-N
+AM	I-N
+","	
+Morris	B-N
+JC	I-N
+.	
+Notch3	
+mutations	
+and	
+the	
+potential	
+for	
+diagnostic	
+testing	
+for	
+CADASIL	
+.	
+Lancet	
+.	
+1997	
+Nov	
+22	
+;	
+350	
+(	
+9090	
+)	
+:	
+1490	
+??	
+1490	
+.	
+[	
+PubMed	
+]	
+	
+Auer	B-N
+DP	I-N
+","	
+P체tz	B-N
+B	I-N
+","	
+G철ssl	B-N
+C	I-N
+","	
+Elbel	B-N
+G	I-N
+","	
+Gasser	B-N
+T	I-N
+","	
+Dichgans	B-N
+M	I-N
+.	
+Differential	
+lesion	
+patterns	
+in	
+CADASIL	
+and	
+sporadic	
+subcortical	
+arteriosclerotic	
+encephalopathy	
+:	
+MR	
+imaging	
+study	
+with	
+statistical	
+parametric	
+group	
+comparison	
+.	
+Radiology	
+.	
+2001	
+Feb	
+;	
+218	
+(	
+2	
+)	
+:	
+443	
+??	
+451	
+.	
+[	
+PubMed	
+]	
+	
+Schultz	B-N
+A	I-N
+","	
+Santoianni	B-N
+R	I-N
+","	
+Hewan-Lowe	B-N
+K	I-N
+.	
+Vasculopathic	
+changes	
+of	
+CADASIL	
+can	
+be	
+focal	
+in	
+skin	
+biopsies	
+.	
+Ultrastruct	
+Pathol	
+.	
+1999	
+Jul-Aug	
+;	
+23	
+(	
+4	
+)	
+:	
+241	
+??	
+247	
+.	
+[	
+PubMed	
+]	
+	
+Joutel	B-N
+A	I-N
+","	
+Corpechot	B-N
+C	I-N
+","	
+Ducros	B-N
+A	I-N
+","	
+Vahedi	B-N
+K	I-N
+","	
+Chabriat	B-N
+H	I-N
+","	
+Mouton	B-N
+P	I-N
+","	
+Alamowitch	B-N
+S	I-N
+","	
+Domenga	B-N
+V	I-N
+","	
+C챕cillion	B-N
+M	I-N
+","	
+Marechal	B-N
+E	I-N
+","	
+et	
+al	
+.	
+Notch3	
+mutations	
+in	
+CADASIL	
+","	
+a	
+hereditary	
+adult-onset	
+condition	
+causing	
+stroke	
+and	
+dementia	
+.	
+Nature	
+.	
+1996	
+Oct	
+24	
+;	
+383	
+(	
+6602	
+)	
+:	
+707	
+??	
+710	
+.	
+[	
+PubMed	
+]	
+	
+Campos	B-N
+Alexandre	I-N
+H	I-N
+","	
+Wang	B-N
+Wenli	I-N
+","	
+Pollman	B-N
+Matthew	I-N
+J	I-N
+","	
+Gibbons	B-N
+Gary	I-N
+H	I-N
+.	
+Determinants	
+of	
+Notch-3	
+receptor	
+expression	
+and	
+signaling	
+in	
+vascular	
+smooth	
+muscle	
+cells	
+:	
+implications	
+in	
+cell-cycle	
+regulation	
+.	
+Circ	
+Res	
+.	
+2002	
+Nov	
+29	
+;	
+91	
+(	
+11	
+)	
+:	
+999	
+??	
+1006	
+.	
+[	
+PubMed	
+]	
+	
+Domenga	B-N
+Val챕rie	I-N
+","	
+Fardoux	B-N
+Peggy	I-N
+","	
+Lacombe	B-N
+Pierre	I-N
+","	
+Monet	B-N
+Marie	I-N
+","	
+Maciazek	B-N
+Jacqueline	I-N
+","	
+Krebs	B-N
+Luke	I-N
+T	I-N
+","	
+Klonjkowski	B-N
+Bernard	I-N
+","	
+Berrou	B-N
+Eliane	I-N
+","	
+Mericskay	B-N
+Matthias	I-N
+","	
+Li	B-N
+Zhen	I-N
+","	
+et	
+al	
+.	
+Notch3	
+is	
+required	
+for	
+arterial	
+identity	
+and	
+maturation	
+of	
+vascular	
+smooth	
+muscle	
+cells	
+.	
+Genes	
+Dev	
+.	
+2004	
+Nov	
+15	
+;	
+18	
+(	
+22	
+)	
+:	
+2730	
+??	
+2735	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Logeat	B-N
+F	I-N
+","	
+Bessia	B-N
+C	I-N
+","	
+Brou	B-N
+C	I-N
+","	
+LeBail	B-N
+O	I-N
+","	
+Jarriault	B-N
+S	I-N
+","	
+Seidah	B-N
+NG	I-N
+","	
+Isra챘l	B-N
+A	I-N
+.	
+The	
+Notch1	
+receptor	
+is	
+cleaved	
+constitutively	
+by	
+a	
+furin-like	
+convertase	
+.	
+Proc	
+Natl	
+Acad	
+Sci	
+U	
+S	
+A	
+.	
+1998	
+Jul	
+7	
+;	
+95	
+(	
+14	
+)	
+:	
+8108	
+??	
+8112	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+De	B-N
+Strooper	I-N
+B	I-N
+","	
+Annaert	B-N
+W	I-N
+","	
+Cupers	B-N
+P	I-N
+","	
+Saftig	B-N
+P	I-N
+","	
+Craessaerts	B-N
+K	I-N
+","	
+Mumm	B-N
+JS	I-N
+","	
+Schroeter	B-N
+EH	I-N
+","	
+Schrijvers	B-N
+V	I-N
+","	
+Wolfe	B-N
+MS	I-N
+","	
+Ray	B-N
+WJ	I-N
+","	
+et	
+al	
+.	
+A	
+presenilin-1-dependent	
+gamma-secretase-like	
+protease	
+mediates	
+release	
+of	
+Notch	
+intracellular	
+domain	
+.	
+Nature	
+.	
+1999	
+Apr	
+8	
+;	
+398	
+(	
+6727	
+)	
+:	
+518	
+??	
+522	
+.	
+[	
+PubMed	
+]	
+	
+Brou	B-N
+C	I-N
+","	
+Logeat	B-N
+F	I-N
+","	
+Gupta	B-N
+N	I-N
+","	
+Bessia	B-N
+C	I-N
+","	
+LeBail	B-N
+O	I-N
+","	
+Doedens	B-N
+JR	I-N
+","	
+Cumano	B-N
+A	I-N
+","	
+Roux	B-N
+P	I-N
+","	
+Black	B-N
+RA	I-N
+","	
+Isra챘l	B-N
+A	I-N
+.	
+A	
+novel	
+proteolytic	
+cleavage	
+involved	
+in	
+Notch	
+signaling	
+:	
+the	
+role	
+of	
+the	
+disintegrin-metalloprotease	
+TACE	
+.	
+Mol	
+Cell	
+.	
+2000	
+Feb	
+;	
+5	
+(	
+2	
+)	
+:	
+207	
+??	
+216	
+.	
+[	
+PubMed	
+]	
+	
+Mumm	B-N
+JS	I-N
+","	
+Schroeter	B-N
+EH	I-N
+","	
+Saxena	B-N
+MT	I-N
+","	
+Griesemer	B-N
+A	I-N
+","	
+Tian	B-N
+X	I-N
+","	
+Pan	B-N
+DJ	I-N
+","	
+Ray	B-N
+WJ	I-N
+","	
+Kopan	B-N
+R	I-N
+.	
+A	
+ligand-induced	
+extracellular	
+cleavage	
+regulates	
+gamma-secretase-like	
+proteolytic	
+activation	
+of	
+Notch1	
+.	
+Mol	
+Cell	
+.	
+2000	
+Feb	
+;	
+5	
+(	
+2	
+)	
+:	
+197	
+??	
+206	
+.	
+[	
+PubMed	
+]	
+	
+Fortini	B-N
+ME	I-N
+","	
+Artavanis-Tsakonas	B-N
+S	I-N
+.	
+The	
+suppressor	
+of	
+hairless	
+protein	
+participates	
+in	
+notch	
+receptor	
+signaling	
+.	
+Cell	
+.	
+1994	
+Oct	
+21	
+;	
+79	
+(	
+2	
+)	
+:	
+273	
+??	
+282	
+.	
+[	
+PubMed	
+]	
+	
+Hsieh	B-N
+JJ	I-N
+","	
+Henkel	B-N
+T	I-N
+","	
+Salmon	B-N
+P	I-N
+","	
+Robey	B-N
+E	I-N
+","	
+Peterson	B-N
+MG	I-N
+","	
+Hayward	B-N
+SD	I-N
+.	
+Truncated	
+mammalian	
+Notch1	
+activates	
+CBF1	
+/	
+RBPJk-repressed	
+genes	
+by	
+a	
+mechanism	
+resembling	
+that	
+of	
+Epstein-Barr	
+virus	
+EBNA2	
+.	
+Mol	
+Cell	
+Biol	
+.	
+1996	
+Mar	
+;	
+16	
+(	
+3	
+)	
+:	
+952	
+??	
+959	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Jarriault	B-N
+S	I-N
+","	
+Brou	B-N
+C	I-N
+","	
+Logeat	B-N
+F	I-N
+","	
+Schroeter	B-N
+EH	I-N
+","	
+Kopan	B-N
+R	I-N
+","	
+Israel	B-N
+A	I-N
+.	
+Signalling	
+downstream	
+of	
+activated	
+mammalian	
+Notch	
+.	
+Nature	
+.	
+1995	
+Sep	
+28	
+;	
+377	
+(	
+6547	
+)	
+:	
+355	
+??	
+358	
+.	
+[	
+PubMed	
+]	
+	
+Lu	B-N
+FM	I-N
+","	
+Lux	B-N
+SE	I-N
+.	
+Constitutively	
+active	
+human	
+Notch1	
+binds	
+to	
+the	
+transcription	
+factor	
+CBF1	
+and	
+stimulates	
+transcription	
+through	
+a	
+promoter	
+containing	
+a	
+CBF1-responsive	
+element	
+.	
+Proc	
+Natl	
+Acad	
+Sci	
+U	
+S	
+A	
+.	
+1996	
+May	
+28	
+;	
+93	
+(	
+11	
+)	
+:	
+5663	
+??	
+5667	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Struhl	B-N
+G	I-N
+","	
+Adachi	B-N
+A	I-N
+.	
+Nuclear	
+access	
+and	
+action	
+of	
+notch	
+in	
+vivo	
+.	
+Cell	
+.	
+1998	
+May	
+15	
+;	
+93	
+(	
+4	
+)	
+:	
+649	
+??	
+660	
+.	
+[	
+PubMed	
+]	
+	
+Struhl	B-N
+G	I-N
+","	
+Greenwald	B-N
+I	I-N
+.	
+Presenilin	
+is	
+required	
+for	
+activity	
+and	
+nuclear	
+access	
+of	
+Notch	
+in	
+Drosophila	
+.	
+Nature	
+.	
+1999	
+Apr	
+8	
+;	
+398	
+(	
+6727	
+)	
+:	
+522	
+??	
+525	
+.	
+[	
+PubMed	
+]	
+	
+Kopan	B-N
+R	I-N
+","	
+Nye	B-N
+JS	I-N
+","	
+Weintraub	B-N
+H	I-N
+.	
+The	
+intracellular	
+domain	
+of	
+mouse	
+Notch	
+:	
+a	
+constitutively	
+activated	
+repressor	
+of	
+myogenesis	
+directed	
+at	
+the	
+basic	
+helix-loop-helix	
+region	
+of	
+MyoD	
+.	
+Development	
+.	
+1994	
+Sep	
+;	
+120	
+(	
+9	
+)	
+:	
+2385	
+??	
+2396	
+.	
+[	
+PubMed	
+]	
+	
+Nofziger	B-N
+D	I-N
+","	
+Miyamoto	B-N
+A	I-N
+","	
+Lyons	B-N
+KM	I-N
+","	
+Weinmaster	B-N
+G	I-N
+.	
+Notch	
+signaling	
+imposes	
+two	
+distinct	
+blocks	
+in	
+the	
+differentiation	
+of	
+C2C12	
+myoblasts	
+.	
+Development	
+.	
+1999	
+Apr	
+;	
+126	
+(	
+8	
+)	
+:	
+1689	
+??	
+1702	
+.	
+[	
+PubMed	
+]	
+	
+Nye	B-N
+JS	I-N
+","	
+Kopan	B-N
+R	I-N
+","	
+Axel	B-N
+R	I-N
+.	
+An	
+activated	
+Notch	
+suppresses	
+neurogenesis	
+and	
+myogenesis	
+but	
+not	
+gliogenesis	
+in	
+mammalian	
+cells	
+.	
+Development	
+.	
+1994	
+Sep	
+;	
+120	
+(	
+9	
+)	
+:	
+2421	
+??	
+2430	
+.	
+[	
+PubMed	
+]	
+	
+Bush	B-N
+G	I-N
+","	
+diSibio	B-N
+G	I-N
+","	
+Miyamoto	B-N
+A	I-N
+","	
+Denault	B-N
+JB	I-N
+","	
+Leduc	B-N
+R	I-N
+","	
+Weinmaster	B-N
+G	I-N
+.	
+Ligand-induced	
+signaling	
+in	
+the	
+absence	
+of	
+furin	
+processing	
+of	
+Notch1	
+.	
+Dev	
+Biol	
+.	
+2001	
+Jan	
+15	
+;	
+229	
+(	
+2	
+)	
+:	
+494	
+??	
+502	
+.	
+[	
+PubMed	
+]	
+	
+Dichgans	B-N
+M	I-N
+","	
+Ludwig	B-N
+H	I-N
+","	
+M체ller-H철cker	B-N
+J	I-N
+","	
+Messerschmidt	B-N
+A	I-N
+","	
+Gasser	B-N
+T	I-N
+.	
+Small	
+in-frame	
+deletions	
+and	
+missense	
+mutations	
+in	
+CADASIL	
+:	
+3D	
+models	
+predict	
+misfolding	
+of	
+Notch3	
+EGF-like	
+repeat	
+domains	
+.	
+Eur	
+J	
+Hum	
+Genet	
+.	
+2000	
+Apr	
+;	
+8	
+(	
+4	
+)	
+:	
+280	
+??	
+285	
+.	
+[	
+PubMed	
+]	
+	
+Kotorii	B-N
+S	I-N
+","	
+Takahashi	B-N
+K	I-N
+","	
+Kamimura	B-N
+K	I-N
+","	
+Nishio	B-N
+T	I-N
+","	
+Arima	B-N
+K	I-N
+","	
+Yamada	B-N
+H	I-N
+","	
+Uyama	B-N
+E	I-N
+","	
+Uchino	B-N
+M	I-N
+","	
+Suenaga	B-N
+A	I-N
+","	
+Matsumoto	B-N
+M	I-N
+","	
+et	
+al	
+.	
+Mutations	
+of	
+the	
+notch3	
+gene	
+in	
+non-caucasian	
+patients	
+with	
+suspected	
+CADASIL	
+syndrome	
+.	
+Dement	
+Geriatr	
+Cogn	
+Disord	
+.	
+2001	
+May-Jun	
+;	
+12	
+(	
+3	
+)	
+:	
+185	
+??	
+193	
+.	
+[	
+PubMed	
+]	
+	
+Joutel	B-N
+A	I-N
+","	
+Vahedi	B-N
+K	I-N
+","	
+Corpechot	B-N
+C	I-N
+","	
+Troesch	B-N
+A	I-N
+","	
+Chabriat	B-N
+H	I-N
+","	
+Vayssi챔re	B-N
+C	I-N
+","	
+Cruaud	B-N
+C	I-N
+","	
+Maciazek	B-N
+J	I-N
+","	
+Weissenbach	B-N
+J	I-N
+","	
+Bousser	B-N
+MG	I-N
+","	
+et	
+al	
+.	
+Strong	
+clustering	
+and	
+stereotyped	
+nature	
+of	
+Notch3	
+mutations	
+in	
+CADASIL	
+patients	
+.	
+Lancet	
+.	
+1997	
+Nov	
+22	
+;	
+350	
+(	
+9090	
+)	
+:	
+1511	
+??	
+1515	
+.	
+[	
+PubMed	
+]	
+	
+Joutel	B-N
+A	I-N
+","	
+Andreux	B-N
+F	I-N
+","	
+Gaulis	B-N
+S	I-N
+","	
+Domenga	B-N
+V	I-N
+","	
+Cecillon	B-N
+M	I-N
+","	
+Battail	B-N
+N	I-N
+","	
+Piga	B-N
+N	I-N
+","	
+Chapon	B-N
+F	I-N
+","	
+Godfrain	B-N
+C	I-N
+","	
+Tournier-Lasserve	B-N
+E	I-N
+.	
+The	
+ectodomain	
+of	
+the	
+Notch3	
+receptor	
+accumulates	
+within	
+the	
+cerebrovasculature	
+of	
+CADASIL	
+patients	
+.	
+J	
+Clin	
+Invest	
+.	
+2000	
+Mar	
+;	
+105	
+(	
+5	
+)	
+:	
+597	
+??	
+605	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Karlstr철m	B-N
+Helena	I-N
+","	
+Beatus	B-N
+Paul	I-N
+","	
+Dannaeus	B-N
+Karin	I-N
+","	
+Chapman	B-N
+Gavin	I-N
+","	
+Lendahl	B-N
+Urban	I-N
+","	
+Lundkvist	B-N
+Johan	I-N
+.	
+A	
+CADASIL-mutated	
+Notch	
+3	
+receptor	
+exhibits	
+impaired	
+intracellular	
+trafficking	
+and	
+maturation	
+but	
+normal	
+ligand-induced	
+signaling	
+.	
+Proc	
+Natl	
+Acad	
+Sci	
+U	
+S	
+A	
+.	
+2002	
+Dec	
+24	
+;	
+99	
+(	
+26	
+)	
+:	
+17119	
+??	
+17124	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Peters	B-N
+Nils	I-N
+","	
+Opherk	B-N
+Christian	I-N
+","	
+Zacherle	B-N
+Simone	I-N
+","	
+Capell	B-N
+Anja	I-N
+","	
+Gempel	B-N
+Petra	I-N
+","	
+Dichgans	B-N
+Martin	I-N
+.	
+CADASIL-associated	
+Notch3	
+mutations	
+have	
+differential	
+effects	
+both	
+on	
+ligand	
+binding	
+and	
+ligand-induced	
+Notch3	
+receptor	
+signaling	
+through	
+RBP-Jk	
+.	
+Exp	
+Cell	
+Res	
+.	
+2004	
+Oct	
+1	
+;	
+299	
+(	
+2	
+)	
+:	
+454	
+??	
+464	
+.	
+[	
+PubMed	
+]	
+	
+Haritunians	B-N
+Talin	I-N
+","	
+Boulter	B-N
+Jim	I-N
+","	
+Hicks	B-N
+Carol	I-N
+","	
+Buhrman	B-N
+Jonathon	I-N
+","	
+DiSibio	B-N
+Guy	I-N
+","	
+Shawber	B-N
+Carrie	I-N
+","	
+Weinmaster	B-N
+Gerry	I-N
+","	
+Nofziger	B-N
+Donna	I-N
+","	
+Schanen	B-N
+Carolyn	I-N
+.	
+CADASIL	
+Notch3	
+mutant	
+proteins	
+localize	
+to	
+the	
+cell	
+surface	
+and	
+bind	
+ligand	
+.	
+Circ	
+Res	
+.	
+2002	
+Mar	
+22	
+;	
+90	
+(	
+5	
+)	
+:	
+506	
+??	
+508	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Joutel	B-N
+Anne	I-N
+","	
+Monet	B-N
+Marie	I-N
+","	
+Domenga	B-N
+Val챕rie	I-N
+","	
+Riant	B-N
+Florence	I-N
+","	
+Tournier-Lasserve	B-N
+Elisabeth	I-N
+.	
+Pathogenic	
+mutations	
+associated	
+with	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+differently	
+affect	
+Jagged1	
+binding	
+and	
+Notch3	
+activity	
+via	
+the	
+RBP	
+/	
+JK	
+signaling	
+Pathway	
+.	
+Am	
+J	
+Hum	
+Genet	
+.	
+2004	
+Feb	
+;	
+74	
+(	
+2	
+)	
+:	
+338	
+??	
+347	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Morrissette	B-N
+JD	I-N
+","	
+Colliton	B-N
+RP	I-N
+","	
+Spinner	B-N
+NB	I-N
+.	
+Defective	
+intracellular	
+transport	
+and	
+processing	
+of	
+JAG1	
+missense	
+mutations	
+in	
+Alagille	
+syndrome	
+.	
+Hum	
+Mol	
+Genet	
+.	
+2001	
+Feb	
+15	
+;	
+10	
+(	
+4	
+)	
+:	
+405	
+??	
+413	
+.	
+[	
+PubMed	
+]	
+	
+Schrijver	B-N
+I	I-N
+","	
+Liu	B-N
+W	I-N
+","	
+Brenn	B-N
+T	I-N
+","	
+Furthmayr	B-N
+H	I-N
+","	
+Francke	B-N
+U	I-N
+.	
+Cysteine	
+substitutions	
+in	
+epidermal	
+growth	
+factor-like	
+domains	
+of	
+fibrillin-1	
+:	
+distinct	
+effects	
+on	
+biochemical	
+and	
+clinical	
+phenotypes	
+.	
+Am	
+J	
+Hum	
+Genet	
+.	
+1999	
+Oct	
+;	
+65	
+(	
+4	
+)	
+:	
+1007	
+??	
+1020	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Iso	B-N
+Tatsuya	I-N
+","	
+Hamamori	B-N
+Yasuo	I-N
+","	
+Kedes	B-N
+Larry	I-N
+.	
+Notch	
+signaling	
+in	
+vascular	
+development	
+.	
+Arterioscler	
+Thromb	
+Vasc	
+Biol	
+.	
+2003	
+Apr	
+1	
+;	
+23	
+(	
+4	
+)	
+:	
+543	
+??	
+553	
+.	
+[	
+PubMed	
+]	
+	
+Ruchoux	B-N
+Marie	I-N
+Magdeleine	I-N
+","	
+Domenga	B-N
+Val챕rie	I-N
+","	
+Brulin	B-N
+Peggy	I-N
+","	
+Maciazek	B-N
+Jacqueline	I-N
+","	
+Limol	B-N
+Sylvie	I-N
+","	
+Tournier-Lasserve	B-N
+Elisabeth	I-N
+","	
+Joutel	B-N
+Anne	I-N
+.	
+Transgenic	
+mice	
+expressing	
+mutant	
+Notch3	
+develop	
+vascular	
+alterations	
+characteristic	
+of	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+.	
+Am	
+J	
+Pathol	
+.	
+2003	
+Jan	
+;	
+162	
+(	
+1	
+)	
+:	
+329	
+??	
+342	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Villa	B-N
+N	I-N
+","	
+Walker	B-N
+L	I-N
+","	
+Lindsell	B-N
+CE	I-N
+","	
+Gasson	B-N
+J	I-N
+","	
+Iruela-Arispe	B-N
+ML	I-N
+","	
+Weinmaster	B-N
+G	I-N
+.	
+Vascular	
+expression	
+of	
+Notch	
+pathway	
+receptors	
+and	
+ligands	
+is	
+restricted	
+to	
+arterial	
+vessels	
+.	
+Mech	
+Dev	
+.	
+2001	
+Oct	
+;	
+108	
+(	
+01월 02일	
+)	
+:	
+161	
+??	
+164	
+.	
+[	
+PubMed	
+]	
+	
+Sweeney	B-N
+Catherine	I-N
+","	
+Morrow	B-N
+David	I-N
+","	
+Birney	B-N
+Yvonne	I-N
+A	I-N
+","	
+Coyle	B-N
+Seamus	I-N
+","	
+Hennessy	B-N
+Colm	I-N
+","	
+Scheller	B-N
+Agnieszka	I-N
+","	
+Cummins	B-N
+Philip	I-N
+M	I-N
+","	
+Walls	B-N
+Dermot	I-N
+","	
+Redmond	B-N
+Eileen	I-N
+M	I-N
+","	
+Cahill	B-N
+Paul	I-N
+A	I-N
+.	
+Notch	
+1	
+and	
+3	
+receptor	
+signaling	
+modulates	
+vascular	
+smooth	
+muscle	
+cell	
+growth	
+","	
+apoptosis	
+","	
+and	
+migration	
+via	
+a	
+CBF-1	
+/	
+RBP-Jk	
+dependent	
+pathway	
+.	
+FASEB	
+J	
+.	
+2004	
+Sep	
+;	
+18	
+(	
+12	
+)	
+:	
+1421	
+??	
+1423	
+.	
+[	
+PubMed	
+]	
+	
+de	B-N
+Lange	I-N
+RP	I-N
+","	
+Bolt	B-N
+J	I-N
+","	
+Reid	B-N
+E	I-N
+","	
+da	B-N
+Silva	I-N
+R	I-N
+","	
+Shaw	B-N
+DJ	I-N
+","	
+St	B-N
+Clair	I-N
+DM	I-N
+.	
+Screening	
+British	
+CADASIL	
+families	
+for	
+mutations	
+in	
+the	
+NOTCH3	
+gene	
+.	
+J	
+Med	
+Genet	
+.	
+2000	
+Mar	
+;	
+37	
+(	
+3	
+)	
+:	
+224	
+??	
+225	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Mizushima	B-N
+S	I-N
+","	
+Nagata	B-N
+S	I-N
+.	
+pEF-BOS	
+","	
+a	
+powerful	
+mammalian	
+expression	
+vector	
+.	
+Nucleic	
+Acids	
+Res	
+.	
+1990	
+Sep	
+11	
+;	
+18	
+(	
+17	
+)	
+:	
+5322	
+??	
+5322	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Hicks	B-N
+C	I-N
+","	
+Johnston	B-N
+SH	I-N
+","	
+diSibio	B-N
+G	I-N
+","	
+Collazo	B-N
+A	I-N
+","	
+Vogt	B-N
+TF	I-N
+","	
+Weinmaster	B-N
+G	I-N
+.	
+Fringe	
+differentially	
+modulates	
+Jagged1	
+and	
+Delta1	
+signalling	
+through	
+Notch1	
+and	
+Notch2	
+.	
+Nat	
+Cell	
+Biol	
+.	
+2000	
+Aug	
+;	
+2	
+(	
+8	
+)	
+:	
+515	
+??	
+520	
+.	
+[	
+PubMed	
+]	
+	
+Hicks	B-N
+Carol	I-N
+","	
+Ladi	B-N
+Ena	I-N
+","	
+Lindsell	B-N
+Claire	I-N
+","	
+Hsieh	B-N
+James	I-N
+J-D	I-N
+","	
+Hayward	B-N
+S	I-N
+Diane	I-N
+","	
+Collazo	B-N
+Andres	I-N
+","	
+Weinmaster	B-N
+Gerry	I-N
+.	
+A	
+secreted	
+Delta1-Fc	
+fusion	
+protein	
+functions	
+both	
+as	
+an	
+activator	
+and	
+inhibitor	
+of	
+Notch1	
+signaling	
+.	
+J	
+Neurosci	
+Res	
+.	
+2002	
+Jun	
+15	
+;	
+68	
+(	
+6	
+)	
+:	
+655	
+??	
+667	
+.	
+[	
+PubMed	
+]	
+	
+Lindsell	B-N
+CE	I-N
+","	
+Shawber	B-N
+CJ	I-N
+","	
+Boulter	B-N
+J	I-N
+","	
+Weinmaster	B-N
+G	I-N
+.	
+Jagged	
+:	
+a	
+mammalian	
+ligand	
+that	
+activates	
+Notch1	
+.	
+Cell	
+.	
+1995	
+Mar	
+24	
+;	
+80	
+(	
+6	
+)	
+:	
+909	
+??	
+917	
+.	
+[	
+PubMed	
+]	
+	
+Ray	B-N
+WJ	I-N
+","	
+Yao	B-N
+M	I-N
+","	
+Nowotny	B-N
+P	I-N
+","	
+Mumm	B-N
+J	I-N
+","	
+Zhang	B-N
+W	I-N
+","	
+Wu	B-N
+JY	I-N
+","	
+Kopan	B-N
+R	I-N
+","	
+Goate	B-N
+AM	I-N
+.	
+Evidence	
+for	
+a	
+physical	
+interaction	
+between	
+presenilin	
+and	
+Notch	
+.	
+Proc	
+Natl	
+Acad	
+Sci	
+U	
+S	
+A	
+.	
+1999	
+Mar	
+16	
+;	
+96	
+(	
+6	
+)	
+:	
+3263	
+??	
+3268	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Mizutani	B-N
+T	I-N
+","	
+Taniguchi	B-N
+Y	I-N
+","	
+Aoki	B-N
+T	I-N
+","	
+Hashimoto	B-N
+N	I-N
+","	
+Honjo	B-N
+T	I-N
+.	
+Conservation	
+of	
+the	
+biochemical	
+mechanisms	
+of	
+signal	
+transduction	
+among	
+mammalian	
+Notch	
+family	
+members	
+.	
+Proc	
+Natl	
+Acad	
+Sci	
+U	
+S	
+A	
+.	
+2001	
+Jul	
+31	
+;	
+98	
+(	
+16	
+)	
+:	
+9026	
+??	
+9031	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Ray	B-N
+WJ	I-N
+","	
+Yao	B-N
+M	I-N
+","	
+Mumm	B-N
+J	I-N
+","	
+Schroeter	B-N
+EH	I-N
+","	
+Saftig	B-N
+P	I-N
+","	
+Wolfe	B-N
+M	I-N
+","	
+Selkoe	B-N
+DJ	I-N
+","	
+Kopan	B-N
+R	I-N
+","	
+Goate	B-N
+AM	I-N
+.	
+Cell	
+surface	
+presenilin-1	
+participates	
+in	
+the	
+gamma-secretase-like	
+proteolysis	
+of	
+Notch	
+.	
+J	
+Biol	
+Chem	
+.	
+1999	
+Dec	
+17	
+;	
+274	
+(	
+51	
+)	
+:	
+36801	
+??	
+36807	
+.	
+[	
+PubMed	
+]	
+	
+Morrison	B-N
+SJ	I-N
+","	
+Perez	B-N
+SE	I-N
+","	
+Qiao	B-N
+Z	I-N
+","	
+Verdi	B-N
+JM	I-N
+","	
+Hicks	B-N
+C	I-N
+","	
+Weinmaster	B-N
+G	I-N
+","	
+Anderson	B-N
+DJ	I-N
+.	
+Transient	
+Notch	
+activation	
+initiates	
+an	
+irreversible	
+switch	
+from	
+neurogenesis	
+to	
+gliogenesis	
+by	
+neural	
+crest	
+stem	
+cells	
+.	
+Cell	
+.	
+2000	
+May	
+26	
+;	
+101	
+(	
+5	
+)	
+:	
+499	
+??	
+510	
+.	
+[	
+PubMed	
+]	
+	
+Wang	B-N
+S	I-N
+","	
+Sdrulla	B-N
+AD	I-N
+","	
+diSibio	B-N
+G	I-N
+","	
+Bush	B-N
+G	I-N
+","	
+Nofziger	B-N
+D	I-N
+","	
+Hicks	B-N
+C	I-N
+","	
+Weinmaster	B-N
+G	I-N
+","	
+Barres	B-N
+BA	I-N
+.	
+Notch	
+receptor	
+activation	
+inhibits	
+oligodendrocyte	
+differentiation	
+.	
+Neuron	
+.	
+1998	
+Jul	
+;	
+21	
+(	
+1	
+)	
+:	
+63	
+??	
+75	
+.	
+[	
+PubMed	
+]	
+	
+Shutter	B-N
+JR	I-N
+","	
+Scully	B-N
+S	I-N
+","	
+Fan	B-N
+W	I-N
+","	
+Richards	B-N
+WG	I-N
+","	
+Kitajewski	B-N
+J	I-N
+","	
+Deblandre	B-N
+GA	I-N
+","	
+Kintner	B-N
+CR	I-N
+","	
+Stark	B-N
+KL	I-N
+.	
+Dll4	
+","	
+a	
+novel	
+Notch	
+ligand	
+expressed	
+in	
+arterial	
+endothelium	
+.	
+Genes	
+Dev	
+.	
+2000	
+Jun	
+1	
+;	
+14	
+(	
+11	
+)	
+:	
+1313	
+??	
+1318	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Rand	B-N
+MD	I-N
+","	
+Grimm	B-N
+LM	I-N
+","	
+Artavanis-Tsakonas	B-N
+S	I-N
+","	
+Patriub	B-N
+V	I-N
+","	
+Blacklow	B-N
+SC	I-N
+","	
+Sklar	B-N
+J	I-N
+","	
+Aster	B-N
+JC	I-N
+.	
+Calcium	
+depletion	
+dissociates	
+and	
+activates	
+heterodimeric	
+notch	
+receptors	
+.	
+Mol	
+Cell	
+Biol	
+.	
+2000	
+Mar	
+;	
+20	
+(	
+5	
+)	
+:	
+1825	
+??	
+1835	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Ross	B-N
+DA	I-N
+","	
+Kadesch	B-N
+T	I-N
+.	
+The	
+notch	
+intracellular	
+domain	
+can	
+function	
+as	
+a	
+coactivator	
+for	
+LEF-1	
+.	
+Mol	
+Cell	
+Biol	
+.	
+2001	
+Nov	
+;	
+21	
+(	
+22	
+)	
+:	
+7537	
+??	
+7544	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Ross	B-N
+David	I-N
+A	I-N
+","	
+Rao	B-N
+Prakash	I-N
+K	I-N
+","	
+Kadesch	B-N
+Tom	I-N
+.	
+Dual	
+roles	
+for	
+the	
+Notch	
+target	
+gene	
+Hes-1	
+in	
+the	
+differentiation	
+of	
+3T3-L1	
+preadipocytes	
+.	
+Mol	
+Cell	
+Biol	
+.	
+2004	
+Apr	
+;	
+24	
+(	
+8	
+)	
+:	
+3505	
+??	
+3513	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Lindner	B-N
+V	I-N
+","	
+Booth	B-N
+C	I-N
+","	
+Prudovsky	B-N
+I	I-N
+","	
+Small	B-N
+D	I-N
+","	
+Maciag	B-N
+T	I-N
+","	
+Liaw	B-N
+L	I-N
+.	
+Members	
+of	
+the	
+Jagged	
+/	
+Notch	
+gene	
+families	
+are	
+expressed	
+in	
+injured	
+arteries	
+and	
+regulate	
+cell	
+phenotype	
+via	
+alterations	
+in	
+cell	
+matrix	
+and	
+cell-cell	
+interaction	
+.	
+Am	
+J	
+Pathol	
+.	
+2001	
+Sep	
+;	
+159	
+(	
+3	
+)	
+:	
+875	
+??	
+883	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Zimrin	B-N
+AB	I-N
+","	
+Pepper	B-N
+MS	I-N
+","	
+McMahon	B-N
+GA	I-N
+","	
+Nguyen	B-N
+F	I-N
+","	
+Montesano	B-N
+R	I-N
+","	
+Maciag	B-N
+T	I-N
+.	
+An	
+antisense	
+oligonucleotide	
+to	
+the	
+notch	
+ligand	
+jagged	
+enhances	
+fibroblast	
+growth	
+factor-induced	
+angiogenesis	
+in	
+vitro	
+.	
+J	
+Biol	
+Chem	
+.	
+1996	
+Dec	
+20	
+;	
+271	
+(	
+51	
+)	
+:	
+32499	
+??	
+32502	
+.	
+[	
+PubMed	
+]	
+	
+Lindsell	B-N
+CE	I-N
+","	
+Boulter	B-N
+J	I-N
+","	
+diSibio	B-N
+G	I-N
+","	
+Gossler	B-N
+A	I-N
+","	
+Weinmaster	B-N
+G	I-N
+.	
+Expression	
+patterns	
+of	
+Jagged	
+","	
+Delta1	
+","	
+Notch1	
+","	
+Notch2	
+","	
+and	
+Notch3	
+genes	
+identify	
+ligand-receptor	
+pairs	
+that	
+may	
+function	
+in	
+neural	
+development	
+.	
+Mol	
+Cell	
+Neurosci	
+.	
+1996	
+;	
+8	
+(	
+1	
+)	
+:	
+14	
+??	
+27	
+.	
+[	
+PubMed	
+]	
+	
+Shimizu	B-N
+K	I-N
+","	
+Chiba	B-N
+S	I-N
+","	
+Saito	B-N
+T	I-N
+","	
+Kumano	B-N
+K	I-N
+","	
+Hirai	B-N
+H	I-N
+.	
+Physical	
+interaction	
+of	
+Delta1	
+","	
+Jagged1	
+","	
+and	
+Jagged2	
+with	
+Notch1	
+and	
+Notch3	
+receptors	
+.	
+Biochem	
+Biophys	
+Res	
+Commun	
+.	
+2000	
+Sep	
+16	
+;	
+276	
+(	
+1	
+)	
+:	
+385	
+??	
+389	
+.	
+[	
+PubMed	
+]	
+	
+Jarriault	B-N
+S	I-N
+","	
+Le	B-N
+Bail	I-N
+O	I-N
+","	
+Hirsinger	B-N
+E	I-N
+","	
+Pourqui챕	B-N
+O	I-N
+","	
+Logeat	B-N
+F	I-N
+","	
+Strong	B-N
+CF	I-N
+","	
+Brou	B-N
+C	I-N
+","	
+Seidah	B-N
+NG	I-N
+","	
+Isra	B-N
+l	I-N
+A	I-N
+.	
+Delta-1	
+activation	
+of	
+notch-1	
+signaling	
+results	
+in	
+HES-1	
+transactivation	
+.	
+Mol	
+Cell	
+Biol	
+.	
+1998	
+Dec	
+;	
+18	
+(	
+12	
+)	
+:	
+7423	
+??	
+7431	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Donahue	B-N
+Christine	I-N
+P	I-N
+","	
+Kosik	B-N
+Kenneth	I-N
+S	I-N
+.	
+Distribution	
+pattern	
+of	
+Notch3	
+mutations	
+suggests	
+a	
+gain-of-function	
+mechanism	
+for	
+CADASIL	
+.	
+Genomics	
+.	
+2004	
+Jan	
+;	
+83	
+(	
+1	
+)	
+:	
+59	
+??	
+65	
+.	
+[	
+PubMed	
+]	
+	
+Rebay	B-N
+I	I-N
+","	
+Fleming	B-N
+RJ	I-N
+","	
+Fehon	B-N
+RG	I-N
+","	
+Cherbas	B-N
+L	I-N
+","	
+Cherbas	B-N
+P	I-N
+","	
+Artavanis-Tsakonas	B-N
+S	I-N
+.	
+Specific	
+EGF	
+repeats	
+of	
+Notch	
+mediate	
+interactions	
+with	
+Delta	
+and	
+Serrate	
+:	
+implications	
+for	
+Notch	
+as	
+a	
+multifunctional	
+receptor	
+.	
+Cell	
+.	
+1991	
+Nov	
+15	
+;	
+67	
+(	
+4	
+)	
+:	
+687	
+??	
+699	
+.	
+[	
+PubMed	
+]	
+	
+Lawrence	B-N
+N	I-N
+","	
+Klein	B-N
+T	I-N
+","	
+Brennan	B-N
+K	I-N
+","	
+Martinez	B-N
+Arias	I-N
+A	I-N
+.	
+Structural	
+requirements	
+for	
+notch	
+signalling	
+with	
+delta	
+and	
+serrate	
+during	
+the	
+development	
+and	
+patterning	
+of	
+the	
+wing	
+disc	
+of	
+Drosophila	
+.	
+Development	
+.	
+2000	
+Jul	
+;	
+127	
+(	
+14	
+)	
+:	
+3185	
+??	
+3195	
+.	
+[	
+PubMed	
+]	

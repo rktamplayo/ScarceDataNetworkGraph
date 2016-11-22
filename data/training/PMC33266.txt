@@ -1,0 +1,1257 @@
+1	
+.	
+Robb	B-N
+L	I-N
+","	
+Elefanty	B-N
+A	I-N
+G	I-N
+.	
+BioEssays	
+.	
+1998	
+;	
+20	
+:	
+611	
+??	
+614	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Pardanaud	B-N
+L	I-N
+","	
+Dieterlen-Lievre	B-N
+F	I-N
+.	
+Anat	
+Embryol	
+.	
+1993	
+;	
+187	
+:	
+107	
+??	
+114	
+.	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Risau	B-N
+W	I-N
+.	
+Nature	
+(	
+London	
+)	
+1997	
+;	
+386	
+:	
+671	
+??	
+674	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Sims	B-N
+D	I-N
+E	I-N
+.	
+Tissue	
+Cell	
+.	
+1986	
+;	
+18	
+:	
+153	
+??	
+174	
+.	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Carmeliet	B-N
+P	I-N
+.	
+Nat	
+Med	
+.	
+2000	
+;	
+6	
+:	
+389	
+??	
+395	
+.	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Artavanis-Tsakonas	B-N
+S	I-N
+","	
+Simpson	B-N
+P	I-N
+.	
+Trends	
+Genet	
+.	
+1991	
+;	
+7	
+:	
+403	
+??	
+408	
+.	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Greenwald	B-N
+I	I-N
+S	I-N
+","	
+Sternberg	B-N
+P	I-N
+W	I-N
+","	
+Horvitz	B-N
+H	I-N
+R	I-N
+.	
+Cell	
+.	
+1983	
+;	
+34	
+:	
+435	
+??	
+444	
+.	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Ellisen	B-N
+L	I-N
+W	I-N
+","	
+Bird	B-N
+J	I-N
+","	
+West	B-N
+D	I-N
+C	I-N
+","	
+Soreng	B-N
+A	I-N
+L	I-N
+","	
+Reynolds	B-N
+T	I-N
+C	I-N
+","	
+Smith	B-N
+S	I-N
+D	I-N
+","	
+Sklar	B-N
+J	I-N
+.	
+Cell	
+.	
+1991	
+;	
+66	
+:	
+649	
+??	
+661	
+.	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Uyttendaele	B-N
+H	I-N
+","	
+Marazzi	B-N
+G	I-N
+","	
+Wu	B-N
+G	I-N
+","	
+Yan	B-N
+Q	I-N
+","	
+Sassoon	B-N
+D	I-N
+","	
+Kitajewski	B-N
+J	I-N
+.	
+Development	
+(	
+Cambridge	
+","	
+UK	
+)	
+1996	
+;	
+122	
+:	
+2251	
+??	
+2259	
+.	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Fortini	B-N
+M	I-N
+E	I-N
+","	
+Artavanis-Tsakonas	B-N
+S	I-N
+.	
+Cell	
+.	
+1993	
+;	
+75	
+:	
+1245	
+??	
+1247	
+.	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Chitnis	B-N
+A	I-N
+","	
+Henrique	B-N
+D	I-N
+","	
+Lewis	B-N
+J	I-N
+","	
+Ish-Horowicz	B-N
+D	I-N
+","	
+Kintner	B-N
+C	I-N
+.	
+Nature	
+(	
+London	
+)	
+1995	
+;	
+375	
+:	
+761	
+??	
+766	
+.	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Robey	B-N
+E	I-N
+.	
+Annu	
+Rev	
+Immunol	
+.	
+1999	
+;	
+17	
+:	
+283	
+??	
+295	
+.	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Shirayoshi	B-N
+Y	I-N
+","	
+Yuasa	B-N
+Y	I-N
+","	
+Suzuki	B-N
+T	I-N
+","	
+Sugaya	B-N
+K	I-N
+","	
+Kawase	B-N
+E	I-N
+","	
+Ikemura	B-N
+T	I-N
+","	
+Nakatsuji	B-N
+N	I-N
+.	
+Genes	
+Cells	
+.	
+1997	
+;	
+2	
+:	
+213	
+??	
+224	
+.	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Shutter	B-N
+J	I-N
+R	I-N
+","	
+Scully	B-N
+S	I-N
+","	
+Fan	B-N
+W	I-N
+","	
+Richards	B-N
+W	I-N
+G	I-N
+","	
+Kitajewski	B-N
+J	I-N
+","	
+Deblandre	B-N
+G	I-N
+A	I-N
+","	
+Kintner	B-N
+C	I-N
+R	I-N
+","	
+Stark	B-N
+K	I-N
+L	I-N
+.	
+Genes	
+Dev	
+.	
+2000	
+;	
+14	
+:	
+1313	
+??	
+1318	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Hrabe	B-N
+de	I-N
+Angelis	I-N
+M	I-N
+","	
+McIntyre	B-N
+J	I-N
+","	I-N
+II	I-N
+","	
+Gossler	B-N
+A	I-N
+.	
+Nature	
+(	
+London	
+)	
+1997	
+;	
+386	
+:	
+717	
+??	
+721	
+.	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Xue	B-N
+Y	I-N
+","	
+Gao	B-N
+X	I-N
+","	
+Lindsell	B-N
+C	I-N
+E	I-N
+","	
+Norton	B-N
+C	I-N
+R	I-N
+","	
+Chang	B-N
+B	I-N
+","	
+Hicks	B-N
+C	I-N
+","	
+Gendron-Maguire	B-N
+M	I-N
+","	
+Rand	B-N
+E	I-N
+B	I-N
+","	
+Weinmaster	B-N
+G	I-N
+","	
+Gridley	B-N
+T	I-N
+.	
+Hum	
+Mol	
+Genet	
+.	
+1999	
+;	
+8	
+:	
+723	
+??	
+730	
+.	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Shen	B-N
+J	I-N
+","	
+Bronson	B-N
+R	I-N
+T	I-N
+","	
+Chen	B-N
+D	I-N
+F	I-N
+","	
+Xia	B-N
+W	I-N
+","	
+Selkoe	B-N
+D	I-N
+J	I-N
+","	
+Tonegawa	B-N
+S	I-N
+.	
+Cell	
+.	
+1997	
+;	
+89	
+:	
+629	
+??	
+639	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Wong	B-N
+P	I-N
+C	I-N
+","	
+Zheng	B-N
+H	I-N
+","	
+Chen	B-N
+H	I-N
+","	
+Becher	B-N
+M	I-N
+W	I-N
+","	
+Sirinathsinghji	B-N
+D	I-N
+J	I-N
+","	
+Trumbauer	B-N
+M	I-N
+E	I-N
+","	
+Chen	B-N
+H	I-N
+Y	I-N
+","	
+Price	B-N
+D	I-N
+L	I-N
+","	
+Van	B-N
+der	I-N
+Ploeg	I-N
+L	I-N
+H	I-N
+","	
+Sisodia	B-N
+S	I-N
+S	I-N
+.	
+Nature	
+(	
+London	
+)	
+1997	
+;	
+387	
+:	
+288	
+??	
+292	
+.	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Krebs	B-N
+L	I-N
+T	I-N
+","	
+Xue	B-N
+Y	I-N
+","	
+Norton	B-N
+C	I-N
+R	I-N
+","	
+Shutter	B-N
+J	I-N
+R	I-N
+","	
+Maguire	B-N
+M	I-N
+","	
+Sundberg	B-N
+J	I-N
+P	I-N
+","	
+Gallahan	B-N
+D	I-N
+","	
+Closson	B-N
+V	I-N
+","	
+Kitajewski	B-N
+J	I-N
+","	
+Callahan	B-N
+R	I-N
+","	
+et	
+al	
+.	
+Genes	
+Dev	
+.	
+2000	
+;	
+14	
+:	
+1343	
+??	
+1352	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Uyttendaele	B-N
+H	I-N
+","	
+Closson	B-N
+V	I-N
+","	
+Wu	B-N
+G	I-N
+","	
+Roux	B-N
+F	I-N
+","	
+Weinmaster	B-N
+G	I-N
+","	
+Kitajewski	B-N
+J	I-N
+.	
+Microvasc	
+Res	
+.	
+2000	
+;	
+60	
+:	
+91	
+??	
+103	
+.	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Joutel	B-N
+A	I-N
+","	
+Vahedi	B-N
+K	I-N
+","	
+Corpechot	B-N
+C	I-N
+","	
+Troesch	B-N
+A	I-N
+","	
+Chabriat	B-N
+H	I-N
+","	
+Vayssiere	B-N
+C	I-N
+","	
+Cruaud	B-N
+C	I-N
+","	
+Maciazek	B-N
+J	I-N
+","	
+Weissenbach	B-N
+J	I-N
+","	
+Bousser	B-N
+M	I-N
+G	I-N
+","	
+et	
+al	
+.	
+Lancet	
+.	
+1997	
+;	
+350	
+:	
+1511	
+??	
+1515	
+.	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Greenwald	B-N
+I	I-N
+.	
+Genes	
+Dev	
+.	
+1998	
+;	
+12	
+:	
+1751	
+??	
+1762	
+.	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Shalaby	B-N
+F	I-N
+","	
+Rossant	B-N
+J	I-N
+","	
+Yamaguchi	B-N
+T	I-N
+P	I-N
+","	
+Gertsenstein	B-N
+M	I-N
+","	
+Wu	B-N
+X	I-N
+F	I-N
+","	
+Breitman	B-N
+M	I-N
+L	I-N
+","	
+Schuh	B-N
+A	I-N
+C	I-N
+.	
+Nature	
+(	
+London	
+)	
+1995	
+;	
+376	
+:	
+62	
+??	
+66	
+.	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Decimo	B-N
+D	I-N
+","	
+Georges-Labouesse	B-N
+E	I-N
+","	
+Dolle	B-N
+P	I-N
+.	
+Gene	
+Probes	
+:	
+A	
+Practical	
+Approach	
+Book	
+.	
+London	
+:	
+Oxford	
+Univ	
+.	
+Press	
+;	
+1995	
+.	
+pp	
+.	
+46	
+??	
+53	
+.	
+	
+25	
+.	
+Takakura	B-N
+N	I-N
+","	
+Huang	B-N
+X	I-N
+L	I-N
+","	
+Naruse	B-N
+T	I-N
+","	
+Hamaguchi	B-N
+I	I-N
+","	
+Dumont	B-N
+D	I-N
+J	I-N
+","	
+Yancopoulos	B-N
+G	I-N
+D	I-N
+","	
+Suda	B-N
+T	I-N
+.	
+Immunity	
+.	
+1998	
+;	
+9	
+:	
+677	
+??	
+686	
+.	
+[	
+PubMed	
+]	
+	
+26	
+.	
+Conlon	B-N
+R	I-N
+A	I-N
+","	
+Reaume	B-N
+A	I-N
+G	I-N
+","	
+Rossant	B-N
+J	I-N
+.	
+Development	
+(	
+Cambridge	
+","	
+UK	
+)	
+1995	
+;	
+121	
+:	
+1533	
+??	
+1545	
+.	
+[	
+PubMed	
+]	
+	
+27	
+.	
+Bautch	B-N
+V	I-N
+L	I-N
+","	
+Stanford	B-N
+W	I-N
+L	I-N
+","	
+Rapoport	B-N
+R	I-N
+","	
+Russell	B-N
+S	I-N
+","	
+Byrum	B-N
+R	I-N
+S	I-N
+","	
+Futch	B-N
+T	I-N
+A	I-N
+.	
+Dev	
+Dyn	
+.	
+1996	
+;	
+205	
+:	
+1	
+??	
+12	
+.	
+[	
+PubMed	
+]	
+	
+28	
+.	
+Wong	B-N
+P	I-N
+M	I-N
+","	
+Chung	B-N
+S	I-N
+W	I-N
+","	
+Chui	B-N
+D	I-N
+H	I-N
+","	
+Eaves	B-N
+C	I-N
+J	I-N
+.	
+Proc	
+Natl	
+Acad	
+Sci	
+USA	
+.	
+1986	
+;	
+83	
+:	
+3851	
+??	
+3854	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+29	
+.	
+Uyttendaele	B-N
+H	I-N
+","	
+Soriano	B-N
+J	I-N
+V	I-N
+","	
+Montesano	B-N
+R	I-N
+","	
+Kitajewski	B-N
+J	I-N
+.	
+Dev	
+Biol	
+.	
+1998	
+;	
+196	
+:	
+204	
+??	
+217	
+.	
+[	
+PubMed	
+]	
+	
+30	
+.	
+Puri	B-N
+M	I-N
+C	I-N
+","	
+Rossant	B-N
+J	I-N
+","	
+Alitalo	B-N
+K	I-N
+","	
+Bernstein	B-N
+A	I-N
+","	
+Partanen	B-N
+J	I-N
+.	
+EMBO	B-N
+J	I-N
+.	
+1995	
+;	
+14	
+:	
+5884	
+??	
+5891	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+31	
+.	
+Nagy	B-N
+A	I-N
+","	
+Gocza	B-N
+E	I-N
+","	
+Diaz	B-N
+E	I-N
+M	I-N
+","	
+Prideaux	B-N
+V	I-N
+R	I-N
+","	
+Ivanyi	B-N
+E	I-N
+","	
+Markkula	B-N
+M	I-N
+","	
+Rossant	B-N
+J	I-N
+.	
+Development	
+(	
+Cambridge	
+","	
+UK	
+)	
+1990	
+;	
+110	
+:	
+815	
+??	
+821	
+.	
+[	
+PubMed	
+]	
+	
+32	
+.	
+Maisonpierre	B-N
+P	I-N
+C	I-N
+","	
+Suri	B-N
+C	I-N
+","	
+Jones	B-N
+P	I-N
+F	I-N
+","	
+Bartunkova	B-N
+S	I-N
+","	
+Wiegand	B-N
+S	I-N
+J	I-N
+","	
+Radziejewski	B-N
+C	I-N
+","	
+Compton	B-N
+D	I-N
+","	
+McClain	B-N
+J	I-N
+","	
+Aldrich	B-N
+T	I-N
+H	I-N
+","	
+Papadopoulos	B-N
+N	I-N
+","	
+et	
+al	
+.	
+Science	
+.	
+1997	
+;	
+277	
+:	
+55	
+??	
+60	
+.	
+[	
+PubMed	
+]	
+	
+33	
+.	
+Beatus	B-N
+P	I-N
+","	
+Lundkvist	B-N
+J	I-N
+","	
+Oberg	B-N
+C	I-N
+","	
+Lendahl	B-N
+U	I-N
+.	
+Development	
+(	
+Cambridge	
+","	
+UK	
+)	
+1999	
+;	
+126	
+:	
+3925	
+??	
+3935	
+.	
+[	
+PubMed	
+]	
+	
+34	
+.	
+Jhappan	B-N
+C	I-N
+","	
+Gallahan	B-N
+D	I-N
+","	
+Stahle	B-N
+C	I-N
+","	
+Chu	B-N
+E	I-N
+","	
+Smith	B-N
+G	I-N
+H	I-N
+","	
+Merline	B-N
+G	I-N
+","	
+Callahan	B-N
+R	I-N
+.	
+Genes	
+Dev	
+.	
+1992	
+;	
+6	
+:	
+345	
+??	
+355	
+.	
+[	
+PubMed	
+]	
+	
+35	
+.	
+Llimargas	B-N
+M	I-N
+.	
+Development	
+(	
+Cambridge	
+","	
+UK	
+)	
+1999	
+;	
+126	
+:	
+2355	
+??	
+2364	
+.	
+[	
+PubMed	
+]	
+	
+36	
+.	
+Sestan	B-N
+N	I-N
+","	
+Artavanis-Tsakonas	B-N
+S	I-N
+","	
+Rakic	B-N
+P	I-N
+.	
+Science	
+.	
+1999	
+;	
+286	
+:	
+741	
+??	
+746	
+.	
+[	
+PubMed	
+]	

@@ -1,0 +1,2464 @@
+1	
+.	
+Dowling	B-N
+G	I-N
+.	I-N
+B	I-N
+.	
+","	
+Freudenthal	B-N
+W	I-N
+.	
+Acanthosis	
+Nigricans	
+.	
+Proc	
+.	
+R	
+.	
+Soc	
+.	
+Med	
+.	
+1938	
+;	
+31	
+:	
+1147	
+??	
+1150	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Degos	B-N
+R	I-N
+.	
+","	
+Ossipowski	B-N
+B	I-N
+.	
+[	
+Reticulated	
+pigmentary	
+dermatosis	
+of	
+the	
+folds	
+:	
+relation	
+to	
+acanthosis	
+nigricans	
+]	
+Ann	
+.	
+Dermatol	
+.	
+Syphiligr	
+.	
+(	
+Paris	
+)	
+1954	
+;	
+81	
+:	
+147	
+??	
+151	
+.	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Li	B-N
+C	I-N
+.	
+R	I-N
+.	
+","	
+Xing	B-N
+Q	I-N
+.	I-N
+H	I-N
+.	
+","	
+Li	B-N
+M	I-N
+.	
+","	
+Qin	B-N
+W	I-N
+.	
+","	
+Yue	B-N
+X	I-N
+.	I-N
+Z	I-N
+.	
+","	
+Zhang	B-N
+X	I-N
+.	I-N
+J	I-N
+.	
+","	
+Ma	B-N
+H	I-N
+.	I-N
+J	I-N
+.	
+","	
+Wang	B-N
+D	I-N
+.	I-N
+G	I-N
+.	
+","	
+Feng	B-N
+G	I-N
+.	I-N
+Y	I-N
+.	
+","	
+Zhu	B-N
+W	I-N
+.	I-N
+Y	I-N
+.	
+","	
+He	B-N
+L	I-N
+.	
+A	
+gene	
+locus	
+responsible	
+for	
+reticulate	
+pigmented	
+anomaly	
+of	
+the	
+flexures	
+maps	
+to	
+chromosome	
+17p13	
+.	
+3	
+.	
+J	
+.	
+혻	
+Invest	
+.	
+Dermatol	
+.	
+2006	
+;	
+126	
+:	
+1297	
+??	
+1301	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Betz	B-N
+R	I-N
+.	I-N
+C	I-N
+.	
+","	
+Planko	B-N
+L	I-N
+.	
+","	
+Eigelshoven	B-N
+S	I-N
+.	
+","	
+Hanneken	B-N
+S	I-N
+.	
+","	
+Pasternack	B-N
+S	I-N
+.	I-N
+M	I-N
+.	
+","	
+Bussow	B-N
+H	I-N
+.	
+","	
+Van	B-N
+Den	I-N
+Bogaert	I-N
+K	I-N
+.	
+","	
+Wenzel	B-N
+J	I-N
+.	
+","	
+Braun-Falco	B-N
+M	I-N
+.	
+","	
+Rutten	B-N
+A	I-N
+.	
+Loss-of-function	
+mutations	
+in	
+the	
+keratin	
+5	
+gene	
+lead	
+to	
+Dowling-Degos	
+disease	
+.	
+Am	
+.	
+J	
+.	
+Hum	
+.	
+Genet	
+.	
+2006	
+;	
+78	
+:	
+510	
+??	
+519	
+.	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Pickup	B-N
+T	I-N
+.	I-N
+L	I-N
+.	
+","	
+Mutasim	B-N
+D	I-N
+.	I-N
+F	I-N
+.	
+Dowling-Degos	
+disease	
+presenting	
+as	
+hypopigmented	
+macules	
+.	
+J	
+.	
+혻	
+Am	
+.	
+Acad	
+.	
+Dermatol	
+.	
+2011	
+;	
+64	
+:	
+1224	
+??	
+1225	
+.	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Sandhu	B-N
+K	I-N
+.	
+","	
+Saraswat	B-N
+A	I-N
+.	
+","	
+Kanwar	B-N
+A	I-N
+.	I-N
+J	I-N
+.	
+Dowling-Degos	
+disease	
+with	
+dyschromatosis	
+universalis	
+hereditaria-like	
+pigmentation	
+in	
+a	
+family	
+.	
+J	
+.	
+혻	
+Eur	
+.	
+Acad	
+.	
+Dermatol	
+.	
+Venereol	
+.	
+2004	
+;	
+18	
+:	
+702	
+??	
+704	
+.	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Lestringant	B-N
+G	I-N
+.	I-N
+G	I-N
+.	
+","	
+Masouy챕	B-N
+I	I-N
+.	
+","	
+Frossard	B-N
+P	I-N
+.	I-N
+M	I-N
+.	
+","	
+Adeghate	B-N
+E	I-N
+.	
+","	
+Galadari	B-N
+I	I-N
+.	I-N
+H	I-N
+.	
+Co-existence	
+of	
+leukoderma	
+with	
+features	
+of	
+Dowling-Degos	
+disease	
+:	
+reticulate	
+acropigmentation	
+of	
+Kitamura	
+spectrum	
+in	
+five	
+unrelated	
+patients	
+.	
+Dermatology	
+(	
+Basel	
+)	
+1997	
+;	
+195	
+:	
+337	
+??	
+343	
+.	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Lee	B-N
+S	I-N
+.	I-N
+J	I-N
+.	
+","	
+Lee	B-N
+H	I-N
+.	I-N
+J	I-N
+.	
+","	
+Kim	B-N
+D	I-N
+.	I-N
+W	I-N
+.	
+","	
+Jun	B-N
+J	I-N
+.	I-N
+B	I-N
+.	
+","	
+Chung	B-N
+S	I-N
+.	I-N
+L	I-N
+.	
+","	
+Bae	B-N
+H	I-N
+.	I-N
+I	I-N
+.	
+A	
+case	
+of	
+Dowling-Degos	
+disease	
+suggesting	
+an	
+evolutional	
+sequence	
+.	
+J	
+.	
+혻	
+Dermatol	
+.	
+2000	
+;	
+27	
+:	
+591	
+??	
+597	
+.	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Wu	B-N
+Y	I-N
+.	I-N
+H	I-N
+.	
+","	
+Lin	B-N
+Y	I-N
+.	I-N
+C	I-N
+.	
+Generalized	
+Dowling-Degos	
+disease	
+.	
+J	
+.	
+혻	
+Am	
+.	
+Acad	
+.	
+Dermatol	
+.	
+2007	
+;	
+57	
+:	
+327	
+??	
+334	
+.	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Bukhari	B-N
+I	I-N
+.	I-N
+A	I-N
+.	
+","	
+El-Harith	B-N
+E	I-N
+.	I-N
+A	I-N
+.	
+","	
+Stuhrmann	B-N
+M	I-N
+.	
+Dyschromatosis	
+universalis	
+hereditaria	
+as	
+an	
+autosomal	
+recessive	
+disease	
+in	
+five	
+members	
+of	
+one	
+family	
+.	
+J	
+.	
+혻	
+Eur	
+.	
+Acad	
+.	
+Dermatol	
+.	
+Venereol	
+.	
+2006	
+;	
+20	
+:	
+628	
+??	
+629	
+.	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Li	B-N
+M	I-N
+.	
+","	
+Yang	B-N
+L	I-N
+.	I-N
+J	I-N
+.	
+","	
+Li	B-N
+C	I-N
+.	I-N
+R	I-N
+.	
+","	
+Jin	B-N
+C	I-N
+.	
+","	
+Lai	B-N
+M	I-N
+.	
+","	
+Zhang	B-N
+G	I-N
+.	
+","	
+Hu	B-N
+Y	I-N
+.	
+","	
+Ji	B-N
+J	I-N
+.	
+","	
+Yao	B-N
+Z	I-N
+.	
+Mutational	
+spectrum	
+of	
+the	
+ADAR1	
+gene	
+in	
+dyschromatosis	
+symmetrica	
+hereditaria	
+.	
+Arch	
+.	
+Dermatol	
+.	
+Res	
+.	
+2010	
+;	
+302	
+:	
+469	
+??	
+476	
+.	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Choi	B-N
+T	I-N
+.	I-N
+Y	I-N
+.	
+","	
+Kim	B-N
+J	I-N
+.	I-N
+H	I-N
+.	
+","	
+Ko	B-N
+D	I-N
+.	I-N
+H	I-N
+.	
+","	
+Kim	B-N
+C	I-N
+.	I-N
+H	I-N
+.	
+","	
+Hwang	B-N
+J	I-N
+.	I-N
+S	I-N
+.	
+","	
+Ahn	B-N
+S	I-N
+.	
+","	
+Kim	B-N
+S	I-N
+.	I-N
+Y	I-N
+.	
+","	
+Kim	B-N
+C	I-N
+.	I-N
+D	I-N
+.	
+","	
+Lee	B-N
+J	I-N
+.	I-N
+H	I-N
+.	
+","	
+Yoon	B-N
+T	I-N
+.	I-N
+J	I-N
+.	
+Zebrafish	
+as	
+a	
+new	
+model	
+for	
+phenotype-based	
+screening	
+of	
+melanogenic	
+regulatory	
+compounds	
+.	
+Pigment	
+Cell	
+Res	
+.	
+2007	
+;	
+20	
+:	
+120	
+??	
+127	
+.	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Guruharsha	B-N
+K	I-N
+.	I-N
+G	I-N
+.	
+","	
+Kankel	B-N
+M	I-N
+.	I-N
+W	I-N
+.	
+","	
+Artavanis-Tsakonas	B-N
+S	I-N
+.	
+The	
+Notch	
+signalling	
+system	
+:	
+recent	
+insights	
+into	
+the	
+complexity	
+of	
+a	
+conserved	
+pathway	
+.	
+Nat	
+.	
+Rev	
+.	
+Genet	
+.	
+2012	
+;	
+13	
+:	
+654	
+??	
+666	
+.	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Stahl	B-N
+M	I-N
+.	
+","	
+Uemura	B-N
+K	I-N
+.	
+","	
+Ge	B-N
+C	I-N
+.	
+","	
+Shi	B-N
+S	I-N
+.	
+","	
+Tashima	B-N
+Y	I-N
+.	
+","	
+Stanley	B-N
+P	I-N
+.	
+Roles	
+of	
+Pofut1	
+and	
+O-fucose	
+in	
+mammalian	
+Notch	
+signaling	
+.	
+J	
+.	
+혻	
+Biol	
+.	
+Chem	
+.	
+2008	
+;	
+283	
+:	
+13638	
+??	
+13651	
+.	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Yao	B-N
+D	I-N
+.	
+","	
+Huang	B-N
+Y	I-N
+.	
+","	
+Huang	B-N
+X	I-N
+.	
+","	
+Wang	B-N
+W	I-N
+.	
+","	
+Yan	B-N
+Q	I-N
+.	
+","	
+Wei	B-N
+L	I-N
+.	
+","	
+Xin	B-N
+W	I-N
+.	
+","	
+Gerson	B-N
+S	I-N
+.	
+","	
+Stanley	B-N
+P	I-N
+.	
+","	
+Lowe	B-N
+J	I-N
+.	I-N
+B	I-N
+.	
+","	
+Zhou	B-N
+L	I-N
+.	
+Protein	
+O-fucosyltransferase	
+1	
+(	
+Pofut1	
+)	
+regulates	
+lymphoid	
+and	
+myeloid	
+homeostasis	
+through	
+modulation	
+of	
+Notch	
+receptor	
+ligand	
+interactions	
+.	
+Blood	
+.	
+2011	
+;	
+117	
+:	
+5652	
+??	
+5662	
+.	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Wang	B-N
+N	I-N
+.	I-N
+J	I-N
+.	
+","	
+Sanborn	B-N
+Z	I-N
+.	
+","	
+Arnett	B-N
+K	I-N
+.	I-N
+L	I-N
+.	
+","	
+Bayston	B-N
+L	I-N
+.	I-N
+J	I-N
+.	
+","	
+Liao	B-N
+W	I-N
+.	
+","	
+Proby	B-N
+C	I-N
+.	I-N
+M	I-N
+.	
+","	
+Leigh	B-N
+I	I-N
+.	I-N
+M	I-N
+.	
+","	
+Collisson	B-N
+E	I-N
+.	I-N
+A	I-N
+.	
+","	
+Gordon	B-N
+P	I-N
+.	I-N
+B	I-N
+.	
+","	
+Jakkula	B-N
+L	I-N
+.	
+Loss-of-function	
+mutations	
+in	
+Notch	
+receptors	
+in	
+cutaneous	
+and	
+lung	
+squamous	
+cell	
+carcinoma	
+.	
+Proc	
+.	
+Natl	
+.	
+Acad	
+.	
+Sci	
+.	
+USA	
+.	
+2011	
+;	
+108	
+:	
+17761	
+??	
+17766	
+.	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Garg	B-N
+V	I-N
+.	
+","	
+Muth	B-N
+A	I-N
+.	I-N
+N	I-N
+.	
+","	
+Ransom	B-N
+J	I-N
+.	I-N
+F	I-N
+.	
+","	
+Schluterman	B-N
+M	I-N
+.	I-N
+K	I-N
+.	
+","	
+Barnes	B-N
+R	I-N
+.	
+","	
+King	B-N
+I	I-N
+.	I-N
+N	I-N
+.	
+","	
+Grossfeld	B-N
+P	I-N
+.	I-N
+D	I-N
+.	
+","	
+Srivastava	B-N
+D	I-N
+.	
+Mutations	
+in	
+NOTCH1	
+cause	
+aortic	
+valve	
+disease	
+.	
+Nature	
+.	
+2005	
+;	
+437	
+:	
+270	
+??	
+274	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Isidor	B-N
+B	I-N
+.	
+","	
+Lindenbaum	B-N
+P	I-N
+.	
+","	
+Pichon	B-N
+O	I-N
+.	
+","	
+B챕zieau	B-N
+S	I-N
+.	
+","	
+Dina	B-N
+C	I-N
+.	
+","	
+Jacquemont	B-N
+S	I-N
+.	
+","	
+Martin-Coignard	B-N
+D	I-N
+.	
+","	
+Thauvin-Robinet	B-N
+C	I-N
+.	
+","	
+Le	B-N
+Merrer	I-N
+M	I-N
+.	
+","	
+Mandel	B-N
+J	I-N
+.	I-N
+L	I-N
+.	
+Truncating	
+mutations	
+in	
+the	
+last	
+exon	
+of	
+NOTCH2	
+cause	
+a	
+rare	
+skeletal	
+disorder	
+with	
+osteoporosis	
+.	
+Nat	
+.	
+Genet	
+.	
+2011	
+;	
+43	
+:	
+306	
+??	
+308	
+.	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Simpson	B-N
+M	I-N
+.	I-N
+A	I-N
+.	
+","	
+Irving	B-N
+M	I-N
+.	I-N
+D	I-N
+.	
+","	
+Asilmaz	B-N
+E	I-N
+.	
+","	
+Gray	B-N
+M	I-N
+.	I-N
+J	I-N
+.	
+","	
+Dafou	B-N
+D	I-N
+.	
+","	
+Elmslie	B-N
+F	I-N
+.	I-N
+V	I-N
+.	
+","	
+Mansour	B-N
+S	I-N
+.	
+","	
+Holder	B-N
+S	I-N
+.	I-N
+E	I-N
+.	
+","	
+Brain	B-N
+C	I-N
+.	I-N
+E	I-N
+.	
+","	
+Burton	B-N
+B	I-N
+.	I-N
+K	I-N
+.	
+Mutations	
+in	
+NOTCH2	
+cause	
+Hajdu-Cheney	
+syndrome	
+","	
+a	
+disorder	
+of	
+severe	
+and	
+progressive	
+bone	
+loss	
+.	
+Nat	
+.	
+Genet	
+.	
+2011	
+;	
+43	
+:	
+303	
+??	
+305	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Joutel	B-N
+A	I-N
+.	
+","	
+Corpechot	B-N
+C	I-N
+.	
+","	
+Ducros	B-N
+A	I-N
+.	
+","	
+Vahedi	B-N
+K	I-N
+.	
+","	
+Chabriat	B-N
+H	I-N
+.	
+","	
+Mouton	B-N
+P	I-N
+.	
+","	
+Alamowitch	B-N
+S	I-N
+.	
+","	
+Domenga	B-N
+V	I-N
+.	
+","	
+C챕cillion	B-N
+M	I-N
+.	
+","	
+Marechal	B-N
+E	I-N
+.	
+Notch3	
+mutations	
+in	
+CADASIL	
+","	
+a	
+hereditary	
+adult-onset	
+condition	
+causing	
+stroke	
+and	
+dementia	
+.	
+Nature	
+.	
+1996	
+;	
+383	
+:	
+707	
+??	
+710	
+.	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Li	B-N
+L	I-N
+.	
+","	
+Krantz	B-N
+I	I-N
+.	I-N
+D	I-N
+.	
+","	
+Deng	B-N
+Y	I-N
+.	
+","	
+Genin	B-N
+A	I-N
+.	
+","	
+Banta	B-N
+A	I-N
+.	I-N
+B	I-N
+.	
+","	
+Collins	B-N
+C	I-N
+.	I-N
+C	I-N
+.	
+","	
+Qi	B-N
+M	I-N
+.	
+","	
+Trask	B-N
+B	I-N
+.	I-N
+J	I-N
+.	
+","	
+Kuo	B-N
+W	I-N
+.	I-N
+L	I-N
+.	
+","	
+Cochran	B-N
+J	I-N
+.	
+Alagille	
+syndrome	
+is	
+caused	
+by	
+mutations	
+in	
+human	
+Jagged1	
+","	
+which	
+encodes	
+a	
+ligand	
+for	
+Notch1	
+.	
+Nat	
+.	
+Genet	
+.	
+1997	
+;	
+16	
+:	
+243	
+??	
+251	
+.	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Bauer	B-N
+R	I-N
+.	I-N
+C	I-N
+.	
+","	
+Laney	B-N
+A	I-N
+.	I-N
+O	I-N
+.	
+","	
+Smith	B-N
+R	I-N
+.	
+","	
+Gerfen	B-N
+J	I-N
+.	
+","	
+Morrissette	B-N
+J	I-N
+.	I-N
+J	I-N
+.	
+","	
+Woyciechowski	B-N
+S	I-N
+.	
+","	
+Garbarini	B-N
+J	I-N
+.	
+","	
+Loomes	B-N
+K	I-N
+.	I-N
+M	I-N
+.	
+","	
+Krantz	B-N
+I	I-N
+.	I-N
+D	I-N
+.	
+","	
+Urban	B-N
+Z	I-N
+.	
+Jagged1	
+(	
+JAG1	
+)	
+mutations	
+in	
+patients	
+with	
+tetralogy	
+of	
+Fallot	
+or	
+pulmonic	
+stenosis	
+.	
+Hum	
+.	
+Mutat	
+.	
+2010	
+;	
+31	
+:	
+594	
+??	
+601	
+.	
+[	
+PubMed	
+]	
+	
+23	
+.	
+McElhinney	B-N
+D	I-N
+.	I-N
+B	I-N
+.	
+","	
+Krantz	B-N
+I	I-N
+.	I-N
+D	I-N
+.	
+","	
+Bason	B-N
+L	I-N
+.	
+","	
+Piccoli	B-N
+D	I-N
+.	I-N
+A	I-N
+.	
+","	
+Emerick	B-N
+K	I-N
+.	I-N
+M	I-N
+.	
+","	
+Spinner	B-N
+N	I-N
+.	I-N
+B	I-N
+.	
+","	
+Goldmuntz	B-N
+E	I-N
+.	
+Analysis	
+of	
+cardiovascular	
+phenotype	
+and	
+genotype-phenotype	
+correlation	
+in	
+individuals	
+with	
+a	
+JAG1	
+mutation	
+and	
+/	
+or	
+Alagille	
+syndrome	
+.	
+Circulation	
+.	
+2002	
+;	
+106	
+:	
+2567	
+??	
+2574	
+.	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Ellisen	B-N
+L	I-N
+.	I-N
+W	I-N
+.	
+","	
+Bird	B-N
+J	I-N
+.	
+","	
+West	B-N
+D	I-N
+.	I-N
+C	I-N
+.	
+","	
+Soreng	B-N
+A	I-N
+.	I-N
+L	I-N
+.	
+","	
+Reynolds	B-N
+T	I-N
+.	I-N
+C	I-N
+.	
+","	
+Smith	B-N
+S	I-N
+.	I-N
+D	I-N
+.	
+","	
+Sklar	B-N
+J	I-N
+.	
+TAN-1	
+","	
+the	
+human	
+homolog	
+of	
+the	
+Drosophila	
+notch	
+gene	
+","	
+is	
+broken	
+by	
+chromosomal	
+translocations	
+in	
+T	
+lymphoblastic	
+neoplasms	
+.	
+Cell	
+.	
+1991	
+;	
+66	
+:	
+649	
+??	
+661	
+.	
+[	
+PubMed	
+]	
+	
+25	
+.	
+Bulman	B-N
+M	I-N
+.	I-N
+P	I-N
+.	
+","	
+Kusumi	B-N
+K	I-N
+.	
+","	
+Frayling	B-N
+T	I-N
+.	I-N
+M	I-N
+.	
+","	
+McKeown	B-N
+C	I-N
+.	
+","	
+Garrett	B-N
+C	I-N
+.	
+","	
+Lander	B-N
+E	I-N
+.	I-N
+S	I-N
+.	
+","	
+Krumlauf	B-N
+R	I-N
+.	
+","	
+Hattersley	B-N
+A	I-N
+.	I-N
+T	I-N
+.	
+","	
+Ellard	B-N
+S	I-N
+.	
+","	
+Turnpenny	B-N
+P	I-N
+.	I-N
+D	I-N
+.	
+Mutations	
+in	
+the	
+human	
+delta	
+homologue	
+","	
+DLL3	
+","	
+cause	
+axial	
+skeletal	
+defects	
+in	
+spondylocostal	
+dysostosis	
+.	
+Nat	
+.	
+Genet	
+.	
+2000	
+;	
+24	
+:	
+438	
+??	
+441	
+.	
+[	
+PubMed	
+]	
+	
+26	
+.	
+McKellar	B-N
+S	I-N
+.	I-N
+H	I-N
+.	
+","	
+Tester	B-N
+D	I-N
+.	I-N
+J	I-N
+.	
+","	
+Yagubyan	B-N
+M	I-N
+.	
+","	
+Majumdar	B-N
+R	I-N
+.	
+","	
+Ackerman	B-N
+M	I-N
+.	I-N
+J	I-N
+.	
+","	
+Sundt	B-N
+T	I-N
+.	I-N
+M	I-N
+.	
+","	
+3rd	
+Novel	
+NOTCH1	
+mutations	
+in	
+patients	
+with	
+bicuspid	
+aortic	
+valve	
+disease	
+and	
+thoracic	
+aortic	
+aneurysms	
+.	
+J	
+.	
+혻	
+Thorac	
+.	
+Cardiovasc	
+.	
+Surg	
+.	
+2007	
+;	
+134	
+:	
+290	
+??	
+296	
+.	
+[	
+PubMed	
+]	
+	
+27	
+.	
+Lu	B-N
+F	I-N
+.	
+","	
+Morrissette	B-N
+J	I-N
+.	I-N
+J	I-N
+.	
+","	
+Spinner	B-N
+N	I-N
+.	I-N
+B	I-N
+.	
+Conditional	
+JAG1	
+mutation	
+shows	
+the	
+developing	
+heart	
+is	
+more	
+sensitive	
+than	
+developing	
+liver	
+to	
+JAG1	
+dosage	
+.	
+Am	
+.	
+J	
+.	
+Hum	
+.	
+Genet	
+.	
+2003	
+;	
+72	
+:	
+1065	
+??	
+1070	
+.	
+[	
+PubMed	
+]	
+	
+28	
+.	
+Kamath	B-N
+B	I-N
+.	I-N
+M	I-N
+.	
+","	
+Bauer	B-N
+R	I-N
+.	I-N
+C	I-N
+.	
+","	
+Loomes	B-N
+K	I-N
+.	I-N
+M	I-N
+.	
+","	
+Chao	B-N
+G	I-N
+.	
+","	
+Gerfen	B-N
+J	I-N
+.	
+","	
+Hutchinson	B-N
+A	I-N
+.	
+","	
+Hardikar	B-N
+W	I-N
+.	
+","	
+Hirschfield	B-N
+G	I-N
+.	
+","	
+Jara	B-N
+P	I-N
+.	
+","	
+Krantz	B-N
+I	I-N
+.	I-N
+D	I-N
+.	
+NOTCH2	
+mutations	
+in	
+Alagille	
+syndrome	
+.	
+J	
+.	
+혻	
+Med	
+.	
+Genet	
+.	
+2012	
+;	
+49	
+:	
+138	
+??	
+144	
+.	
+[	
+PubMed	
+]	
+	
+29	
+.	
+Hassed	B-N
+S	I-N
+.	I-N
+J	I-N
+.	
+","	
+Wiley	B-N
+G	I-N
+.	I-N
+B	I-N
+.	
+","	
+Wang	B-N
+S	I-N
+.	
+","	
+Lee	B-N
+J	I-N
+.	I-N
+Y	I-N
+.	
+","	
+Li	B-N
+S	I-N
+.	
+","	
+Xu	B-N
+W	I-N
+.	
+","	
+Zhao	B-N
+Z	I-N
+.	I-N
+J	I-N
+.	
+","	
+Mulvihill	B-N
+J	I-N
+.	I-N
+J	I-N
+.	
+","	
+Robertson	B-N
+J	I-N
+.	
+","	
+Warner	B-N
+J	I-N
+.	
+","	
+Gaffney	B-N
+P	I-N
+.	I-N
+M	I-N
+.	
+RBPJ	
+mutations	
+identified	
+in	
+two	
+families	
+affected	
+by	
+Adams-Oliver	
+syndrome	
+.	
+Am	
+.	
+J	
+.	
+Hum	
+.	
+Genet	
+.	
+2012	
+;	
+91	
+:	
+391	
+??	
+395	
+.	
+[	
+PubMed	
+]	
+	
+30	
+.	
+Shi	B-N
+S	I-N
+.	
+","	
+Stanley	B-N
+P	I-N
+.	
+Protein	
+O-fucosyltransferase	
+1	
+is	
+an	
+essential	
+component	
+of	
+Notch	
+signaling	
+pathways	
+.	
+Proc	
+.	
+Natl	
+.	
+Acad	
+.	
+Sci	
+.	
+USA	
+.	
+2003	
+;	
+100	
+:	
+5234	
+??	
+5239	
+.	
+[	
+PubMed	
+]	
+	
+31	
+.	
+Moriyama	B-N
+M	I-N
+.	
+","	
+Osawa	B-N
+M	I-N
+.	
+","	
+Mak	B-N
+S	I-N
+.	I-N
+S	I-N
+.	
+","	
+Ohtsuka	B-N
+T	I-N
+.	
+","	
+Yamamoto	B-N
+N	I-N
+.	
+","	
+Han	B-N
+H	I-N
+.	
+","	
+Delmas	B-N
+V	I-N
+.	
+","	
+Kageyama	B-N
+R	I-N
+.	
+","	
+Beermann	B-N
+F	I-N
+.	
+","	
+Larue	B-N
+L	I-N
+.	
+","	
+Nishikawa	B-N
+S	I-N
+.	
+Notch	
+signaling	
+via	
+Hes1	
+transcription	
+factor	
+maintains	
+survival	
+of	
+melanoblasts	
+and	
+melanocyte	
+stem	
+cells	
+.	
+J	
+.	
+혻	
+Cell	
+Biol	
+.	
+2006	
+;	
+173	
+:	
+333	
+??	
+339	
+.	
+[	
+PubMed	
+]	
+	
+32	
+.	
+Schouwey	B-N
+K	I-N
+.	
+","	
+Delmas	B-N
+V	I-N
+.	
+","	
+Larue	B-N
+L	I-N
+.	
+","	
+Zimber-Strobl	B-N
+U	I-N
+.	
+","	
+Strobl	B-N
+L	I-N
+.	I-N
+J	I-N
+.	
+","	
+Radtke	B-N
+F	I-N
+.	
+","	
+Beermann	B-N
+F	I-N
+.	
+Notch1	
+and	
+Notch2	
+receptors	
+influence	
+progressive	
+hair	
+graying	
+in	
+a	
+dose-dependent	
+manner	
+.	
+Dev	
+.	
+Dyn	
+.	
+2007	
+;	
+236	
+:	
+282	
+??	
+289	
+.	
+[	
+PubMed	
+]	
+	
+33	
+.	
+Lin	B-N
+H	I-N
+.	I-N
+Y	I-N
+.	
+","	
+Kao	B-N
+C	I-N
+.	I-N
+H	I-N
+.	
+","	
+Lin	B-N
+K	I-N
+.	I-N
+M	I-N
+.	
+","	
+Kaartinen	B-N
+V	I-N
+.	
+","	
+Yang	B-N
+L	I-N
+.	I-N
+T	I-N
+.	
+Notch	
+signaling	
+regulates	
+late-stage	
+epidermal	
+differentiation	
+and	
+maintains	
+postnatal	
+hair	
+cycle	
+homeostasis	
+.	
+PLoS	
+ONE	
+.	
+2011	
+;	
+6	
+:	
+e15842	
+.	
+[	
+PubMed	
+]	
+	
+34	
+.	
+Kumano	B-N
+K	I-N
+.	
+","	
+Masuda	B-N
+S	I-N
+.	
+","	
+Sata	B-N
+M	I-N
+.	
+","	
+Saito	B-N
+T	I-N
+.	
+","	
+Lee	B-N
+S	I-N
+.	
+Y	I-N
+.	
+","	
+Sakata-Yanagimoto	B-N
+M	I-N
+.	
+","	
+Tomita	B-N
+T	I-N
+.	
+","	
+Iwatsubo	B-N
+T	I-N
+.	
+","	
+Natsugari	B-N
+H	I-N
+.	
+","	
+Kurokawa	B-N
+M	I-N
+.	
+Both	
+Notch1	
+and	
+Notch2	
+contribute	
+to	
+혻	
+the	
+regulation	
+of	
+melanocyte	
+homeostasis	
+.	
+Pigment	
+Cell	
+Melanoma	
+Res	
+.	
+2008	
+;	
+21	
+:	
+70	
+??	
+78	
+.	
+[	
+PubMed	
+]	
+	
+35	
+.	
+Aubin-Houzelstein	B-N
+G	I-N
+.	
+","	
+Djian-Zaouche	B-N
+J	I-N
+.	
+","	
+Bernex	B-N
+F	I-N
+.	
+","	
+Gadin	B-N
+S	I-N
+.	
+","	
+Delmas	B-N
+V	I-N
+.	
+","	
+Larue	B-N
+L	I-N
+.	
+","	
+Panthier	B-N
+J	I-N
+.	I-N
+J	I-N
+.	
+Melanoblasts	
+??	
+proper	
+location	
+and	
+timed	
+differentiation	
+depend	
+on	
+Notch	
+/	
+RBP-J	
+signaling	
+in	
+postnatal	
+hair	
+follicles	
+.	
+J	
+.	
+혻	
+Invest	
+.	
+Dermatol	
+.	
+2008	
+;	
+128	
+:	
+2686	
+??	
+2695	
+.	
+[	
+PubMed	
+]	
+	
+36	
+.	
+Shibahara	B-N
+S	I-N
+.	
+","	
+Takeda	B-N
+K	I-N
+.	
+","	
+Yasumoto	B-N
+K	I-N
+.	
+","	
+Udono	B-N
+T	I-N
+.	
+","	
+Watanabe	B-N
+K	I-N
+.	
+","	
+Saito	B-N
+H	I-N
+.	
+","	
+Takahashi	B-N
+K	I-N
+.	
+Microphthalmia-associated	
+transcription	
+factor	
+(	
+MITF	
+)	
+:	
+multiplicity	
+in	
+structure	
+","	
+function	
+","	
+and	
+regulation	
+.	
+J	
+.	
+혻	
+Investig	
+.	
+Dermatol	
+.	
+Symp	
+.	
+Proc	
+.	
+2001	
+;	
+6	
+:	
+99	
+??	
+104	
+.	
+[	
+PubMed	
+]	
+	
+37	
+.	
+Levy	B-N
+C	I-N
+.	
+","	
+Khaled	B-N
+M	I-N
+.	
+","	
+Fisher	B-N
+D	I-N
+.	I-N
+E	I-N
+.	
+MITF	
+:	
+master	
+regulator	
+of	
+melanocyte	
+development	
+and	
+melanoma	
+oncogene	
+.	
+Trends	
+Mol	
+.	
+Med	
+.	
+2006	
+;	
+12	
+:	
+406	
+??	
+414	
+.	
+[	
+PubMed	
+]	

@@ -1,0 +1,997 @@
+Adib-Samii	B-N
+P	I-N
+","	
+Brice	B-N
+G	I-N
+","	
+Martin	B-N
+RJ	I-N
+","	
+et	
+al	
+.	
+Clinical	
+spectrum	
+of	
+CADASIL	
+and	
+the	
+effect	
+of	
+cardiovascular	
+risk	
+factors	
+on	
+phenotype	
+:	
+study	
+in	
+200	
+consecutively	
+recruited	
+individuals	
+.	
+Stroke	
+.	
+2010	
+;	
+41	
+:	
+630	
+–	
+634	
+.	
+[	
+PubMed	
+]	
+	
+Artavanis-Tsakonas	B-N
+S	I-N
+","	
+Matsuno	B-N
+K	I-N
+","	
+Fortini	B-N
+ME	I-N
+.	
+Notch	
+signaling	
+.	
+Science	
+.	
+1995	
+;	
+268	
+:	
+225	
+–	
+232	
+.	
+[	
+PubMed	
+]	
+	
+Chabriat	B-N
+H	I-N
+","	
+Levy	B-N
+C	I-N
+","	
+Taillia	B-N
+H	I-N
+","	
+et	
+al	
+.	
+Patterns	
+of	
+MRI	
+lesions	
+in	
+CADASIL	
+.	
+Neurology	
+.	
+1998	
+;	
+51	
+:	
+452	
+–	
+457	
+.	
+[	
+PubMed	
+]	
+	
+Dichgans	B-N
+M	I-N
+","	
+Mayer	B-N
+M	I-N
+","	
+Uttner	B-N
+I	I-N
+","	
+et	
+al	
+.	
+The	
+phenotypic	
+spectrum	
+of	
+CADASIL	
+:	
+clinical	
+findings	
+in	
+102	
+cases	
+.	
+Ann	
+Neurol	
+.	
+1998	
+;	
+44	
+:	
+731	
+–	
+739	
+.	
+[	
+PubMed	
+]	
+	
+Dichgans	B-N
+M	I-N
+","	
+Ludwig	B-N
+H	I-N
+","	
+Müller-Höcker	B-N
+J	I-N
+","	
+et	
+al	
+.	
+Small	
+inframe	
+deletions	
+and	
+missense	
+mutations	
+in	
+CADASIL	
+:	
+3D	
+models	
+predict	
+misfolding	
+of	
+Notch3	
+EGF-like	
+repeat	
+domains	
+.	
+Eur	
+J	
+Hum	
+Genet	
+.	
+2000	
+;	
+8	
+:	
+280	
+–	
+285	
+.	
+[	
+PubMed	
+]	
+	
+Dotti	B-N
+MT	I-N
+","	
+Federico	B-N
+A	I-N
+","	
+Mazzei	B-N
+R	I-N
+","	
+et	
+al	
+.	
+The	
+spectrum	
+of	
+Notch3	
+mutations	
+in	
+28	
+Italian	
+CADASIL	
+families	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+.	
+2005	
+;	
+76	
+:	
+736	
+–	
+738	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+Fouillade	B-N
+C	I-N
+","	
+Chabriat	B-N
+H	I-N
+","	
+Riant	B-N
+F	I-N
+","	
+et	
+al	
+.	
+Activating	
+NOTCH3	
+mutation	
+in	
+a	
+patient	
+with	
+small-vessel-disease	
+of	
+the	
+brain	
+.	
+Hum	
+Mutat	
+.	
+2008	
+;	
+29	
+:	
+452	
+.	
+[	
+PubMed	
+]	
+	
+Joutel	B-N
+A	I-N
+","	
+Vahedi	B-N
+K	I-N
+","	
+Corpechot	B-N
+C	I-N
+","	
+et	
+al	
+.	
+Strong	
+clustering	
+and	
+stereotyped	
+nature	
+of	
+Notch3	
+mutations	
+in	
+CADASIL	
+patients	
+.	
+Lancet	
+.	
+1997	
+;	
+350	
+:	
+1511	
+–	
+1515	
+.	
+[	
+PubMed	
+]	
+	
+Joutel	B-N
+A	I-N
+","	
+Favrole	B-N
+P	I-N
+","	
+Labauge	B-N
+P	I-N
+","	
+et	
+al	
+.	
+Skin	
+biopsy	
+immunostaining	
+with	
+a	
+Notch3	
+monoclonal	
+antibody	
+for	
+CADASIL	
+diagnosis	
+.	
+Lancet	
+.	
+2001	
+;	
+358	
+:	
+2049	
+–	
+2051	
+.	
+[	
+PubMed	
+]	
+	
+Kim	B-N
+Y	I-N
+","	
+Choi	B-N
+EJ	I-N
+","	
+Choi	B-N
+CG	I-N
+","	
+et	
+al	
+.	
+Characteristics	
+of	
+CADASIL	
+in	
+Korea	
+:	
+a	
+novel	
+cysteine-sparing	
+Notch3	
+mutation	
+.	
+Neurology	
+.	
+2006	
+;	
+66	
+:	
+1511	
+–	
+1516	
+.	
+[	
+PubMed	
+]	
+	
+Lacombe	B-N
+P	I-N
+","	
+Oligo	B-N
+C	I-N
+","	
+Domenga	B-N
+V	I-N
+","	
+et	
+al	
+.	
+Impaired	
+cerebral	
+vasoreactivity	
+in	
+a	
+transgenic	
+mouse	
+model	
+of	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+arteriopathy	
+.	
+Stroke	
+.	
+2005	
+;	
+36	
+:	
+1053	
+–	
+1058	
+.	
+[	
+PubMed	
+]	
+	
+Lesnik	B-N
+Oberstein	I-N
+SA	I-N
+","	
+van	B-N
+Duinen	I-N
+SG	I-N
+","	
+van	B-N
+den	I-N
+Boom	I-N
+R	I-N
+","	
+et	
+al	
+.	
+Evaluation	
+of	
+diagnostic	
+NOTCH3	
+immunostaining	
+in	
+CADASIL	
+.	
+Acta	
+Neuropathol	
+.	
+2003	
+;	
+106	
+:	
+107	
+–	
+111	
+.	
+[	
+PubMed	
+]	
+	
+Malandrini	B-N
+A	I-N
+","	
+Gaudiano	B-N
+C	I-N
+","	
+Gambelli	B-N
+S	I-N
+","	
+et	
+al	
+.	
+Diagnostic	
+value	
+of	
+ultrastructural	
+skin	
+biopsy	
+studies	
+in	
+CADASIL	
+.	
+Neurology	
+.	
+2007	
+;	
+68	
+:	
+1430	
+–	
+1432	
+.	
+[	
+PubMed	
+]	
+	
+Markus	B-N
+HS	I-N
+","	
+Martin	B-N
+RJ	I-N
+","	
+Simpson	B-N
+MA	I-N
+","	
+et	
+al	
+.	
+Diagnostic	
+strategies	
+in	
+CADASIL	
+.	
+Neurology	
+.	
+2002	
+;	
+59	
+:	
+1134	
+–	
+1138	
+.	
+[	
+PubMed	
+]	
+	
+Mazzei	B-N
+R	I-N
+","	
+Conforti	B-N
+FL	I-N
+","	
+Lanza	B-N
+PL	I-N
+","	
+et	
+al	
+.	
+A	
+novel	
+Notch3	
+gene	
+mutation	
+not	
+involving	
+a	
+cysteine	
+residue	
+in	
+an	
+Italian	
+family	
+with	
+CADASIL	
+.	
+Neurology	
+.	
+2004	
+;	
+63	
+:	
+561	
+–	
+564	
+.	
+[	
+PubMed	
+]	
+	
+Oberstein	B-N
+SA	I-N
+","	
+Ferrari	B-N
+MD	I-N
+","	
+Bakker	B-N
+E	I-N
+","	
+et	
+al	
+.	
+Diagnostic	
+Notch3	
+sequence	
+analysis	
+in	
+CADASIL	
+:	
+three	
+new	
+mutations	
+in	
+Dutch	
+patients	
+.	
+Dutch	
+CADASIL	
+Research	
+Group	
+.	
+Neurology	
+.	
+1999	
+;	
+52	
+:	
+1913	
+–	
+1915	
+.	
+[	
+PubMed	
+]	
+	
+Peters	B-N
+N	I-N
+","	
+Opherk	B-N
+C	I-N
+","	
+Bergmann	B-N
+T	I-N
+","	
+et	
+al	
+.	
+Spectrum	
+of	
+mutations	
+in	
+biopsy-proven	
+CADASIL	
+:	
+implications	
+for	
+diagnostic	
+strategies	
+.	
+Arch	
+Neurol	
+.	
+2005	
+;	
+62	
+:	
+1091	
+–	
+1094	
+.	
+[	
+PubMed	
+]	
+	
+Quattrone	B-N
+A	I-N
+","	
+Mazzei	B-N
+R	I-N
+.	
+Cysteine-sparing	
+notch3	
+mutations	
+:	
+cadasil	
+or	
+cadasil	
+variants	
+?	
+Neurology	
+.	
+2009	
+;	
+72	
+:	
+2135	
+–	
+2136	
+.	
+[	
+PubMed	
+]	
+	
+Ragno	B-N
+M	I-N
+","	
+Fabrizi	B-N
+GM	I-N
+","	
+Cacchiò	B-N
+G	I-N
+","	
+et	
+al	
+.	
+Two	
+novel	
+Italian	
+CADASIL	
+families	
+from	
+Central	
+Italy	
+with	
+mutation	
+CGCTGC	
+at	
+codon	
+1006	
+in	
+the	
+exon	
+19	
+Notch3	
+gene	
+.	
+Neurol	
+Sci	
+.	
+2006	
+;	
+27	
+:	
+252	
+–	
+256	
+.	
+[	
+PubMed	
+]	
+	
+Santa	B-N
+Y	I-N
+","	
+Uyama	B-N
+E	I-N
+","	
+Chui	B-N
+DH	I-N
+","	
+et	
+al	
+.	
+Genetic	
+","	
+clinical	
+and	
+pathological	
+studies	
+of	
+CADASIL	
+in	
+Japan	
+:	
+a	
+partial	
+contribution	
+of	
+Notch3	
+mutations	
+and	
+implications	
+of	
+smooth	
+muscle	
+cell	
+degeneration	
+for	
+the	
+pathogenesis	
+.	
+J	
+Neurol	
+Sci	
+.	
+2003	
+;	
+212	
+:	
+79	
+–	
+84	
+.	
+[	
+PubMed	
+]	
+	
+Scheid	B-N
+R	I-N
+","	
+Heinritz	B-N
+W	I-N
+","	
+Leyhe	B-N
+T	I-N
+","	
+et	
+al	
+.	
+Cysteine-sparing	
+notch3	
+mutations	
+:	
+cadasil	
+or	
+cadasil	
+variants	
+?	
+Neurology	
+.	
+2008	
+;	
+71	
+:	
+774	
+–	
+776	
+.	
+[	
+PubMed	
+]	
+	
+Singhal	B-N
+S	I-N
+","	
+Bevan	B-N
+S	I-N
+","	
+Barrick	B-N
+T	I-N
+","	
+et	
+al	
+.	
+The	
+influence	
+of	
+genetic	
+and	
+cardiovascular	
+risk	
+factors	
+on	
+the	
+CADASIL	
+phenotype	
+.	
+Brain	
+.	
+2004	
+;	
+127	
+:	
+2031	
+–	
+2038	
+.	
+[	
+PubMed	
+]	
+	
+Sourander	B-N
+P	I-N
+","	
+Wålinder	B-N
+J	I-N
+.	
+Hereditary	
+multi-infarct	
+dementia	
+.	
+Morphological	
+and	
+clinical	
+studies	
+of	
+a	
+new	
+disease	
+.	
+Acta	
+Neuropathol	
+.	
+1977	
+;	
+39	
+:	
+247	
+–	
+254	
+.	
+[	
+PubMed	
+]	
+	
+Tournier-Lasserve	B-N
+E	I-N
+","	
+Joutel	B-N
+A	I-N
+","	
+Melki	B-N
+J	I-N
+","	
+et	
+al	
+.	
+Cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+maps	
+to	
+chromosome	
+19q12	
+.	
+Nat	
+Genet	
+.	
+1993	
+;	
+3	
+:	
+256	
+–	
+259	
+.	
+[	
+PubMed	
+]	
+	
+Uchino	B-N
+M	I-N
+","	
+Hirano	B-N
+T	I-N
+","	
+Uyama	B-N
+E	I-N
+","	
+et	
+al	
+.	
+Cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+(	
+CADASIL	
+)	
+and	
+CADASIL-like	
+disorders	
+in	
+Japan	
+.	
+Ann	
+N	
+Y	
+Acad	
+Sci	
+.	
+2002	
+;	
+977	
+:	
+273	
+–	
+278	
+.	
+[	
+PubMed	
+]	

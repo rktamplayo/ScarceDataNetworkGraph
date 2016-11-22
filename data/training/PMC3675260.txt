@@ -1,0 +1,2038 @@
+1	
+.	
+Williams	B-N
+J	I-N
+.	I-N
+O	I-N
+.	
+","	
+Schrum	B-N
+D	I-N
+.	
+Congenital	
+fibrosarcoma	
+;	
+report	
+of	
+a	
+case	
+in	
+a	
+newborn	
+infant	
+.	
+AMA	
+Arch	
+.	
+Pathol	
+.	
+1951	
+;	
+51	
+:	
+548	
+??	
+552	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Stout	B-N
+A	I-N
+.	I-N
+P	I-N
+.	
+Juvenile	
+fibromatoses	
+.	
+Cancer	
+.	
+1954	
+;	
+7	
+:	
+953	
+??	
+978	
+.	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Kauffman	B-N
+S	I-N
+.	I-N
+L	I-N
+.	
+","	
+Stout	B-N
+A	I-N
+.	I-N
+P	I-N
+.	
+Congenital	
+mesenchymal	
+tumors	
+.	
+Cancer	
+.	
+1965	
+;	
+18	
+:	
+460	
+??	
+476	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Enzinger	B-N
+F	I-N
+.	I-N
+M	I-N
+.	
+Fibrous	
+hamartoma	
+of	
+infancy	
+.	
+Cancer	
+.	
+1965	
+;	
+18	
+:	
+241	
+??	
+248	
+.	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Chung	B-N
+E	I-N
+.	I-N
+B	I-N
+.	
+","	
+Enzinger	B-N
+F	I-N
+.	I-N
+M	I-N
+.	
+Infantile	
+myofibromatosis	
+.	
+Cancer	
+.	
+1981	
+;	
+48	
+:	
+1807	
+??	
+1818	
+.	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Wiswell	B-N
+T	I-N
+.	I-N
+E	I-N
+.	
+","	
+Davis	B-N
+J	I-N
+.	
+","	
+Cunningham	B-N
+B	I-N
+.	I-N
+E	I-N
+.	
+","	
+Solenberger	B-N
+R	I-N
+.	
+","	
+Thomas	B-N
+P	I-N
+.	I-N
+J	I-N
+.	
+Infantile	
+myofibromatosis	
+:	
+the	
+most	
+common	
+fibrous	
+tumor	
+of	
+infancy	
+.	
+J	
+.	
+혻	
+Pediatr	
+.	
+Surg	
+.	
+1988	
+;	
+23	
+:	
+315	
+??	
+318	
+.	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Leaute-Labreze	B-N
+C	I-N
+.	
+","	
+Labarthe	B-N
+M	I-N
+.	I-N
+P	I-N
+.	
+","	
+Blanc	B-N
+J	I-N
+.	I-N
+F	I-N
+.	
+","	
+Sanyas	B-N
+P	I-N
+.	
+","	
+Dosquet	B-N
+C	I-N
+.	
+","	
+Taieb	B-N
+A	I-N
+.	
+Self-healing	
+generalized	
+infantile	
+myofibromatosis	
+with	
+elevated	
+urinary	
+bFGF	
+.	
+Pediatr	
+.	
+Dermatol	
+.	
+2001	
+;	
+18	
+:	
+305	
+??	
+307	
+.	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Auriti	B-N
+C	I-N
+.	
+","	
+Kieran	B-N
+M	I-N
+.	I-N
+W	I-N
+.	
+","	
+Deb	B-N
+G	I-N
+.	
+","	
+Devito	B-N
+R	I-N
+.	
+","	
+Pasquini	B-N
+L	I-N
+.	
+","	
+Danhaive	B-N
+O	I-N
+.	
+Remission	
+of	
+infantile	
+generalized	
+myofibromatosis	
+after	
+interferon	
+alpha	
+therapy	
+.	
+J	
+.	
+혻	
+Pediatr	
+.	
+Hematol	
+.	
+Oncol	
+.	
+2008	
+;	
+30	
+:	
+179	
+??	
+181	
+.	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Baird	B-N
+P	I-N
+.	I-N
+A	I-N
+.	
+","	
+Worth	B-N
+A	I-N
+.	I-N
+J	I-N
+.	
+Congenital	
+generalized	
+fibromatosis	
+:	
+an	
+autosomal	
+recessive	
+condition	
+?	
+Clin	
+.	
+Genet	
+.	
+1976	
+;	
+9	
+:	
+488	
+??	
+494	
+.	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Salamah	B-N
+M	I-N
+.	I-N
+M	I-N
+.	
+","	
+Hammoudi	B-N
+S	I-N
+.	I-N
+M	I-N
+.	
+","	
+Sadi	B-N
+A	I-N
+.	I-N
+R	I-N
+.	
+Infantile	
+myofibromatosis	
+.	
+J	
+.	
+혻	
+Pediatr	
+.	
+Surg	
+.	
+1988	
+;	
+23	
+:	
+975	
+??	
+977	
+.	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Narchi	B-N
+H	I-N
+.	
+Four	
+half-siblings	
+with	
+infantile	
+myofibromatosis	
+:	
+a	
+case	
+for	
+autosomal-recessive	
+inheritance	
+.	
+Clin	
+.	
+Genet	
+.	
+2001	
+;	
+59	
+:	
+134	
+??	
+135	
+.	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Bartlett	B-N
+R	I-N
+.	I-N
+C	I-N
+.	
+","	
+Otis	B-N
+R	I-N
+.	I-N
+D	I-N
+.	
+","	
+Laakso	B-N
+A	I-N
+.	I-N
+O	I-N
+.	
+Multiple	
+congenital	
+neoplasms	
+of	
+soft	
+tissues	
+.	
+Report	
+of	
+4	
+cases	
+in	
+1	
+family	
+.	
+Cancer	
+.	
+1961	
+;	
+14	
+:	
+913	
+??	
+920	
+.	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Pfluger	B-N
+V	I-N
+.	I-N
+H	I-N
+.	
+","	
+Kolb	B-N
+R	I-N
+.	I-N
+","	
+Mayr	B-N
+W	I-N
+.	I-N
+R	I-N
+.	
+Kongenitale	
+Polyfibromatose	
+:	
+Klinische	
+und	
+genetische	
+Untersuchungen	
+.	
+Wiener	
+klinishe	
+Wochenshrift	
+.	
+1976	
+;	
+88	
+:	
+92	
+??	
+94	
+.	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Zand	B-N
+D	I-N
+.	I-N
+J	I-N
+.	
+","	
+Huff	B-N
+D	I-N
+.	
+","	
+Everman	B-N
+D	I-N
+.	
+","	
+Russell	B-N
+K	I-N
+.	
+","	
+Saitta	B-N
+S	I-N
+.	
+","	
+McDonald-McGinn	B-N
+D	I-N
+.	
+","	
+Zackai	B-N
+E	I-N
+.	I-N
+H	I-N
+.	
+Autosomal	
+dominant	
+inheritance	
+of	
+infantile	
+myofibromatosis	
+.	
+Am	
+.	
+J	
+.	
+Med	
+.	
+Genet	
+.	
+A	
+.	
+2004	
+;	
+126A	
+:	
+261	
+??	
+266	
+.	
+[	
+PubMed	
+]	
+	
+15	
+.	
+de	B-N
+Montpr챕ville	I-N
+V	I-N
+.	I-N
+T	I-N
+.	
+","	
+Zemoura	B-N
+L	I-N
+.	
+","	
+Vaksmann	B-N
+G	I-N
+.	
+","	
+Lecourt-Tierny	B-N
+G	I-N
+.	
+","	
+Planch챕	B-N
+C	I-N
+.	
+","	
+Dulmet	B-N
+E	I-N
+.	
+Endocardial	
+혻	
+location	
+of	
+familial	
+myofibromatosis	
+revealed	
+by	
+cerebral	
+혻	
+embolization	
+:	
+cardiac	
+counterpart	
+of	
+the	
+frequent	
+intravascular	
+growth	
+of	
+the	
+disease	
+?	
+Virchows	
+Arch	
+.	
+2004	
+;	
+444	
+:	
+300	
+??	
+303	
+.	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Jennings	B-N
+T	I-N
+.	I-N
+A	I-N
+.	
+","	
+Duray	B-N
+P	I-N
+.	I-N
+H	I-N
+.	
+","	
+Collins	B-N
+F	I-N
+.	I-N
+S	I-N
+.	
+","	
+Sabetta	B-N
+J	I-N
+.	
+","	
+Enzinger	B-N
+F	I-N
+.	I-N
+M	I-N
+.	
+Infantile	
+myofibromatosis	
+.	
+Evidence	
+for	
+an	
+autosomal-dominant	
+disorder	
+.	
+Am	
+.	
+J	
+.	
+Surg	
+.	
+Pathol	
+.	
+1984	
+;	
+8	
+:	
+529	
+??	
+538	
+.	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Ikediobi	B-N
+N	I-N
+.	I-N
+I	I-N
+.	
+","	
+Iyengar	B-N
+V	I-N
+.	
+","	
+Hwang	B-N
+L	I-N
+.	
+","	
+Collins	B-N
+W	I-N
+.	I-N
+E	I-N
+.	
+","	
+Metry	B-N
+D	I-N
+.	I-N
+W	I-N
+.	
+Infantile	
+myofibromatosis	
+:	
+support	
+for	
+autosomal	
+dominant	
+inheritance	
+.	
+J	
+.	
+혻	
+Am	
+.	
+Acad	
+.	
+Dermatol	
+.	
+2003	
+;	
+49	
+(	
+2	
+","	
+Suppl	
+Case	
+Reports	
+)	
+:	
+S148	
+??	
+S150	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Smith	B-N
+A	I-N
+.	
+","	
+Orchard	B-N
+D	I-N
+.	
+Infantile	
+myofibromatosis	
+:	
+two	
+families	
+supporting	
+autosomal	
+dominant	
+inheritance	
+.	
+Australas	
+.	
+J	
+.	
+Dermatol	
+.	
+2011	
+;	
+52	
+:	
+214	
+??	
+217	
+.	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Kulkarni	B-N
+K	I-N
+.	
+","	
+Desai	B-N
+S	I-N
+.	
+","	
+Grundy	B-N
+P	I-N
+.	
+","	
+Sergi	B-N
+C	I-N
+.	
+Infantile	
+myofibromatosis	
+:	
+report	
+on	
+a	
+family	
+with	
+autosomal	
+dominant	
+inheritance	
+and	
+variable	
+penetrance	
+.	
+J	
+.	
+혻	
+Pediatr	
+.	
+Surg	
+.	
+2012	
+;	
+47	
+:	
+2312	
+??	
+2315	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Li	B-N
+H	I-N
+.	
+","	
+Durbin	B-N
+R	I-N
+.	
+Fast	
+and	
+accurate	
+short	
+read	
+alignment	
+with	
+Burrows-Wheeler	
+transform	
+.	
+Bioinformatics	
+.	
+2009	
+;	
+25	
+:	
+1754	
+??	
+1760	
+.	
+[	
+PubMed	
+]	
+	
+21	
+.	
+DePristo	B-N
+M	I-N
+.	I-N
+A	I-N
+.	
+","	
+Banks	B-N
+E	I-N
+.	
+","	
+Poplin	B-N
+R	I-N
+.	
+","	
+Garimella	B-N
+K	I-N
+.	I-N
+V	I-N
+.	
+","	
+Maguire	B-N
+J	I-N
+.	I-N
+R	I-N
+.	
+","	
+Hartl	B-N
+C	I-N
+.	
+","	
+Philippakis	B-N
+A	I-N
+.	I-N
+A	I-N
+.	
+","	
+del	B-N
+Angel	I-N
+G	I-N
+.	
+","	
+Rivas	B-N
+M	I-N
+.	I-N
+A	I-N
+.	
+","	
+Hanna	B-N
+M	I-N
+.	I-N
+A	
+framework	
+for	
+variation	
+discovery	
+and	
+genotyping	
+using	
+next-generation	
+DNA	
+sequencing	
+data	
+.	
+Nat	
+.	
+Genet	
+.	
+2011	
+;	
+43	
+:	
+491	
+??	
+498	
+.	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Manichaikul	B-N
+A	I-N
+.	
+","	
+Mychaleckyj	B-N
+J	I-N
+.	I-N
+C	I-N
+.	
+","	
+Rich	B-N
+S	I-N
+.	I-N
+S	I-N
+.	
+","	
+Daly	B-N
+K	I-N
+.	
+","	
+Sale	B-N
+M	I-N
+.	
+","	
+Chen	B-N
+W	I-N
+.	I-N
+M	I-N
+.	
+Robust	
+relationship	
+inference	
+in	
+genome-wide	
+association	
+studies	
+.	
+Bioinformatics	
+.	
+2010	
+;	
+26	
+:	
+2867	
+??	
+2873	
+.	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Wang	B-N
+K	I-N
+.	
+","	
+Li	B-N
+M	I-N
+.	
+","	
+Hakonarson	B-N
+H	I-N
+.	
+ANNOVAR	
+:	
+functional	
+annotation	
+of	
+genetic	
+variants	
+from	
+high-throughput	
+sequencing	
+data	
+.	
+Nucleic	
+Acids	
+Res	
+.	
+2010	
+;	
+38	
+:	
+e164	
+.	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Cingolani	B-N
+P	I-N
+.	
+","	
+Platts	B-N
+A	I-N
+.	
+","	
+Wang	B-N
+L	I-N
+.	
+","	
+Coon	B-N
+M	I-N
+.	
+","	
+Nguyen	B-N
+T	I-N
+.	
+","	
+Wang	B-N
+L	I-N
+.	
+","	
+Land	B-N
+S	I-N
+.	I-N
+J	I-N
+.	
+","	
+Lu	B-N
+X	I-N
+.	
+","	
+Ruden	B-N
+D	I-N
+.	I-N
+M	I-N
+.	
+A	
+program	
+for	
+annotating	
+and	
+predicting	
+the	
+effects	
+of	
+single	
+nucleotide	
+polymorphisms	
+","	
+SnpEff	
+:	
+SNPs	
+in	
+the	
+genome	
+of	
+Drosophila	
+melanogaster	
+strain	
+w1118	
+;	
+iso-2	
+;	
+iso-3	
+.	
+Fly	
+(	
+Austin	
+)	
+2012	
+;	
+6	
+:	
+80	
+??	
+92	
+.	
+[	
+PubMed	
+]	
+	
+25	
+.	
+Stenson	B-N
+P	I-N
+.	I-N
+D	I-N
+.	
+","	
+Mort	B-N
+M	I-N
+.	
+","	
+Ball	B-N
+E	I-N
+.	I-N
+V	I-N
+.	
+","	
+Howells	B-N
+K	I-N
+.	
+","	
+Phillips	B-N
+A	I-N
+.	I-N
+D	I-N
+.	
+","	
+Thomas	B-N
+N	I-N
+.	I-N
+S	I-N
+.	
+","	
+Cooper	B-N
+D	I-N
+.	I-N
+N	I-N
+.	
+The	
+Human	
+Gene	
+Mutation	
+Database	
+:	
+2008	
+update	
+.	
+Genome	
+Med	
+.	
+2009	
+;	
+1	
+:	
+13	
+.	
+[	
+PubMed	
+]	
+	
+26	
+.	
+Kumar	B-N
+P	I-N
+.	
+","	
+Henikoff	B-N
+S	I-N
+.	
+","	
+Ng	B-N
+P	I-N
+.	I-N
+C	I-N
+.	
+Predicting	
+the	
+effects	
+of	
+coding	
+non-synonymous	
+variants	
+on	
+protein	
+function	
+using	
+the	
+SIFT	
+algorithm	
+.	
+Nat	
+.	
+Protoc	
+.	
+2009	
+;	
+4	
+:	
+1073	
+??	
+1081	
+.	
+[	
+PubMed	
+]	
+	
+27	
+.	
+Adzhubei	B-N
+I	I-N
+.	I-N
+A	I-N
+.	
+","	
+Schmidt	B-N
+S	I-N
+.	
+","	
+Peshkin	B-N
+L	I-N
+.	
+","	
+Ramensky	B-N
+V	I-N
+.	I-N
+E	I-N
+.	
+","	
+Gerasimova	B-N
+A	I-N
+.	
+","	
+Bork	B-N
+P	I-N
+.	
+","	
+Kondrashov	B-N
+A	I-N
+.	I-N
+S	I-N
+.	
+","	
+Sunyaev	B-N
+S	I-N
+.	I-N
+R	I-N
+.	
+A	
+method	
+and	
+server	
+for	
+predicting	
+damaging	
+missense	
+mutations	
+.	
+Nat	
+.	
+Methods	
+.	
+2010	
+;	
+7	
+:	
+248	
+??	
+249	
+.	
+[	
+PubMed	
+]	
+	
+28	
+.	
+Chun	B-N
+S	I-N
+.	
+","	
+Fay	B-N
+J	I-N
+.	I-N
+C	I-N
+.	
+Identification	
+of	
+deleterious	
+mutations	
+within	
+three	
+human	
+genomes	
+.	
+Genome	
+Res	
+.	
+2009	
+;	
+19	
+:	
+1553	
+??	
+1561	
+.	
+[	
+PubMed	
+]	
+	
+29	
+.	
+Schwarz	B-N
+J	I-N
+.	I-N
+M	I-N
+.	
+","	
+R철delsperger	B-N
+C	I-N
+.	
+","	
+Schuelke	B-N
+M	I-N
+.	
+","	
+Seelow	B-N
+D	I-N
+.	
+MutationTaster	
+evaluates	
+disease-causing	
+potential	
+of	
+sequence	
+alterations	
+.	
+Nat	
+.	
+Methods	
+.	
+2010	
+;	
+7	
+:	
+575	
+??	
+576	
+.	
+[	
+PubMed	
+]	
+	
+30	
+.	
+Siepel	B-N
+","	I-N
+A	I-N
+.	
+","	
+Pollard	B-N
+","	I-N
+K	I-N
+.	
+","	
+and	
+Haussler	B-N
+","	I-N
+D	I-N
+.	
+(	
+2006	
+)	
+.	
+New	
+methods	
+for	
+detecting	
+lineage-specific	
+selection	
+.	
+Proceedings	
+of	
+the	
+10th	
+International	
+Conference	
+on	
+Research	
+in	
+Computational	
+Molecular	
+Biology	
+(	
+RECOMB	
+2006	
+)	
+.	
+pp	
+.	
+190	
+??	
+205	
+.	
+	
+31	
+.	
+Davydov	B-N
+E	I-N
+.	I-N
+V	I-N
+.	
+","	
+Goode	B-N
+D	I-N
+.	I-N
+L	I-N
+.	
+","	
+Sirota	B-N
+M	I-N
+.	
+","	
+Cooper	B-N
+G	I-N
+.	I-N
+M	I-N
+.	
+","	
+Sidow	B-N
+A	I-N
+.	
+","	
+Batzoglou	B-N
+S	I-N
+.	
+Identifying	
+a	
+high	
+fraction	
+of	
+the	
+human	
+genome	
+to	
+be	
+under	
+selective	
+constraint	
+using	
+GERP	
++	
++	
+PLoS	
+Comput	
+.	
+Biol	
+.	
+2010	
+;	
+6	
+:	
+e1001025	
+.	
+[	
+PubMed	
+]	
+	
+32	
+.	
+Liu	B-N
+X	I-N
+.	
+","	
+Jian	B-N
+X	I-N
+.	
+","	
+Boerwinkle	B-N
+E	I-N
+.	
+dbNSFP	
+:	
+a	
+lightweight	
+database	
+of	
+human	
+nonsynonymous	
+SNPs	
+and	
+their	
+functional	
+predictions	
+.	
+Hum	
+.	
+Mutat	
+.	
+2011	
+;	
+32	
+:	
+894	
+??	
+899	
+.	
+[	
+PubMed	
+]	
+	
+33	
+.	
+Ng	B-N
+S	I-N
+.	I-N
+B	I-N
+.	
+","	
+Buckingham	B-N
+K	I-N
+.	I-N
+J	I-N
+.	
+","	
+Lee	B-N
+C	I-N
+.	
+","	
+Bigham	B-N
+A	I-N
+.	I-N
+W	I-N
+.	
+","	
+Tabor	B-N
+H	I-N
+.	I-N
+K	I-N
+.	
+","	
+Dent	B-N
+K	I-N
+.	I-N
+M	I-N
+.	
+","	
+Huff	B-N
+C	I-N
+.	I-N
+D	I-N
+.	
+","	
+Shannon	B-N
+P	I-N
+.	I-N
+T	I-N
+.	
+","	
+Jabs	B-N
+E	I-N
+.	I-N
+W	I-N
+.	
+","	
+Nickerson	B-N
+D	I-N
+.	I-N
+A	I-N
+.	
+Exome	
+sequencing	
+identifies	
+the	
+cause	
+of	
+a	
+mendelian	
+disorder	
+.	
+Nat	
+.	
+Genet	
+.	
+2010	
+;	
+42	
+:	
+30	
+??	
+35	
+.	
+[	
+PubMed	
+]	
+	
+34	
+.	
+Wang	B-N
+L	I-N
+.	
+","	
+Pedroja	B-N
+B	I-N
+.	I-N
+S	I-N
+.	
+","	
+Meyers	B-N
+E	I-N
+.	I-N
+E	I-N
+.	
+","	
+Garcia	B-N
+A	I-N
+.	I-N
+L	I-N
+.	
+","	
+Twining	B-N
+S	I-N
+.	I-N
+S	I-N
+.	
+","	
+Bernstein	B-N
+A	I-N
+.	I-N
+M	I-N
+.	
+Degradation	
+of	
+internalized	
+慣v棺5	
+integrin	
+is	
+controlled	
+by	
+uPAR	
+bound	
+uPA	
+:	
+effect	
+on	
+棺1	
+integrin	
+activity	
+and	
+慣-SMA	
+stress	
+fiber	
+assembly	
+.	
+PLoS	
+ONE	
+.	
+2012	
+;	
+7	
+:	
+e33915	
+.	
+[	
+PubMed	
+]	
+	
+35	
+.	
+Demoulin	B-N
+J	I-N
+.	I-N
+B	I-N
+.	
+","	
+Montano-Almendras	B-N
+C	I-N
+.	I-N
+P	I-N
+.	
+Platelet-derived	
+growth	
+factors	
+and	
+their	
+receptors	
+in	
+normal	
+and	
+malignant	
+hematopoiesis	
+.	
+Am	
+.	
+J	
+.	
+Blood	
+.	
+Res	
+.	
+2012	
+;	
+2	
+:	
+44	
+??	
+56	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+36	
+.	
+Nicolas	B-N
+G	I-N
+.	
+","	
+Pottier	B-N
+C	I-N
+.	
+","	
+Malt챗te	B-N
+D	I-N
+.	
+","	
+Coutant	B-N
+S	I-N
+.	
+","	
+Rovelet-Lecrux	B-N
+A	I-N
+.	
+","	
+Legallic	B-N
+S	I-N
+.	
+","	
+Rousseau	B-N
+S	I-N
+.	
+","	
+Vaschalde	B-N
+Y	I-N
+.	
+","	
+Guyant-Mar챕chal	B-N
+L	I-N
+.	
+","	
+Augustin	B-N
+J	I-N
+.	
+Mutation	
+of	
+the	
+PDGFRB	
+gene	
+as	
+a	
+cause	
+of	
+idiopathic	
+basal	
+ganglia	
+calcification	
+.	
+Neurology	
+.	
+2013	
+;	
+80	
+:	
+181	
+??	
+187	
+.	
+[	
+PubMed	
+]	
+	
+37	
+.	
+Joutel	B-N
+A	I-N
+.	
+","	
+Corpechot	B-N
+C	I-N
+.	
+","	
+Ducros	B-N
+A	I-N
+.	
+","	
+Vahedi	B-N
+K	I-N
+.	
+","	
+Chabriat	B-N
+H	I-N
+.	
+","	
+Mouton	B-N
+P	I-N
+.	
+","	
+Alamowitch	B-N
+S	I-N
+.	
+","	
+Domenga	B-N
+V	I-N
+.	
+","	
+C챕cillion	B-N
+M	I-N
+.	
+","	
+Marechal	B-N
+E	I-N
+.	
+Notch3	
+mutations	
+in	
+CADASIL	
+","	
+a	
+hereditary	
+adult-onset	
+condition	
+causing	
+stroke	
+and	
+dementia	
+.	
+Nature	
+.	
+1996	
+;	
+383	
+:	
+707	
+??	
+710	
+.	
+[	
+PubMed	
+]	
+	
+38	
+.	
+Fouillade	B-N
+C	I-N
+.	
+","	
+Chabriat	B-N
+H	I-N
+.	
+","	
+Riant	B-N
+F	I-N
+.	
+","	
+Mine	B-N
+M	I-N
+.	
+","	
+Arnoud	B-N
+M	I-N
+.	
+","	
+Magy	B-N
+L	I-N
+.	
+","	
+Bousser	B-N
+M	I-N
+.	I-N
+G	I-N
+.	
+","	
+Tournier-Lasserve	B-N
+E	I-N
+.	
+","	
+Joutel	B-N
+A	I-N
+.	
+Activating	
+NOTCH3	
+mutation	
+in	
+a	
+patient	
+with	
+small-vessel-disease	
+of	
+the	
+brain	
+.	
+Hum	
+.	
+Mutat	
+.	
+2008	
+;	
+29	
+:	
+452	
+.	
+[	
+PubMed	
+]	
+	
+39	
+.	
+Jin	B-N
+S	I-N
+.	
+","	
+Hansson	B-N
+E	I-N
+.	I-N
+M	I-N
+.	
+","	
+Tikka	B-N
+S	I-N
+.	
+","	
+Lanner	B-N
+F	I-N
+.	
+","	
+Sahlgren	B-N
+C	I-N
+.	
+","	
+Farnebo	B-N
+F	I-N
+.	
+","	
+Baumann	B-N
+M	I-N
+.	
+","	
+Kalimo	B-N
+H	I-N
+.	
+","	
+Lendahl	B-N
+U	I-N
+.	
+Notch	
+signaling	
+regulates	
+platelet-derived	
+growth	
+factor	
+receptor-beta	
+expression	
+in	
+vascular	
+smooth	
+muscle	
+cells	
+.	
+Circ	
+.	
+Res	
+.	
+2008	
+;	
+102	
+:	
+1483	
+??	
+1491	
+.	
+[	
+PubMed	
+]	

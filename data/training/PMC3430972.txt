@@ -1,0 +1,1161 @@
+1	
+.	
+Bushi	B-N
+D	I-N
+","	
+Grad	B-N
+Y	I-N
+","	
+Einav	B-N
+S	I-N
+","	
+Yodfat	B-N
+O	I-N
+","	
+Nishri	B-N
+B	I-N
+","	
+Tanne	B-N
+D	I-N
+.	
+Hemodynamic	
+evaluation	
+of	
+embolic	
+trajectory	
+in	
+an	
+arterial	
+bifurcation	
+:	
+An	
+in-vitro	
+experimental	
+model	
+.	
+Stroke	
+.	
+2005	
+;	
+36	
+:	
+2696	
+–	
+2700	
+.	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Liebeskind	B-N
+D	I-N
+","	
+Babikian	B-N
+V	I-N
+","	
+Llanes	B-N
+J	I-N
+","	
+Lim	B-N
+S	I-N
+","	
+Villablanca	B-N
+J	I-N
+","	
+Wijman	B-N
+C	I-N
+","	
+Saver	B-N
+J	I-N
+.	
+Ct	
+angiography	
+reveals	
+anatomic	
+features	
+that	
+account	
+for	
+the	
+distribution	
+of	
+emboli	
+in	
+the	
+anterior	
+cerebral	
+circulation	
+.	
+Stroke	
+.	
+2001	
+;	
+32	
+:	
+335	
+.	
+	
+3	
+.	
+Perrini	B-N
+P	I-N
+","	
+Cardia	B-N
+A	I-N
+","	
+Fraser	B-N
+K	I-N
+","	
+Lanzino	B-N
+G	I-N
+.	
+A	
+microsurgical	
+study	
+of	
+the	
+anatomy	
+and	
+course	
+of	
+the	
+ophthalmic	
+artery	
+and	
+its	
+possibly	
+dangerous	
+anastomoses	
+.	
+J	
+Neurosurg	
+.	
+2007	
+;	
+106	
+:	
+142	
+–	
+150	
+.	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Rhoton	B-N
+AJ	I-N
+.	
+The	
+supratentorial	
+arteries	
+.	
+Neurosurgery	
+.	
+2002	
+;	
+51	
+(	
+4	
+Suppl	
+)	
+:	
+S53	
+–	
+S120	
+.	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Pollanen	B-N
+M	I-N
+.	
+A	
+hempelian	
+explanatory	
+shift	
+in	
+neuropathology	
+:	
+A	
+study	
+in	
+the	
+history	
+and	
+logic	
+of	
+medicine	
+.	
+Can	
+Bull	
+Med	
+Hist	
+.	
+1991	
+;	
+8	
+:	
+65	
+–	
+76	
+.	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Pollanen	B-N
+M	I-N
+.	
+Behaviour	
+of	
+suspended	
+particles	
+at	
+bifurcations	
+:	
+Implications	
+for	
+embolism	
+.	
+Phys	
+Med	
+Biol	
+.	
+1991	
+;	
+36	
+:	
+397	
+–	
+401	
+.	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Murtha	B-N
+T	I-N
+","	
+Stasheff	B-N
+S	I-N
+.	
+Visual	
+dysfunction	
+in	
+retinal	
+and	
+optic	
+nerve	
+disease	
+.	
+Neurol	
+Clin	
+.	
+2003	
+;	
+21	
+:	
+445	
+–	
+481	
+.	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Ay	B-N
+H	I-N
+","	
+Benner	B-N
+T	I-N
+","	
+Arsava	B-N
+E	I-N
+","	
+Furie	B-N
+K	I-N
+","	
+Singhal	B-N
+A	I-N
+","	
+Jensen	B-N
+M	I-N
+","	
+Ayata	B-N
+C	I-N
+","	
+Towfighi	B-N
+A	I-N
+","	
+Smith	B-N
+E	I-N
+","	
+Chong	B-N
+J	I-N
+","	
+Koroshetz	B-N
+W	I-N
+","	
+Sorensen	B-N
+A	I-N
+.	
+A	
+computerized	
+algorithm	
+for	
+etiologic	
+classification	
+of	
+ischemic	
+stroke	
+:	
+The	
+causative	
+classification	
+of	
+stroke	
+system	
+.	
+Stroke	
+.	
+2007	
+;	
+38	
+:	
+2979	
+–	
+2984	
+.	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Copen	B-N
+W	I-N
+","	
+Schwamm	B-N
+L	I-N
+","	
+González	B-N
+R	I-N
+","	
+Wu	B-N
+O	I-N
+","	
+Harmath	B-N
+C	I-N
+","	
+Schaefer	B-N
+P	I-N
+","	
+Koroshetz	B-N
+W	I-N
+","	
+Sorensen	B-N
+A	I-N
+.	
+Ischemic	
+stroke	
+:	
+Effects	
+of	
+etiology	
+and	
+patient	
+age	
+on	
+the	
+time	
+course	
+of	
+the	
+core	
+apparent	
+diffusion	
+coefficient	
+.	
+Radiology	
+.	
+2001	
+;	
+221	
+:	
+27	
+–	
+34	
+.	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Ay	B-N
+H	I-N
+","	
+Oliveira-Filho	B-N
+J	I-N
+","	
+Buonanno	B-N
+F	I-N
+","	
+Schaefer	B-N
+P	I-N
+","	
+Furie	B-N
+K	I-N
+","	
+Chang	B-N
+Y	I-N
+","	
+Rordorf	B-N
+G	I-N
+","	
+Schwamm	B-N
+L	I-N
+","	
+Gonzalez	B-N
+R	I-N
+","	
+Koroshetz	B-N
+W	I-N
+.	
+'	
+Footprints	
+'	
+of	
+transient	
+ischemic	
+attacks	
+:	
+A	
+diffusion-weighted	
+mri	
+study	
+.	
+Cerebrovasc	
+Dis	
+.	
+2002	
+;	
+14	
+:	
+177	
+–	
+186	
+.	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Babikian	B-N
+V	I-N
+","	
+Wijman	B-N
+C	I-N
+","	
+Koleini	B-N
+B	I-N
+","	
+Malik	B-N
+S	I-N
+","	
+Goyal	B-N
+N	I-N
+","	
+Matjucha	B-N
+I	I-N
+.	
+Retinal	
+ischemia	
+and	
+embolism	
+.	
+Etiologies	
+and	
+outcomes	
+based	
+on	
+a	
+prospective	
+study	
+.	
+Cerebrovasc	
+Dis	
+.	
+2001	
+;	
+12	
+:	
+108	
+–	
+113	
+.	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Mead	B-N
+G	I-N
+","	
+Lewis	B-N
+S	I-N
+","	
+Wardlaw	B-N
+J	I-N
+","	
+Dennis	B-N
+M	I-N
+.	
+Comparison	
+of	
+risk	
+factors	
+in	
+patients	
+with	
+transient	
+and	
+prolonged	
+eye	
+and	
+brain	
+ischemic	
+syndromes	
+.	
+Stroke	
+.	
+2002	
+;	
+33	
+:	
+2383	
+–	
+2390	
+.	
+[	
+PubMed	
+]	
+	
+13	
+.	
+Fahraeus	B-N
+R	I-N
+","	
+Lindquist	B-N
+T	I-N
+.	
+The	
+viscosity	
+of	
+the	
+blood	
+in	
+narrow	
+capillary	
+tubes	
+.	
+American	
+Journal	
+of	
+Physiology	
+.	
+1931	
+;	
+96	
+:	
+562	
+–	
+568	
+.	
+	
+14	
+.	
+Pollanen	B-N
+M	I-N
+","	
+Deck	B-N
+J	I-N
+.	
+The	
+mechanism	
+of	
+embolic	
+watershed	
+infarction	
+:	
+Experimental	
+studies	
+.	
+Can	
+J	
+Neurol	
+Sci	
+.	
+1990	
+;	
+17	
+:	
+395	
+–	
+398	
+.	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Dorner	B-N
+G	I-N
+","	
+Polska	B-N
+E	I-N
+","	
+Garhöfer	B-N
+G	I-N
+","	
+Zawinka	B-N
+C	I-N
+","	
+Frank	B-N
+B	I-N
+","	
+Schmetterer	B-N
+L	I-N
+.	
+Calculation	
+of	
+the	
+diameter	
+of	
+the	
+central	
+retinal	
+artery	
+from	
+noninvasive	
+measurements	
+in	
+humans	
+.	
+Curr	
+Eye	
+Res	
+.	
+2002	
+;	
+25	
+:	
+341	
+–	
+345	
+.	
+[	
+PubMed	
+]	
+	
+16	
+.	
+Edvinsson	B-N
+L	I-N
+","	
+MacKenzie	B-N
+E	I-N
+.	
+General	
+and	
+comparative	
+anatomy	
+of	
+the	
+cerebral	
+circulation	
+.	
+In	
+:	
+Edvinsson	
+L	
+","	
+Krause	
+D	
+","	
+editors	
+.	
+Cerebral	
+blood	
+flow	
+and	
+metabolism	
+.	
+Lippincott	
+Wiilams	
+and	
+Wilkins	
+;	
+2002	
+.	
+pp	
+.	
+3	
+–	
+29	
+.	
+	
+17	
+.	
+O	B-N
+'	I-N
+Sullivan	I-N
+M	I-N
+","	
+Rich	B-N
+P	I-N
+","	
+Barrick	B-N
+T	I-N
+","	
+Clark	B-N
+C	I-N
+","	
+Markus	B-N
+H	I-N
+.	
+Frequency	
+of	
+subclinical	
+lacunar	
+infarcts	
+in	
+ischemic	
+leukoaraiosis	
+and	
+cerebral	
+autosomal	
+dominant	
+arteriopathy	
+with	
+subcortical	
+infarcts	
+and	
+leukoencephalopathy	
+.	
+AJNR	
+Am	
+J	
+Neuroradiol	
+.	
+2003	
+;	
+24	
+:	
+1348	
+–	
+1354	
+.	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Kimberly	B-N
+W	I-N
+","	
+Gilson	B-N
+A	I-N
+","	
+Rost	B-N
+N	I-N
+","	
+Rosand	B-N
+J	I-N
+","	
+Viswanathan	B-N
+A	I-N
+","	
+Smith	B-N
+E	I-N
+","	
+Greenberg	B-N
+S	I-N
+.	
+Silent	
+ischemic	
+infarcts	
+are	
+associated	
+with	
+hemorrhage	
+burden	
+in	
+cerebral	
+amyloid	
+angiopathy	
+.	
+Neurology	
+.	
+2009	
+;	
+72	
+:	
+1230	
+–	
+1235	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Easton	B-N
+J	I-N
+","	
+Saver	B-N
+J	I-N
+","	
+Albers	B-N
+G	I-N
+","	
+Alberts	B-N
+M	I-N
+","	
+Chaturvedi	B-N
+S	I-N
+","	
+Feldmann	B-N
+EH	I-N
+","	
+TS	B-N
+","	
+Higashida	B-N
+R	I-N
+","	
+Johnston	B-N
+S	I-N
+","	
+Kidwell	B-N
+C	I-N
+","	
+Lutsep	B-N
+H	I-N
+","	
+Miller	B-N
+E	I-N
+","	
+Sacco	B-N
+R	I-N
+","	
+American	B-N
+HA	I-N
+.	
+American	
+SASC	
+","	
+Council	
+oCSaA	
+","	
+Council	
+oCRaI	
+","	
+Council	
+oCN	
+","	
+Interdisciplinary	
+CoPVD	
+.	
+Definition	
+and	
+evaluation	
+of	
+transient	
+ischemic	
+attack	
+:	
+A	
+scientific	
+statement	
+for	
+healthcare	
+professionals	
+from	
+the	
+american	
+heart	
+association	
+/	
+american	
+stroke	
+association	
+stroke	
+council	
+;	
+council	
+on	
+cardiovascular	
+surgery	
+and	
+anesthesia	
+;	
+council	
+on	
+cardiovascular	
+radiology	
+and	
+intervention	
+;	
+council	
+on	
+cardiovascular	
+nursing	
+;	
+and	
+the	
+interdisciplinary	
+council	
+on	
+peripheral	
+vascular	
+disease	
+.	
+The	
+american	
+academy	
+of	
+neurology	
+affirms	
+the	
+value	
+of	
+this	
+statement	
+as	
+an	
+educational	
+tool	
+for	
+neurologists	
+.	
+Stroke	
+.	
+2009	
+;	
+40	
+:	
+2276	
+–	
+2293	
+.	
+[	
+PubMed	
+]	
+	
+20	
+.	
+The	B-N
+AFSG	I-N
+.	
+Current	
+management	
+of	
+amaurosis	
+fugax	
+.	
+Stroke	
+.	
+1990	
+;	
+21	
+:	
+201	
+–	
+208	
+.	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Biousse	B-N
+V	I-N
+","	
+Trobe	B-N
+J	I-N
+.	
+Transient	
+monocular	
+visual	
+loss	
+.	
+Am	
+J	
+Ophthalmol	
+.	
+2005	
+;	
+140	
+:	
+717	
+–	
+721	
+.	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Atkins	B-N
+E	I-N
+","	
+Bruce	B-N
+B	I-N
+","	
+Newman	B-N
+N	I-N
+","	
+Biousse	B-N
+V	I-N
+.	
+Translation	
+of	
+clinical	
+studies	
+to	
+clinical	
+practice	
+:	
+Survey	
+on	
+the	
+treatment	
+of	
+central	
+retinal	
+artery	
+occlusion	
+.	
+Am	
+J	
+Ophthalmology	
+.	
+2009	
+;	
+148	
+:	
+172	
+–	
+173	
+.	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Donders	B-N
+R	I-N
+","	
+Kappelle	B-N
+L	I-N
+","	
+Algra	B-N
+A	I-N
+","	
+van	B-N
+Dijk	I-N
+G	I-N
+","	
+van	B-N
+Gijn	I-N
+J	I-N
+.	
+How	
+do	
+general	
+practitioners	
+diagnose	
+and	
+manage	
+patients	
+with	
+transient	
+monocular	
+loss	
+of	
+vision	
+of	
+sudden	
+onset	
+?	
+J	
+Neurol	
+.	
+1999	
+;	
+246	
+:	
+1145	
+–	
+1150	
+.	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Cerebral	B-N
+ESG	I-N
+.	
+Immediate	
+anticoagulation	
+of	
+embolic	
+stroke	
+:	
+Brain	
+hemorrhage	
+and	
+management	
+options	
+.	
+Stroke	
+.	
+1984	
+;	
+15	
+:	
+779	
+–	
+789	
+.	
+[	
+PubMed	
+]	

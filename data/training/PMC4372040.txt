@@ -1,0 +1,1385 @@
+1	
+.	
+Erkinjuntti	B-N
+T	I-N
+","	
+Gauthier	B-N
+S	I-N
+.	
+The	
+concept	
+of	
+vascular	
+cognitive	
+impairment	
+.	
+Front	
+Neurol	
+Neurosci	
+.	
+2009	
+;	
+24	
+:	
+79	
+??	
+85	
+.	
+doi	
+:	
+10	
+.	
+1159	
+/	
+197886	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+2	
+.	
+Moorhouse	B-N
+P	I-N
+","	
+Rockwood	B-N
+K	I-N
+.	
+Vascular	
+cognitive	
+impairment	
+:	
+current	
+concepts	
+and	
+clinical	
+developments	
+.	
+Lancet	
+Neurol	
+.	
+2008	
+;	
+7	
+:	
+246	
+??	
+55	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+S1474-4422	
+(	
+8	
+)	
+70040-1	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+3	
+.	
+Makin	B-N
+SDJ	I-N
+","	
+Turpin	B-N
+S	I-N
+","	
+Dennis	B-N
+MS	I-N
+","	
+Wardlaw	B-N
+JM	I-N
+.	
+Cognitive	
+impairment	
+after	
+lacunar	
+stroke	
+:	
+systematic	
+review	
+and	
+meta-analysis	
+of	
+incidence	
+","	
+prevalence	
+and	
+comparison	
+with	
+other	
+stroke	
+subtypes	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+.	
+2013	
+;	
+84	
+:	
+893	
+??	
+900	
+.	
+doi	
+:	
+10	
+.	
+1136	
+/	
+jnnp-2012-303645	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+4	
+.	
+Jacova	B-N
+C	I-N
+","	
+Pearce	B-N
+LA	I-N
+","	
+Costello	B-N
+R	I-N
+","	
+McClure	B-N
+LA	I-N
+","	
+Holliday	B-N
+SL	I-N
+","	
+Hart	B-N
+RG	I-N
+","	
+et	
+al	
+.	
+Cognitive	
+impairment	
+in	
+lacunar	
+strokes	
+:	
+the	
+SPS3	
+trial	
+.	
+Ann	
+Neurol	
+.	
+2012	
+;	
+72	
+:	
+351	
+??	
+62	
+.	
+doi	
+:	
+10	
+.	
+1002	
+/	
+ana	
+.	
+23733	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+5	
+.	
+Blanco-Rojas	B-N
+L	I-N
+","	
+Arboix	B-N
+A	I-N
+","	
+Canovas	B-N
+D	I-N
+","	
+Grau-Olivares	B-N
+M	I-N
+","	
+Oliva	B-N
+Morera	I-N
+JC	I-N
+","	
+Parra	B-N
+O	I-N
+.	
+Cognitive	
+profile	
+in	
+patients	
+with	
+a	
+first-ever	
+lacunar	
+infarct	
+with	
+and	
+without	
+silent	
+lacunes	
+:	
+a	
+comparative	
+study	
+.	
+BMC	
+Neurol	
+.	
+2013	
+;	
+13	
+:	
+203	
+.	
+doi	
+:	
+10	
+.	
+1186	
+/	
+1471-2377-13-203	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+6	
+.	
+Brookes	B-N
+RL	I-N
+","	
+Willis	B-N
+TA	I-N
+","	
+Patel	B-N
+B	I-N
+","	
+Morris	B-N
+RG	I-N
+","	
+Markus	B-N
+HS	I-N
+.	
+Depressive	
+symptoms	
+as	
+a	
+predictor	
+of	
+quality	
+of	
+life	
+in	
+cerebral	
+small	
+vessel	
+disease	
+","	
+acting	
+independently	
+of	
+disability	
+;	
+a	
+study	
+in	
+both	
+sporadic	
+small	
+vessel	
+disease	
+and	
+CADASIL	
+.	
+Int	
+J	
+Stroke	
+.	
+2013	
+;	
+8	
+:	
+510	
+??	
+7	
+.	
+doi	
+:	
+10	
+.	
+1111	
+/	
+j	
+.	
+1747-4949	
+.	
+2011	
+.	
+763	
+.	
+x	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+7	
+.	
+Folstein	B-N
+MF	I-N
+","	
+Folstein	B-N
+SE	I-N
+","	
+McHugh	B-N
+PR	I-N
+.	
+??	
+Mini	
+mental	
+state	
+??	
+.	
+A	
+practical	
+method	
+for	
+grading	
+the	
+cognitive	
+state	
+of	
+patients	
+for	
+the	
+clinician	
+.	
+J	
+Psychiatr	
+Res	
+.	
+1975	
+;	
+12	
+:	
+189	
+??	
+98	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+0022-3956	
+(	
+75	
+)	
+90026-6	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+8	
+.	
+O	B-N
+??	I-N
+Sullivan	I-N
+M	I-N
+","	
+Morris	B-N
+RG	I-N
+","	
+Markus	B-N
+HS	I-N
+.	
+Brief	
+cognitive	
+assessment	
+for	
+patients	
+with	
+cerebral	
+small	
+vessel	
+disease	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+.	
+2005	
+;	
+76	
+:	
+1140	
+??	
+5	
+.	
+doi	
+:	
+10	
+.	
+1136	
+/	
+jnnp	
+.	
+2004	
+.	
+45963	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+9	
+.	
+Hachinski	B-N
+V	I-N
+","	
+Iadecola	B-N
+C	I-N
+","	
+Petersen	B-N
+RC	I-N
+","	
+Breteler	B-N
+MM	I-N
+","	
+Nyenhuis	B-N
+DL	I-N
+","	
+Black	B-N
+SE	I-N
+","	
+et	
+al	
+.	
+National	
+Institute	
+of	
+Neurological	
+Disorders	
+and	
+Stroke-Canadian	
+Stroke	
+Network	
+vascular	
+cognitive	
+impairment	
+harmonization	
+standards	
+.	
+Stroke	
+.	
+2006	
+;	
+37	
+:	
+2220	
+??	
+41	
+.	
+doi	
+:	
+10	
+.	
+1161	
+/	
+1	
+.	
+STR	
+.	
+237236	
+.	
+88823	
+.	
+47	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+10	
+.	
+Brookes	B-N
+RL	I-N
+","	
+Hannesdottir	B-N
+K	I-N
+","	
+Lawrence	B-N
+R	I-N
+","	
+Morris	B-N
+RG	I-N
+","	
+Markus	B-N
+HS	I-N
+.	
+Brief	
+Memory	
+and	
+Executive	
+Test	
+:	
+evaluation	
+of	
+a	
+new	
+screening	
+test	
+for	
+cognitive	
+impairment	
+due	
+to	
+small	
+vessel	
+disease	
+.	
+Age	
+Ageing	
+.	
+2012	
+;	
+41	
+:	
+212	
+??	
+8	
+.	
+doi	
+:	
+10	
+.	
+1093	
+/	
+ageing	
+/	
+afr172	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+11	
+.	
+Nasreddine	B-N
+ZS	I-N
+","	
+Phillips	B-N
+NA	I-N
+","	
+B챕dirian	B-N
+V	I-N
+","	
+Charbonneau	B-N
+S	I-N
+","	
+Whitehead	B-N
+V	I-N
+","	
+Collin	B-N
+I	I-N
+","	
+et	
+al	
+.	
+The	
+Montreal	
+Cognitive	
+Assessment	
+","	
+MoCA	
+:	
+a	
+brief	
+screening	
+tool	
+for	
+mild	
+cognitive	
+impairment	
+.	
+J	
+Am	
+Geriatr	
+Soc	
+.	
+2005	
+;	
+53	
+:	
+695	
+??	
+9	
+.	
+doi	
+:	
+10	
+.	
+1111	
+/	
+j	
+.	
+1532-5415	
+.	
+2005	
+.	
+53221	
+.	
+x	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+12	
+.	
+Gunning-Dixon	B-N
+FM	I-N
+","	
+Raz	B-N
+N	I-N
+.	
+Neuroanatomical	
+correlates	
+of	
+selected	
+executive	
+functions	
+in	
+middle-aged	
+and	
+older	
+adults	
+:	
+a	
+prospective	
+MRI	
+study	
+.	
+Neuropsychologia	
+.	
+2003	
+;	
+41	
+:	
+1929	
+??	
+41	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+S0028-3932	
+(	
+3	
+)	
+00129-5	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+13	
+.	
+Fazekas	B-N
+F	I-N
+","	
+Chawluk	B-N
+JB	I-N
+","	
+Alavi	B-N
+A	I-N
+","	
+Hurtig	B-N
+HI	I-N
+","	
+Zimmerman	B-N
+RA	I-N
+.	
+MR	
+signal	
+abnormalities	
+at	
+1	
+.	
+5	
+혻	
+T	
+in	
+Alzheimer	
+??	
+s	
+dementia	
+and	
+normal	
+aging	
+deficiency	
+.	
+AJR	
+Am	
+J	
+Roentgenol	
+.	
+1987	
+;	
+149	
+:	
+351	
+??	
+6	
+.	
+doi	
+:	
+10	
+.	
+2214	
+/	
+ajr	
+.	
+149	
+.	
+2	
+.	
+351	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+14	
+.	
+Stroke	
+Research	
+Group	
+Cambridge	
+University	
+.	
+BMET	
+Cognitive	
+Testing	
+.	
+http	
+:	
+/	
+/	
+www	
+.	
+cambridgestroke	
+.	
+com	
+/	
+bmetcognitivetesting	
+.	
+php	
+.	
+	
+15	
+.	
+Nelson	B-N
+HE	I-N
+.	
+National	
+Adult	
+Reading	
+Test	
+.	
+NFER-Nelson	
+:	
+Windsor	
+","	
+UK	
+;	
+1982	
+.	
+	
+16	
+.	
+Petersen	B-N
+RC	I-N
+.	
+Mild	
+cognitive	
+impairment	
+as	
+a	
+diagnostic	
+entity	
+.	
+In	
+J	
+Intern	
+Med	
+Volume	
+.	
+2004	
+;	
+256	
+:	
+183	
+??	
+94	
+.	
+doi	
+:	
+10	
+.	
+1111	
+/	
+j	
+.	
+1365-2796	
+.	
+2004	
+.	
+1388	
+.	
+x	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+17	
+.	
+StataCorp	
+.	
+13	
+.	
+Stata	
+:	
+Release	
+13	
+.	
+College	
+Station	
+","	
+TX	
+:	
+StataCorp	
+LP	
+;	
+2013	
+.	
+	
+18	
+.	
+De	B-N
+Koning	I-N
+I	I-N
+","	
+Dippel	B-N
+DW	I-N
+","	
+Van	B-N
+Kooten	I-N
+F	I-N
+","	
+Koudstaal	B-N
+PJ	I-N
+.	
+A	
+short	
+screening	
+instrument	
+for	
+poststroke	
+dementia	
+:	
+the	
+R-CAMCOG	
+.	
+Stroke	
+.	
+2000	
+;	
+31	
+:	
+1502	
+??	
+8	
+.	
+doi	
+:	
+10	
+.	
+1161	
+/	
+1	
+.	
+STR	
+.	
+31	
+.	
+7	
+.	
+1502	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+19	
+.	
+Torralva	B-N
+T	I-N
+","	
+Roca	B-N
+M	I-N
+","	
+Gleichgerrcht	B-N
+E	I-N
+","	
+L처pez	B-N
+P	I-N
+","	
+Manes	B-N
+F	I-N
+.	
+INECO	
+Frontal	
+Screening	
+(	
+IFS	
+)	
+:	
+a	
+brief	
+","	
+sensitive	
+","	
+and	
+specific	
+tool	
+to	
+assess	
+executive	
+functions	
+in	
+dementia	
+.	
+J	
+Int	
+Neuropsychol	
+Soc	
+.	
+2009	
+;	
+15	
+:	
+777	
+??	
+86	
+.	
+doi	
+:	
+10	
+.	
+1017	
+/	
+S1355617709990415	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+20	
+.	
+Price	B-N
+CC	I-N
+","	
+Jefferson	B-N
+AL	I-N
+","	
+Merino	B-N
+JG	I-N
+","	
+Heilman	B-N
+KM	I-N
+","	
+Libon	B-N
+DJ	I-N
+.	
+Subcortical	
+vascular	
+dementia	
+:	
+integrating	
+neuropsychological	
+and	
+neuroradiologic	
+data	
+.	
+Neurology	
+.	
+2005	
+;	
+65	
+:	
+376	
+??	
+82	
+.	
+doi	
+:	
+10	
+.	
+1212	
+/	
+1	
+.	
+WNL	
+.	
+168877	
+.	
+6011	
+.	
+15	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+21	
+.	
+Duering	B-N
+M	I-N
+","	
+Gesierich	B-N
+B	I-N
+","	
+Seiler	B-N
+S	I-N
+","	
+Pirpamer	B-N
+L	I-N
+","	
+Gonik	B-N
+M	I-N
+","	
+Hofer	B-N
+E	I-N
+","	
+et	
+al	
+.	
+Strategic	
+white	
+matter	
+tracts	
+for	
+processing	
+speed	
+deficits	
+in	
+age-related	
+small	
+vessel	
+disease	
+.	
+Neurology	
+.	
+2014	
+;	
+82	
+:	
+1946	
+??	
+50	
+.	
+doi	
+:	
+10	
+.	
+1212	
+/	
+WNL	
+.	
+475	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+22	
+.	
+Dichgans	B-N
+M	I-N
+","	
+Markus	B-N
+HS	I-N
+","	
+Salloway	B-N
+S	I-N
+","	
+Verkkoniemi	B-N
+A	I-N
+","	
+Moline	B-N
+M	I-N
+","	
+Wang	B-N
+Q	I-N
+","	
+et	
+al	
+.	
+Donepezil	
+in	
+patients	
+with	
+subcortical	
+vascular	
+cognitive	
+impairment	
+:	
+a	
+randomised	
+double-blind	
+trial	
+in	
+CADASIL	
+.	
+Lancet	
+Neurol	
+.	
+2008	
+;	
+7	
+:	
+310	
+??	
+8	
+.	
+doi	
+:	
+10	
+.	
+1016	
+/	
+S1474-4422	
+(	
+8	
+)	
+70046-2	
+.	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	
+	
+23	
+.	
+Arboix	B-N
+A	I-N
+","	
+Font	B-N
+A	I-N
+","	
+Garro	B-N
+C	I-N
+","	
+Garc챠a-Eroles	B-N
+L	I-N
+","	
+Comes	B-N
+E	I-N
+","	
+Massons	B-N
+J	I-N
+.	
+Recurrent	
+lacunar	
+infarction	
+following	
+a	
+previous	
+lacunar	
+stroke	
+:	
+a	
+clinical	
+study	
+of	
+122	
+patients	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychiatry	
+.	
+2007	
+;	
+78	
+:	
+1392	
+??	
+4	
+.	
+doi	
+:	
+10	
+.	
+1136	
+/	
+jnnp	
+.	
+2007	
+.	
+119776	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+[	
+Cross	
+Ref	
+]	

@@ -1,0 +1,1576 @@
+1	
+.	
+The	
+LADIS	
+Study	
+Group	
+","	
+Poggesi	B-N
+A	I-N
+","	
+Pantoni	B-N
+L	I-N
+","	
+Inzitari	B-N
+D	I-N
+","	
+Fazekas	B-N
+F	I-N
+","	
+et	
+al	
+(	
+2011	
+)	
+2001	
+??	
+2011	
+:	
+A	
+decade	
+of	
+the	
+LADIS	
+(	
+Leukoaraiosis	
+and	
+disability	
+)	
+study	
+:	
+What	
+have	
+we	
+learned	
+about	
+white	
+matter	
+changes	
+and	
+small-vessel	
+disease	
+?	
+Cerebrovasc	
+Dis	
+32	
+:	
+577	
+??	
+588	
+[	
+PubMed	
+]	
+	
+2	
+.	
+Basile	B-N
+AM	I-N
+","	
+Pantoni	B-N
+L	I-N
+","	
+Pracucci	B-N
+G	I-N
+","	
+Asplund	B-N
+K	I-N
+","	
+Chabriat	B-N
+H	I-N
+","	
+et	
+al	
+.	
+(	
+2006	
+)	
+Age	
+","	
+hypertension	
+","	
+and	
+lacunar	
+stroke	
+are	
+the	
+major	
+determinants	
+of	
+the	
+severity	
+of	
+age-related	
+white	
+matter	
+changes	
+.	
+The	
+LADIS	
+(	
+Leukoaraiosis	
+and	
+Disability	
+in	
+the	
+Elderly	
+)	
+Study	
+.	
+Cerebrovasc	
+Dis	
+21	
+:	
+315	
+??	
+322	
+[	
+PubMed	
+]	
+	
+3	
+.	
+Ringelstein	B-N
+EB	I-N
+","	
+Kleffner	B-N
+I	I-N
+","	
+Dittrich	B-N
+R	I-N
+","	
+Kuhlenbaeumer	B-N
+G	I-N
+","	
+Ritter	B-N
+MA	I-N
+(	
+2010	
+)	
+Hereditary	
+and	
+non-hereditary	
+microangiopathies	
+in	
+the	
+young	
+.	
+An	
+up-date	
+.	
+J	
+Neurol	
+Sci	
+299	
+:	
+81	
+??	
+85	
+[	
+PubMed	
+]	
+	
+4	
+.	
+Zarate	B-N
+YA	I-N
+","	
+Hopkins	B-N
+RJ	I-N
+(	
+2008	
+)	
+Fabry	
+??	
+s	
+disease	
+.	
+Lancet	
+372	
+:	
+1427	
+??	
+1435	
+[	
+PubMed	
+]	
+	
+5	
+.	
+Buechner	B-N
+S	I-N
+","	
+Moretti	B-N
+M	I-N
+","	
+Burlina	B-N
+AP	I-N
+","	
+Cei	B-N
+G	I-N
+","	
+Manara	B-N
+R	I-N
+","	
+et	
+al	
+.	
+(	
+2008	
+)	
+Central	
+nervous	
+system	
+involvement	
+in	
+Anderson-Fabry	
+disease	
+:	
+a	
+clinical	
+and	
+MRI	
+retrospective	
+study	
+.	
+J	
+Neurol	
+Neurosurg	
+Psychatry	
+79	
+:	
+1249	
+??	
+1254	
+[	
+PubMed	
+]	
+	
+6	
+.	
+Lin	B-N
+HY	I-N
+","	
+Chong	B-N
+KW	I-N
+","	
+Hsu	B-N
+JH	I-N
+","	
+Yu	B-N
+HC	I-N
+","	
+Shih	B-N
+CC	I-N
+","	
+et	
+al	
+.	
+(	
+2009	
+)	
+High	
+incidence	
+of	
+the	
+cardiac	
+variant	
+of	
+Fabry	
+disease	
+revealed	
+by	
+newborn	
+screening	
+in	
+the	
+Taiwan	
+Chinese	
+population	
+.	
+Circ	
+Cardiovasc	
+Genet	
+2	
+:	
+450	
+??	
+456	
+[	
+PubMed	
+]	
+	
+7	
+.	
+Eng	B-N
+CM	I-N
+","	
+Resnick-Silverman	B-N
+LA	I-N
+","	
+Niehaus	B-N
+DJ	I-N
+","	
+Astrin	B-N
+KH	I-N
+","	
+Desnick	B-N
+RJ	I-N
+(	
+1993	
+)	
+Nature	
+and	
+frequency	
+of	
+mutations	
+in	
+the	
+alpha-galactosidase	
+A	
+gene	
+that	
+cause	
+Fabry	
+disease	
+.	
+Am	
+J	
+Hum	
+Genet	
+53	
+:	
+1186	
+??	
+1197	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+8	
+.	
+Nakao	B-N
+S	I-N
+","	
+Takenaka	B-N
+T	I-N
+","	
+Maeda	B-N
+M	I-N
+","	
+Kodama	B-N
+C	I-N
+","	
+Tanaka	B-N
+A	I-N
+","	
+et	
+al	
+.	
+(	
+1995	
+)	
+An	
+atypical	
+variant	
+of	
+Fabry	
+??	
+s	
+disease	
+in	
+men	
+with	
+left	
+ventricular	
+hypertrophy	
+.	
+N	
+Eng	
+J	
+Med	
+333	
+:	
+288	
+??	
+293	
+[	
+PubMed	
+]	
+	
+9	
+.	
+Yasuda	B-N
+M	I-N
+","	
+Shabbeer	B-N
+J	I-N
+","	
+Benson	B-N
+SD	I-N
+","	
+Maire	B-N
+I	I-N
+","	
+Burnett	B-N
+RM	I-N
+","	
+et	
+al	
+.	
+(	
+2003	
+)	
+Fabry	
+Disease	
+:	
+Characterization	
+of	
+慣-Galactosidase	
+A	
+double	
+mutations	
+and	
+the	
+D313Y	
+plasma	
+enzyme	
+pseudodeficiency	
+allele	
+.	
+Human	
+Mutation	
+22	
+:	
+486	
+??	
+492	
+[	
+PubMed	
+]	
+	
+10	
+.	
+Froissart	B-N
+R	I-N
+","	
+Guffon	B-N
+N	I-N
+","	
+Vanier	B-N
+MT	I-N
+","	
+Desnick	B-N
+RJ	I-N
+","	
+Maire	B-N
+I	I-N
+(	
+2003	
+)	
+Fabry	
+disease	
+:	
+D313Y	
+is	
+an	
+alpha-Galactosidase	
+A	
+sequence	
+variant	
+that	
+causes	
+pseudodeficient	
+activity	
+in	
+plasma	
+.	
+Mol	
+Genet	
+Metab	
+80	
+:	
+307	
+??	
+314	
+[	
+PubMed	
+]	
+	
+11	
+.	
+Desnick	B-N
+RJ	I-N
+","	
+Allen	B-N
+KY	I-N
+","	
+Desnick	B-N
+SJ	I-N
+","	
+Raman	B-N
+MK	I-N
+","	
+Bernlohr	B-N
+RW	I-N
+","	
+et	
+al	
+.	
+(	
+1973	
+)	
+Fabry	
+??	
+s	
+disease	
+:	
+enzymatic	
+diagnosis	
+of	
+hemizygotes	
+and	
+heterozygotes	
+.	
+Lab	
+Clin	
+Med	
+81	
+:	
+157	
+??	
+171	
+[	
+PubMed	
+]	
+	
+12	
+.	
+Sachdev	B-N
+P	I-N
+","	
+Chen	B-N
+X	I-N
+","	
+Wen	B-N
+W	I-N
+(	
+2008	
+)	
+White	
+matter	
+hyperintensities	
+in	
+mid-adult	
+life	
+.	
+Curr	
+Opin	
+Psychiatry	
+21	
+:	
+268	
+??	
+274	
+[	
+PubMed	
+]	
+	
+13	
+.	
+De	B-N
+Groot	I-N
+JC	I-N
+","	
+de	B-N
+Leeuw	I-N
+FE	I-N
+","	
+Oudkerk	B-N
+M	I-N
+","	
+van	B-N
+Gijn	I-N
+J	I-N
+","	
+Hofman	B-N
+A	I-N
+","	
+et	
+al	
+.	
+(	
+2000a	
+)	
+Cerebral	
+white	
+matter	
+lesions	
+and	
+cognitive	
+function	
+:	
+the	
+Rotterdam	
+Scan	
+Study	
+.	
+Ann	
+Neurol	
+47	
+:	
+145	
+??	
+151	
+[	
+PubMed	
+]	
+	
+14	
+.	
+Enzinger	B-N
+C	I-N
+","	
+Fazekas	B-N
+F	I-N
+","	
+Ropele	B-N
+S	I-N
+","	
+Schmidt	B-N
+R	I-N
+(	
+2007	
+)	
+Progression	
+of	
+cerebral	
+white	
+matter	
+lesions-	
+Clinical	
+and	
+radiological	
+considerations	
+.	
+J	
+Neurol	
+Sci	
+257	
+:	
+5	
+??	
+10	
+[	
+PubMed	
+]	
+	
+15	
+.	
+Maxwell	
+H	
+","	
+Hanby	
+M	
+","	
+Parkes	
+LM	
+","	
+Gibson	
+LM	
+","	
+Cottinho	
+C	
+","	
+et	
+al	
+.	
+(	
+2012	
+)	
+Prevalence	
+and	
+subtypes	
+of	
+radiological	
+cerebrovascular	
+disease	
+in	
+late-onset	
+isolated	
+seizures	
+and	
+epilepsy	
+.	
+Clin	
+Neurol	
+Neurosurg	
+in	
+press	
+.	
+Clinical	
+Neurology	
+and	
+Neurosurgery	
+webside	
+.	
+Available	
+:	
+http	
+:	
+/	
+/	
+www	
+.	
+clineu-journal	
+.	
+com	
+/	
+article	
+/	
+S0303-8467	
+(	
+12	
+)	
+00367-8	
+Accessed	
+2012	
+Jul	
+30	
+.	
+[	
+PubMed	
+]	
+	
+16	
+.	
+De	B-N
+Groot	I-N
+JC	I-N
+","	
+de	B-N
+Leeuw	I-N
+FE	I-N
+","	
+Oudkerk	B-N
+M	I-N
+","	
+Hofman	B-N
+A	I-N
+","	
+Jolles	B-N
+J	I-N
+","	
+et	
+al	
+.	
+(	
+2000b	
+)	
+Cerebral	
+white	
+matter	
+lesions	
+and	
+depressive	
+symptoms	
+in	
+elderly	
+adults	
+.	
+Arch	
+Gen	
+Psychatry	
+57	
+:	
+1071	
+??	
+1076	
+[	
+PubMed	
+]	
+	
+17	
+.	
+Assareh	B-N
+A	I-N
+","	
+Mather	B-N
+KA	I-N
+","	
+Schofield	B-N
+PR	I-N
+","	
+Kwok	B-N
+JB	I-N
+","	
+Sachdev	B-N
+PS	I-N
+(	
+2011	
+)	
+The	
+genetics	
+of	
+white	
+matter	
+lesions	
+.	
+CNS	
+Neurosci	
+Ther	
+17	
+:	
+525	
+??	
+540	
+[	
+PubMed	
+]	
+	
+18	
+.	
+Schiffmann	B-N
+R	I-N
+","	
+van	B-N
+der	I-N
+Knaap	I-N
+MS	I-N
+(	
+2009	
+)	
+Invited	
+article	
+:	
+an	
+MRI-based	
+approach	
+to	
+the	
+diagnosis	
+of	
+white	
+matter	
+disorders	
+.	
+Neurology	
+72	
+:	
+750	
+??	
+759	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+19	
+.	
+Sims	B-N
+K	I-N
+","	
+Politei	B-N
+J	I-N
+","	
+Banikazemi	B-N
+M	I-N
+","	
+Lee	B-N
+P	I-N
+(	
+2009	
+)	
+Stroke	
+in	
+Fabry	
+disease	
+frequently	
+occurs	
+before	
+diagnosis	
+and	
+in	
+absence	
+of	
+other	
+clinical	
+events	
+:	
+Natural	
+history	
+data	
+from	
+the	
+Fabry	
+Registry	
+.	
+Stroke	
+40	
+:	
+788	
+??	
+794	
+[	
+PubMed	
+]	
+	
+20	
+.	
+Froissart	B-N
+R	I-N
+","	
+Piraud	B-N
+M	I-N
+","	
+Maire	B-N
+I	I-N
+(	
+2010	
+)	
+Contribution	
+of	
+genotyping	
+in	
+Fabry	
+??	
+s	
+disease	
+.	
+Rev	
+Med	
+Interne	
+31	
+:	
+275	
+??	
+278	
+[	
+PubMed	
+]	
+	
+21	
+.	
+Tolouian	B-N
+R	I-N
+","	
+Salameh	B-N
+H	I-N
+(	
+2010	
+)	
+Treat	
+the	
+patient	
+not	
+the	
+lab	
+value	
+.	
+NDTPlus	
+3	
+:	
+81	
+??	
+83	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+22	
+.	
+Monserrat	B-N
+L	I-N
+","	
+Gimeno-Blanes	B-N
+JR	I-N
+","	
+Marin	B-N
+F	I-N
+","	
+Hermida-Prieto	B-N
+M	I-N
+","	
+Garcia-Honrubia	B-N
+A	I-N
+","	
+et	
+al	
+.	
+(	
+2007	
+)	
+Prevalence	
+of	
+Fabry	
+Disease	
+in	
+a	
+cohort	
+of	
+508	
+unrelated	
+patients	
+with	
+hypertrophic	
+cardiomyopathy	
+.	
+JACC	
+50	
+:	
+2399	
+??	
+2403	
+[	
+PubMed	
+]	
+	
+23	
+.	
+Gaspar	B-N
+P	I-N
+","	
+Herrera	B-N
+J	I-N
+","	
+Rodrigues	B-N
+D	I-N
+","	
+Cerezo	B-N
+S	I-N
+","	
+Delgado	B-N
+R	I-N
+","	
+et	
+al	
+.	
+(	
+2010	
+)	
+Frequency	
+of	
+Fabry	
+disease	
+in	
+male	
+and	
+female	
+haemodialysis	
+patients	
+in	
+Spain	
+.	
+BMC	
+Medical	
+Genetics	
+11	
+:	
+19	
+.	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+24	
+.	
+Wozniak	B-N
+MA	I-N
+","	
+Kittner	B-N
+SJ	I-N
+","	
+Tuhrim	B-N
+S	I-N
+","	
+Cole	B-N
+JW	I-N
+","	
+Stern	B-N
+B	I-N
+","	
+et	
+al	
+.	
+(	
+2010	
+)	
+Frequency	
+of	
+unrecognized	
+Fabry	
+disease	
+among	
+young	
+European-American	
+and	
+African-American	
+men	
+with	
+first	
+ischemic	
+stroke	
+.	
+Stroke	
+41	
+:	
+78	
+??	
+81	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+25	
+.	
+Baptista	B-N
+MV	I-N
+","	
+Ferreira	B-N
+S	I-N
+","	
+Pinho-e-Melo	B-N
+T	I-N
+","	
+Carvalho	B-N
+M	I-N
+","	
+Cruz	B-N
+VT	I-N
+","	
+et	
+al	
+.	
+(	
+2010	
+)	
+Mutations	
+of	
+the	
+GLA	
+gene	
+in	
+young	
+patients	
+with	
+stroke	
+:	
+The	
+PORTYSTROKE	
+study-Screening	
+genetic	
+conditions	
+in	
+Portuguese	
+young	
+stroke	
+patients	
+.	
+Stroke	
+41	
+:	
+431	
+??	
+436	
+[	
+PubMed	
+]	
+	
+26	
+.	
+Spada	B-N
+M	I-N
+","	
+Pagliardini	B-N
+S	I-N
+","	
+Yasuda	B-N
+M	I-N
+","	
+Tukel	B-N
+T	I-N
+","	
+Thiagarajan	B-N
+G	I-N
+","	
+et	
+al	
+.	
+(	
+2006	
+)	
+High	
+incidence	
+of	
+later-onset	
+fabry	
+disease	
+revealed	
+by	
+newborn	
+screening	
+.	
+Am	
+J	
+Hum	
+Genet	
+79	
+:	
+31	
+??	
+40	
+[	
+PMC	
+free	
+article	
+]	
+[	
+PubMed	
+]	
+	
+27	
+.	
+Matsuzawa	B-N
+F	I-N
+","	
+Aikawa	B-N
+S	I-N
+","	
+Doi	B-N
+H	I-N
+","	
+Okumiya	B-N
+T	I-N
+","	
+Sakuraba	B-N
+H	I-N
+(	
+2005	
+)	
+Fabry	
+disease	
+:	
+correlation	
+between	
+structural	
+changes	
+in	
+alpha-galactosidase	
+","	
+and	
+clinical	
+and	
+biochemical	
+phenotypes	
+.	
+Am	
+J	
+Hum	
+Genet	
+117	
+:	
+317	
+??	
+328	
+[	
+PubMed	
+]	
+	
+28	
+.	
+Sugarawa	B-N
+K	I-N
+","	
+Ohno	B-N
+K	I-N
+","	
+Saito	B-N
+S	I-N
+","	
+Sakuraba	B-N
+H	I-N
+(	
+2008	
+)	
+Structurak	
+characterization	
+of	
+mutant	
+alpha-galactosidases	
+causing	
+Fabry	
+disease	
+.	
+Am	
+J	
+Hum	
+Genet	
+53	
+:	
+812	
+??	
+824	
+[	
+PubMed	
+]	
+	
+29	
+.	
+Tetaud	B-N
+C	I-N
+","	
+Falguieres	B-N
+T	I-N
+","	
+Carlier	B-N
+K	I-N
+","	
+Lecluse	B-N
+Y	I-N
+","	
+Garibal	B-N
+J	I-N
+","	
+et	
+al	
+.	
+(	
+2003	
+)	
+Two	
+distinct	
+Gb3	
+/	
+CD77	
+signaling	
+pathways	
+leading	
+to	
+apoptosis	
+are	
+triggered	
+by	
+anti-Gb3	
+/	
+CD77	
+mAb	
+and	
+Verotoxin-1	
+.	
+JBC	
+278	
+:	
+45200	
+??	
+45208	
+[	
+PubMed	
+]	
+	
+30	
+.	
+Hoffmann	B-N
+B	I-N
+(	
+2006	
+)	
+Effects	
+of	
+enzyme	
+replacement	
+therapy	
+on	
+pain	
+and	
+overall	
+quality	
+of	
+life	
+.	
+In	
+:	
+Mehta	
+A	
+","	
+Beck	
+M	
+","	
+Sunder-PlassmannG	
+","	
+editors	
+.	
+Fabry	
+Disease	
+:	
+Perspectives	
+from	
+5	
+years	
+of	
+FOS	
+.	
+Oxford	
+:	
+Oxford	
+PharmaGenesis	
+;	
+Chapter	
+40	
+.	
+Available	
+:	
+http	
+:	
+/	
+/	
+www	
+.	
+ncbi	
+.	
+nlm	
+.	
+nih	
+.	
+gov	
+/	
+books	
+/	
+NBK11580	
+/	
+[	
+PubMed	
+]	
+	
+31	
+.	
+Hoffmann	B-N
+B	I-N
+","	
+Beck	B-N
+M	I-N
+","	
+Sunder-Plassmann	B-N
+G	I-N
+","	
+Borsini	B-N
+W	I-N
+","	
+Ricci	B-N
+R	I-N
+","	
+et	
+al	
+.	
+(	
+2007	
+)	
+Nature	
+and	
+prevalence	
+of	
+pain	
+in	
+Fabry	
+disease	
+and	
+its	
+response	
+to	
+enzyme	
+replacement	
+therapy-	
+aretrospective	
+analysis	
+from	
+the	
+Fabry	
+Outcome	
+Survey	
+.	
+Clin	
+J	
+Pain	
+23	
+:	
+535	
+??	
+542	
+[	
+PubMed	
+]	
+	
+32	
+.	
+Mehta	B-N
+A	I-N
+","	
+Beck	B-N
+M	I-N
+","	
+Elliot	B-N
+P	I-N
+","	
+Giugliani	B-N
+R	I-N
+","	
+Linhart	B-N
+A	I-N
+","	
+et	
+al	
+.	
+(	
+2009	
+)	
+Enzyme	
+replacement	
+therapy	
+with	
+agalsidase	
+alfa	
+in	
+patients	
+with	
+Fabry	
+??	
+s	
+disease	
+:	
+an	
+analysis	
+of	
+registry	
+data	
+.	
+Lancet	
+374	
+:	
+1986	
+??	
+1996	
+[	
+PubMed	
+]	
