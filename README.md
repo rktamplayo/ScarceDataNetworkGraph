@@ -33,9 +33,9 @@ To create the graphs, you need to follow these steps:
 To cite the paper/code, please use this BibTex:
 
 ```
-@inproceedings{amplayo2016,
+@inproceedings{amplayo2016building,
 	Author = {Reinald Kim Amplayo and Min Song},
-	Booktitle = {COLING Workshop on Building and Evaluating Resources for Biomedical Text Mining},
+	Booktitle = {BioTxtM at COLING},
 	Location = {Osaka, Japan},
 	Year = {2016},
 	Title = {Building Content-driven Entity Networks for Scarce Scientific Literature using Content Information},
